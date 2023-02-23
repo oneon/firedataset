@@ -2,6 +2,9 @@ latitude,longitude,acq_date,acq_time,satellite,instrument,year,month,week,durati
 15.89582,78.07639,2023-02-15,8:43,N,VIIRS,2023,2,7,7d,Alampur,Jogulamba Gadwal,50
 15.89699,78.07697,2023-02-15,8:43,N,VIIRS,2023,2,7,7d,Alampur,Jogulamba Gadwal,50
 15.90028,78.04606,2023-02-16,8:24,N,VIIRS,2023,2,7,7d,Undavelly,Jogulamba Gadwal,50
+15.93327,77.98738,2023-02-22,7:20,1,VIIRS,2023,2,8,24h,Manopad,Jogulamba Gadwal,50
+15.93327,77.98738,2023-02-22,7:20,1,VIIRS,2023,2,8,48h,Manopad,Jogulamba Gadwal,50
+15.93327,77.98738,2023-02-22,7:20,1,VIIRS,2023,2,8,7d,Manopad,Jogulamba Gadwal,50
 15.94491,77.92814,2023-02-15,20:25,1,VIIRS,2023,2,7,7d,Manopad,Jogulamba Gadwal,50
 15.94671,77.73733,2023-02-19,7:28,N,VIIRS,2023,2,7,7d,Rajoli,Jogulamba Gadwal,50
 15.97074,77.93967,2023-02-16,20:04,1,VIIRS,2023,2,7,7d,Manopad,Jogulamba Gadwal,50
@@ -352,9 +355,15 @@ latitude,longitude,acq_date,acq_time,satellite,instrument,year,month,week,durati
 16.15883,78.79588,2023-02-21,8:32,N,VIIRS,2023,2,8,7d,Amrabad,Nagarkurnool,50
 16.15965,78.53582,2023-02-17,20:38,N,VIIRS,2023,2,7,7d,Kollapur,Nagarkurnool,50
 16.1609,78.51672,2023-02-17,8:05,N,VIIRS,2023,2,7,7d,Kollapur,Nagarkurnool,50
+16.16169,78.55663,2023-02-22,8:11,N,VIIRS,2023,2,8,24h,Kollapur,Nagarkurnool,50
+16.16169,78.55663,2023-02-22,8:11,N,VIIRS,2023,2,8,48h,Kollapur,Nagarkurnool,50
+16.16169,78.55663,2023-02-22,8:11,N,VIIRS,2023,2,8,7d,Kollapur,Nagarkurnool,50
 16.16356,78.53471,2023-02-17,8:05,N,VIIRS,2023,2,7,7d,Kollapur,Nagarkurnool,50
 16.16423,78.51618,2023-02-17,8:05,N,VIIRS,2023,2,7,7d,Kollapur,Nagarkurnool,50
 16.16447,78.51017,2023-02-17,7:13,1,VIIRS,2023,2,7,7d,Kollapur,Nagarkurnool,50
+16.16472,78.56535,2023-02-22,19:53,1,VIIRS,2023,2,8,24h,Kollapur,Nagarkurnool,50
+16.16472,78.56535,2023-02-22,19:53,1,VIIRS,2023,2,8,48h,Kollapur,Nagarkurnool,50
+16.16472,78.56535,2023-02-22,19:53,1,VIIRS,2023,2,8,7d,Kollapur,Nagarkurnool,50
 16.16517,78.63231,2023-02-15,8:43,N,VIIRS,2023,2,7,7d,Amrabad,Nagarkurnool,50
 16.16594,78.63318,2023-02-15,7:52,1,VIIRS,2023,2,7,7d,Amrabad,Nagarkurnool,50
 16.16634,78.62856,2023-02-15,20:25,1,VIIRS,2023,2,7,7d,Amrabad,Nagarkurnool,50
@@ -363,9 +372,18 @@ latitude,longitude,acq_date,acq_time,satellite,instrument,year,month,week,durati
 16.16683,78.80416,2023-02-17,8:05,N,VIIRS,2023,2,7,7d,Amrabad,Nagarkurnool,50
 16.16894,78.79737,2023-02-17,7:13,1,VIIRS,2023,2,7,7d,Amrabad,Nagarkurnool,50
 16.16978,78.80126,2023-02-17,7:13,1,VIIRS,2023,2,7,7d,Amrabad,Nagarkurnool,50
+16.17145,78.55782,2023-02-22,20:44,N,VIIRS,2023,2,8,24h,Kollapur,Nagarkurnool,50
+16.17145,78.55782,2023-02-22,20:44,N,VIIRS,2023,2,8,48h,Kollapur,Nagarkurnool,50
+16.17145,78.55782,2023-02-22,20:44,N,VIIRS,2023,2,8,7d,Kollapur,Nagarkurnool,50
 16.17264,78.52637,2023-02-15,20:25,1,VIIRS,2023,2,7,7d,Kollapur,Nagarkurnool,50
 16.17299,78.53206,2023-02-16,7:33,1,VIIRS,2023,2,7,7d,Kollapur,Nagarkurnool,50
 16.17594,78.52693,2023-02-15,20:25,1,VIIRS,2023,2,7,7d,Kollapur,Nagarkurnool,50
+16.1766,78.87598,2023-02-22,20:44,N,VIIRS,2023,2,8,24h,Amrabad,Nagarkurnool,50
+16.1766,78.87598,2023-02-22,20:44,N,VIIRS,2023,2,8,48h,Amrabad,Nagarkurnool,50
+16.1766,78.87598,2023-02-22,20:44,N,VIIRS,2023,2,8,7d,Amrabad,Nagarkurnool,50
+16.17768,78.87081,2023-02-22,19:53,1,VIIRS,2023,2,8,24h,Amrabad,Nagarkurnool,50
+16.17768,78.87081,2023-02-22,19:53,1,VIIRS,2023,2,8,48h,Amrabad,Nagarkurnool,50
+16.17768,78.87081,2023-02-22,19:53,1,VIIRS,2023,2,8,7d,Amrabad,Nagarkurnool,50
 16.18204,77.68118,2023-02-21,7:39,1,VIIRS,2023,2,8,24h,Maldakal,Jogulamba Gadwal,50
 16.18204,77.68118,2023-02-21,7:39,1,VIIRS,2023,2,8,48h,Maldakal,Jogulamba Gadwal,50
 16.18204,77.68118,2023-02-21,7:39,1,VIIRS,2023,2,8,7d,Maldakal,Jogulamba Gadwal,50
@@ -381,7 +399,13 @@ latitude,longitude,acq_date,acq_time,satellite,instrument,year,month,week,durati
 16.20864,78.89757,2023-02-16,20:55,N,VIIRS,2023,2,7,7d,Amrabad,Nagarkurnool,50
 16.20932,78.89417,2023-02-16,20:55,N,VIIRS,2023,2,7,7d,Amrabad,Nagarkurnool,50
 16.20945,78.87244,2023-02-16,8:24,N,VIIRS,2023,2,7,7d,Amrabad,Nagarkurnool,50
+16.21025,78.93346,2023-02-22,20:44,N,VIIRS,2023,2,8,24h,Amrabad,Nagarkurnool,50
+16.21025,78.93346,2023-02-22,20:44,N,VIIRS,2023,2,8,48h,Amrabad,Nagarkurnool,50
+16.21025,78.93346,2023-02-22,20:44,N,VIIRS,2023,2,8,7d,Amrabad,Nagarkurnool,50
 16.21214,78.87127,2023-02-16,7:33,1,VIIRS,2023,2,7,7d,Amrabad,Nagarkurnool,50
+16.2129,78.93304,2023-02-22,19:53,1,VIIRS,2023,2,8,24h,Amrabad,Nagarkurnool,50
+16.2129,78.93304,2023-02-22,19:53,1,VIIRS,2023,2,8,48h,Amrabad,Nagarkurnool,50
+16.2129,78.93304,2023-02-22,19:53,1,VIIRS,2023,2,8,7d,Amrabad,Nagarkurnool,50
 16.21397,78.88152,2023-02-15,20:25,1,VIIRS,2023,2,7,7d,Amrabad,Nagarkurnool,50
 16.21429,78.46675,2023-02-16,8:11,A,MODIS,2023,2,7,7d,Kollapur,Nagarkurnool,80
 16.21573,78.86602,2023-02-16,7:33,1,VIIRS,2023,2,7,7d,Amrabad,Nagarkurnool,50
@@ -419,6 +443,9 @@ latitude,longitude,acq_date,acq_time,satellite,instrument,year,month,week,durati
 16.2254,78.89007,2023-02-17,20:38,N,VIIRS,2023,2,7,7d,Amrabad,Nagarkurnool,50
 16.22561,78.90024,2023-02-18,8:37,1,VIIRS,2023,2,7,7d,Amrabad,Nagarkurnool,50
 16.22688,78.88663,2023-02-17,8:54,1,VIIRS,2023,2,7,7d,Amrabad,Nagarkurnool,50
+16.22807,78.9269,2023-02-22,8:11,N,VIIRS,2023,2,8,24h,Amrabad,Nagarkurnool,50
+16.22807,78.9269,2023-02-22,8:11,N,VIIRS,2023,2,8,48h,Amrabad,Nagarkurnool,50
+16.22807,78.9269,2023-02-22,8:11,N,VIIRS,2023,2,8,7d,Amrabad,Nagarkurnool,50
 16.22851,78.88432,2023-02-17,8:05,N,VIIRS,2023,2,7,7d,Amrabad,Nagarkurnool,50
 16.22876,78.87376,2023-02-17,7:13,1,VIIRS,2023,2,7,7d,Amrabad,Nagarkurnool,50
 16.23083,78.89907,2023-02-18,8:37,1,VIIRS,2023,2,7,7d,Amrabad,Nagarkurnool,50
@@ -443,12 +470,18 @@ latitude,longitude,acq_date,acq_time,satellite,instrument,year,month,week,durati
 16.35216,77.94392,2023-02-16,7:33,1,VIIRS,2023,2,7,7d,Kothakota,Wanaparthy,50
 16.35291,77.94065,2023-02-16,8:26,N,VIIRS,2023,2,7,7d,Kothakota,Wanaparthy,50
 16.36684,78.87505,2023-02-15,7:52,1,VIIRS,2023,2,7,7d,Amrabad,Nagarkurnool,50
+16.36875,78.02413,2023-02-22,7:20,1,VIIRS,2023,2,8,24h,Wanaparthy,Wanaparthy,50
+16.36875,78.02413,2023-02-22,7:20,1,VIIRS,2023,2,8,48h,Wanaparthy,Wanaparthy,50
+16.36875,78.02413,2023-02-22,7:20,1,VIIRS,2023,2,8,7d,Wanaparthy,Wanaparthy,50
 16.38268,77.62421,2023-02-20,8:49,N,VIIRS,2023,2,8,48h,Makthal,Narayanpet,50
 16.38268,77.62421,2023-02-20,8:49,N,VIIRS,2023,2,8,7d,Makthal,Narayanpet,50
 16.38453,77.62383,2023-02-20,8:49,N,VIIRS,2023,2,8,48h,Makthal,Narayanpet,50
 16.38453,77.62383,2023-02-20,8:49,N,VIIRS,2023,2,8,7d,Makthal,Narayanpet,50
 16.3984,78.09146,2023-02-18,7:48,N,VIIRS,2023,2,7,7d,Gopalpet,Wanaparthy,50
 16.39963,77.73746,2023-02-18,8:37,1,VIIRS,2023,2,7,7d,Amarchintha,Wanaparthy,50
+16.4072,77.66643,2023-02-22,8:11,N,VIIRS,2023,2,8,24h,Narva,Narayanpet,50
+16.4072,77.66643,2023-02-22,8:11,N,VIIRS,2023,2,8,48h,Narva,Narayanpet,50
+16.4072,77.66643,2023-02-22,8:11,N,VIIRS,2023,2,8,7d,Narva,Narayanpet,50
 16.42399,78.25617,2023-02-15,7:52,1,VIIRS,2023,2,7,7d,Nagar_Kurnool,Nagarkurnool,50
 16.42991,77.85558,2023-02-19,8:15,1,VIIRS,2023,2,7,7d,Madanapur,Wanaparthy,50
 16.43092,78.0694,2023-02-15,5:18,T,MODIS,2023,2,7,7d,Peddamandaddi,Wanaparthy,51
@@ -465,9 +498,15 @@ latitude,longitude,acq_date,acq_time,satellite,instrument,year,month,week,durati
 16.50341,78.07957,2023-02-21,7:39,1,VIIRS,2023,2,8,24h,Peddamandaddi,Wanaparthy,50
 16.50341,78.07957,2023-02-21,7:39,1,VIIRS,2023,2,8,48h,Peddamandaddi,Wanaparthy,50
 16.50341,78.07957,2023-02-21,7:39,1,VIIRS,2023,2,8,7d,Peddamandaddi,Wanaparthy,50
+16.50439,78.10694,2023-02-22,20:44,N,VIIRS,2023,2,8,24h,Bijinapalle,Nagarkurnool,50
+16.50439,78.10694,2023-02-22,20:44,N,VIIRS,2023,2,8,48h,Bijinapalle,Nagarkurnool,50
+16.50439,78.10694,2023-02-22,20:44,N,VIIRS,2023,2,8,7d,Bijinapalle,Nagarkurnool,50
 16.51515,77.81367,2023-02-21,21:01,N,VIIRS,2023,2,8,24h,Koukuntla,Mahabubnagar,50
 16.51515,77.81367,2023-02-21,21:01,N,VIIRS,2023,2,8,48h,Koukuntla,Mahabubnagar,50
 16.51515,77.81367,2023-02-21,21:01,N,VIIRS,2023,2,8,7d,Koukuntla,Mahabubnagar,50
+16.53133,77.46265,2023-02-22,8:11,N,VIIRS,2023,2,8,24h,Maganoor,Narayanpet,50
+16.53133,77.46265,2023-02-22,8:11,N,VIIRS,2023,2,8,48h,Maganoor,Narayanpet,50
+16.53133,77.46265,2023-02-22,8:11,N,VIIRS,2023,2,8,7d,Maganoor,Narayanpet,50
 16.548,78.17337,2023-02-16,8:26,N,VIIRS,2023,2,7,7d,Bijinapalle,Nagarkurnool,50
 16.5565,78.18936,2023-02-18,20:21,N,VIIRS,2023,2,7,7d,Bijinapalle,Nagarkurnool,50
 16.56907,77.74935,2023-02-17,20:38,N,VIIRS,2023,2,7,7d,Marikal,Narayanpet,50
@@ -488,6 +527,12 @@ latitude,longitude,acq_date,acq_time,satellite,instrument,year,month,week,durati
 16.72012,79.97677,2023-02-20,7:58,1,VIIRS,2023,2,8,7d,Chinthala palem,Suryapet,50
 16.73066,78.26264,2023-02-18,20:18,N,VIIRS,2023,2,7,7d,Midjil,Mahabubnagar,50
 16.73518,77.96947,2023-02-16,8:13,A,MODIS,2023,2,7,7d,Mahabubnagar_Urban,Mahabubnagar,68
+16.73669,77.68085,2023-02-22,8:11,N,VIIRS,2023,2,8,24h,Dhanwada,Narayanpet,50
+16.73669,77.68085,2023-02-22,8:11,N,VIIRS,2023,2,8,48h,Dhanwada,Narayanpet,50
+16.73669,77.68085,2023-02-22,8:11,N,VIIRS,2023,2,8,7d,Dhanwada,Narayanpet,50
+16.73703,77.68085,2023-02-22,8:11,N,VIIRS,2023,2,8,24h,Dhanwada,Narayanpet,50
+16.73703,77.68085,2023-02-22,8:11,N,VIIRS,2023,2,8,48h,Dhanwada,Narayanpet,50
+16.73703,77.68085,2023-02-22,8:11,N,VIIRS,2023,2,8,7d,Dhanwada,Narayanpet,50
 16.74151,77.98943,2023-02-17,5:03,T,MODIS,2023,2,7,7d,Mahabubnagar_Urban,Mahabubnagar,65
 16.74608,78.34122,2023-02-19,8:15,1,VIIRS,2023,2,7,7d,Midjil,Mahabubnagar,50
 16.74634,78.20427,2023-02-19,7:28,N,VIIRS,2023,2,7,7d,Jadcherla,Mahabubnagar,50
@@ -532,6 +577,9 @@ latitude,longitude,acq_date,acq_time,satellite,instrument,year,month,week,durati
 16.855,78.08553,2023-02-16,8:13,A,MODIS,2023,2,7,7d,Nawabpet,Mahabubnagar,83
 16.85665,78.09605,2023-02-16,8:13,A,MODIS,2023,2,7,7d,Nawabpet,Mahabubnagar,86
 16.85793,78.10333,2023-02-15,5:18,T,MODIS,2023,2,7,7d,Nawabpet,Mahabubnagar,60
+16.86437,77.93611,2023-02-22,8:11,N,VIIRS,2023,2,8,24h,Mohammadabad,Mahabubnagar,50
+16.86437,77.93611,2023-02-22,8:11,N,VIIRS,2023,2,8,48h,Mohammadabad,Mahabubnagar,50
+16.86437,77.93611,2023-02-22,8:11,N,VIIRS,2023,2,8,7d,Mohammadabad,Mahabubnagar,50
 16.87086,80.43295,2023-02-21,8:32,N,VIIRS,2023,2,8,24h,Yerrupalem,Khammam,50
 16.87086,80.43295,2023-02-21,8:32,N,VIIRS,2023,2,8,48h,Yerrupalem,Khammam,50
 16.87086,80.43295,2023-02-21,8:32,N,VIIRS,2023,2,8,7d,Yerrupalem,Khammam,50
@@ -548,6 +596,9 @@ latitude,longitude,acq_date,acq_time,satellite,instrument,year,month,week,durati
 16.91781,80.43156,2023-02-21,20:10,1,VIIRS,2023,2,8,24h,Madhira,Khammam,50
 16.91781,80.43156,2023-02-21,20:10,1,VIIRS,2023,2,8,48h,Madhira,Khammam,50
 16.91781,80.43156,2023-02-21,20:10,1,VIIRS,2023,2,8,7d,Madhira,Khammam,50
+16.92292,79.89877,2023-02-22,8:11,N,VIIRS,2023,2,8,24h,Chilkur,Suryapet,50
+16.92292,79.89877,2023-02-22,8:11,N,VIIRS,2023,2,8,48h,Chilkur,Suryapet,50
+16.92292,79.89877,2023-02-22,8:11,N,VIIRS,2023,2,8,7d,Chilkur,Suryapet,50
 16.9277,80.36196,2023-02-16,7:33,1,VIIRS,2023,2,7,7d,Madhira,Khammam,50
 16.93112,79.16584,2023-02-17,8:05,N,VIIRS,2023,2,7,7d,Gurrampode,Nalgonda,50
 16.95509,78.51949,2023-02-21,7:39,1,VIIRS,2023,2,8,24h,Kadthal,Rangareddy,50
@@ -562,6 +613,15 @@ latitude,longitude,acq_date,acq_time,satellite,instrument,year,month,week,durati
 17.01977,78.75555,2023-02-21,7:39,1,VIIRS,2023,2,8,7d,Yacharam,Rangareddy,50
 17.02367,78.11079,2023-02-19,7:28,N,VIIRS,2023,2,7,7d,Farooqnagar,Rangareddy,50
 17.03539,78.43147,2023-02-19,7:28,N,VIIRS,2023,2,7,7d,Kandukur,Rangareddy,50
+17.04172,78.04426,2023-02-22,7:20,1,VIIRS,2023,2,8,24h,Kondurg,Rangareddy,50
+17.04172,78.04426,2023-02-22,7:20,1,VIIRS,2023,2,8,48h,Kondurg,Rangareddy,50
+17.04172,78.04426,2023-02-22,7:20,1,VIIRS,2023,2,8,7d,Kondurg,Rangareddy,50
+17.04197,78.55335,2023-02-22,8:11,N,VIIRS,2023,2,8,24h,Kandukur,Rangareddy,50
+17.04197,78.55335,2023-02-22,8:11,N,VIIRS,2023,2,8,48h,Kandukur,Rangareddy,50
+17.04197,78.55335,2023-02-22,8:11,N,VIIRS,2023,2,8,7d,Kandukur,Rangareddy,50
+17.04492,78.54869,2023-02-22,8:11,N,VIIRS,2023,2,8,24h,Kandukur,Rangareddy,100
+17.04492,78.54869,2023-02-22,8:11,N,VIIRS,2023,2,8,48h,Kandukur,Rangareddy,100
+17.04492,78.54869,2023-02-22,8:11,N,VIIRS,2023,2,8,7d,Kandukur,Rangareddy,100
 17.05793,78.6739,2023-02-16,8:13,A,MODIS,2023,2,7,7d,Yacharam,Rangareddy,67
 17.06126,78.67739,2023-02-16,7:35,1,VIIRS,2023,2,7,7d,Yacharam,Rangareddy,50
 17.06148,78.67686,2023-02-16,8:26,N,VIIRS,2023,2,7,7d,Yacharam,Rangareddy,50
@@ -595,6 +655,9 @@ latitude,longitude,acq_date,acq_time,satellite,instrument,year,month,week,durati
 17.08238,78.09251,2023-02-17,19:46,1,VIIRS,2023,2,7,7d,Kondurg,Rangareddy,50
 17.09109,78.94275,2023-02-19,8:15,1,VIIRS,2023,2,7,7d,Gattuppal,Nalgonda,50
 17.09252,78.94135,2023-02-19,7:28,N,VIIRS,2023,2,7,7d,Gattuppal,Nalgonda,50
+17.0989,78.97248,2023-02-22,7:20,1,VIIRS,2023,2,8,24h,Gattuppal,Nalgonda,50
+17.0989,78.97248,2023-02-22,7:20,1,VIIRS,2023,2,8,48h,Gattuppal,Nalgonda,50
+17.0989,78.97248,2023-02-22,7:20,1,VIIRS,2023,2,8,7d,Gattuppal,Nalgonda,50
 17.10055,78.93854,2023-02-17,8:05,N,VIIRS,2023,2,7,7d,Gattuppal,Nalgonda,50
 17.10466,80.19644,2023-02-17,7:13,1,VIIRS,2023,2,7,7d,Chintakani,Khammam,50
 17.10961,80.87392,2023-02-18,7:48,N,VIIRS,2023,2,7,7d,Vemsoor,Khammam,50
@@ -620,8 +683,14 @@ latitude,longitude,acq_date,acq_time,satellite,instrument,year,month,week,durati
 17.13271,77.89423,2023-02-17,8:05,N,VIIRS,2023,2,7,7d,Pargi,Vikarabad,50
 17.13584,78.28264,2023-02-19,8:15,1,VIIRS,2023,2,7,7d,Kothur,Rangareddy,50
 17.13655,78.28253,2023-02-15,20:25,1,VIIRS,2023,2,7,7d,Kothur,Rangareddy,50
+17.13869,78.10145,2023-02-22,7:20,1,VIIRS,2023,2,8,24h,Shabad,Rangareddy,50
+17.13869,78.10145,2023-02-22,7:20,1,VIIRS,2023,2,8,48h,Shabad,Rangareddy,50
+17.13869,78.10145,2023-02-22,7:20,1,VIIRS,2023,2,8,7d,Shabad,Rangareddy,50
 17.14335,78.22366,2023-02-15,21:16,N,VIIRS,2023,2,7,7d,Nandigama,Rangareddy,50
 17.14456,77.9331,2023-02-19,8:15,1,VIIRS,2023,2,7,7d,Pargi,Vikarabad,50
+17.14556,78.22128,2023-02-22,19:53,1,VIIRS,2023,2,8,24h,Nandigama,Rangareddy,50
+17.14556,78.22128,2023-02-22,19:53,1,VIIRS,2023,2,8,48h,Nandigama,Rangareddy,50
+17.14556,78.22128,2023-02-22,19:53,1,VIIRS,2023,2,8,7d,Nandigama,Rangareddy,50
 17.14559,78.22536,2023-02-15,20:25,1,VIIRS,2023,2,7,7d,Nandigama,Rangareddy,50
 17.14758,78.21977,2023-02-15,19:34,N,VIIRS,2023,2,7,7d,Nandigama,Rangareddy,50
 17.14767,78.22451,2023-02-15,19:34,N,VIIRS,2023,2,7,7d,Nandigama,Rangareddy,50
@@ -653,6 +722,9 @@ latitude,longitude,acq_date,acq_time,satellite,instrument,year,month,week,durati
 17.1718,77.70369,2023-02-21,7:39,1,VIIRS,2023,2,8,7d,Bommaraspeta,Vikarabad,50
 17.17308,80.35345,2023-02-18,20:18,N,VIIRS,2023,2,7,7d,Wyra,Khammam,50
 17.17337,78.18137,2023-02-15,8:43,N,VIIRS,2023,2,7,7d,Shabad,Rangareddy,50
+17.17351,79.96633,2023-02-22,8:11,N,VIIRS,2023,2,8,24h,Kusumanchi,Khammam,50
+17.17351,79.96633,2023-02-22,8:11,N,VIIRS,2023,2,8,48h,Kusumanchi,Khammam,50
+17.17351,79.96633,2023-02-22,8:11,N,VIIRS,2023,2,8,7d,Kusumanchi,Khammam,50
 17.17394,78.18034,2023-02-15,7:52,1,VIIRS,2023,2,7,7d,Shabad,Rangareddy,50
 17.17561,78.80714,2023-02-17,8:05,N,VIIRS,2023,2,7,7d,Narayanapoor,Yadadri Bhuvanagiri,50
 17.17604,78.18102,2023-02-15,8:43,N,VIIRS,2023,2,7,7d,Shabad,Rangareddy,50
@@ -662,25 +734,43 @@ latitude,longitude,acq_date,acq_time,satellite,instrument,year,month,week,durati
 17.17692,80.8003,2023-02-21,20:10,1,VIIRS,2023,2,8,7d,Sathupally,Khammam,50
 17.17928,80.8013,2023-02-20,20:29,1,VIIRS,2023,2,8,48h,Sathupally,Khammam,50
 17.17928,80.8013,2023-02-20,20:29,1,VIIRS,2023,2,8,7d,Sathupally,Khammam,50
+17.18014,80.80016,2023-02-22,20:44,N,VIIRS,2023,2,8,24h,Sathupally,Khammam,50
+17.18014,80.80016,2023-02-22,20:44,N,VIIRS,2023,2,8,48h,Sathupally,Khammam,50
+17.18014,80.80016,2023-02-22,20:44,N,VIIRS,2023,2,8,7d,Sathupally,Khammam,50
 17.18038,78.95793,2023-02-15,7:52,1,VIIRS,2023,2,7,7d,Narayanapoor,Yadadri Bhuvanagiri,50
 17.18301,77.91361,2023-02-16,8:26,N,VIIRS,2023,2,7,7d,Pargi,Vikarabad,50
 17.18347,77.9173,2023-02-16,8:26,N,VIIRS,2023,2,7,7d,Pargi,Vikarabad,50
 17.20211,78.95499,2023-02-16,20:55,N,VIIRS,2023,2,7,7d,Choutuppal,Yadadri Bhuvanagiri,50
+17.21091,79.17992,2023-02-22,8:11,N,VIIRS,2023,2,8,24h,Narketpally,Nalgonda,50
+17.21091,79.17992,2023-02-22,8:11,N,VIIRS,2023,2,8,48h,Narketpally,Nalgonda,50
+17.21091,79.17992,2023-02-22,8:11,N,VIIRS,2023,2,8,7d,Narketpally,Nalgonda,50
 17.2159,77.84564,2023-02-20,8:49,N,VIIRS,2023,2,8,48h,Pargi,Vikarabad,50
 17.2159,77.84564,2023-02-20,8:49,N,VIIRS,2023,2,8,7d,Pargi,Vikarabad,50
 17.21646,77.84476,2023-02-20,8:49,N,VIIRS,2023,2,8,48h,Pargi,Vikarabad,50
 17.21646,77.84476,2023-02-20,8:49,N,VIIRS,2023,2,8,7d,Pargi,Vikarabad,50
 17.21842,77.5237,2023-02-16,8:13,A,MODIS,2023,2,7,7d,Tandur,Vikarabad,84
+17.21902,79.02295,2023-02-22,20:44,N,VIIRS,2023,2,8,24h,Chityal,Nalgonda,50
+17.21902,79.02295,2023-02-22,20:44,N,VIIRS,2023,2,8,48h,Chityal,Nalgonda,50
+17.21902,79.02295,2023-02-22,20:44,N,VIIRS,2023,2,8,7d,Chityal,Nalgonda,50
 17.2202,77.53481,2023-02-16,8:13,A,MODIS,2023,2,7,7d,Tandur,Vikarabad,98
 17.22228,80.62151,2023-02-21,7:39,1,VIIRS,2023,2,8,24h,Penuballi,Khammam,50
 17.22228,80.62151,2023-02-21,7:39,1,VIIRS,2023,2,8,48h,Penuballi,Khammam,50
 17.22228,80.62151,2023-02-21,7:39,1,VIIRS,2023,2,8,7d,Penuballi,Khammam,50
+17.22232,80.67253,2023-02-22,19:53,1,VIIRS,2023,2,8,24h,Penuballi,Khammam,50
+17.22232,80.67253,2023-02-22,19:53,1,VIIRS,2023,2,8,48h,Penuballi,Khammam,50
+17.22232,80.67253,2023-02-22,19:53,1,VIIRS,2023,2,8,7d,Penuballi,Khammam,50
 17.22308,78.47981,2023-02-18,8:34,1,VIIRS,2023,2,7,7d,Maheswaram,Rangareddy,50
 17.22583,80.62087,2023-02-21,7:39,1,VIIRS,2023,2,8,24h,Penuballi,Khammam,50
 17.22583,80.62087,2023-02-21,7:39,1,VIIRS,2023,2,8,48h,Penuballi,Khammam,50
 17.22583,80.62087,2023-02-21,7:39,1,VIIRS,2023,2,8,7d,Penuballi,Khammam,50
 17.23091,78.59502,2023-02-15,7:52,1,VIIRS,2023,2,7,7d,Ibrahimpatnam,Rangareddy,50
 17.23237,77.74465,2023-02-19,7:28,N,VIIRS,2023,2,7,7d,Dharoor,Vikarabad,50
+17.23429,80.74397,2023-02-22,7:20,1,VIIRS,2023,2,8,24h,Penuballi,Khammam,50
+17.23429,80.74397,2023-02-22,7:20,1,VIIRS,2023,2,8,48h,Penuballi,Khammam,50
+17.23429,80.74397,2023-02-22,7:20,1,VIIRS,2023,2,8,7d,Penuballi,Khammam,50
+17.23859,80.74255,2023-02-22,8:11,N,VIIRS,2023,2,8,24h,Penuballi,Khammam,50
+17.23859,80.74255,2023-02-22,8:11,N,VIIRS,2023,2,8,48h,Penuballi,Khammam,50
+17.23859,80.74255,2023-02-22,8:11,N,VIIRS,2023,2,8,7d,Penuballi,Khammam,50
 17.24087,77.90205,2023-02-19,8:15,1,VIIRS,2023,2,7,7d,Vikarabad,Vikarabad,50
 17.24155,78.23872,2023-02-16,7:35,1,VIIRS,2023,2,7,7d,Shamshabad,Rangareddy,50
 17.25299,78.30913,2023-02-16,20:04,1,VIIRS,2023,2,7,7d,Shamshabad,Rangareddy,50
@@ -724,10 +814,22 @@ latitude,longitude,acq_date,acq_time,satellite,instrument,year,month,week,durati
 17.30247,78.26564,2023-02-16,7:35,1,VIIRS,2023,2,7,7d,Moinabad,Rangareddy,50
 17.30451,78.26588,2023-02-16,7:35,1,VIIRS,2023,2,7,7d,Moinabad,Rangareddy,50
 17.31001,77.47582,2023-02-15,20:25,1,VIIRS,2023,2,7,7d,Tandur,Vikarabad,50
+17.31097,81.11436,2023-02-22,8:11,N,VIIRS,2023,2,8,24h,Aswaraopeta,Bhadradri Kothagudem,50
+17.31097,81.11436,2023-02-22,8:11,N,VIIRS,2023,2,8,48h,Aswaraopeta,Bhadradri Kothagudem,50
+17.31097,81.11436,2023-02-22,8:11,N,VIIRS,2023,2,8,7d,Aswaraopeta,Bhadradri Kothagudem,50
+17.31169,81.11388,2023-02-22,8:11,N,VIIRS,2023,2,8,24h,Aswaraopeta,Bhadradri Kothagudem,50
+17.31169,81.11388,2023-02-22,8:11,N,VIIRS,2023,2,8,48h,Aswaraopeta,Bhadradri Kothagudem,50
+17.31169,81.11388,2023-02-22,8:11,N,VIIRS,2023,2,8,7d,Aswaraopeta,Bhadradri Kothagudem,50
 17.3122,77.9022,2023-02-19,7:28,N,VIIRS,2023,2,7,7d,Vikarabad,Vikarabad,100
 17.31324,78.81709,2023-02-18,8:34,1,VIIRS,2023,2,7,7d,B.Pochampally,Yadadri Bhuvanagiri,50
 17.31409,78.29102,2023-02-16,8:26,N,VIIRS,2023,2,7,7d,Moinabad,Rangareddy,50
 17.31496,77.5614,2023-02-15,7:52,1,VIIRS,2023,2,7,7d,Tandur,Vikarabad,50
+17.31504,81.11377,2023-02-22,8:11,N,VIIRS,2023,2,8,24h,Aswaraopeta,Bhadradri Kothagudem,50
+17.31504,81.11377,2023-02-22,8:11,N,VIIRS,2023,2,8,48h,Aswaraopeta,Bhadradri Kothagudem,50
+17.31504,81.11377,2023-02-22,8:11,N,VIIRS,2023,2,8,7d,Aswaraopeta,Bhadradri Kothagudem,50
+17.31936,78.19825,2023-02-22,8:11,N,VIIRS,2023,2,8,24h,Chevella,Rangareddy,50
+17.31936,78.19825,2023-02-22,8:11,N,VIIRS,2023,2,8,48h,Chevella,Rangareddy,50
+17.31936,78.19825,2023-02-22,8:11,N,VIIRS,2023,2,8,7d,Chevella,Rangareddy,50
 17.32028,80.78794,2023-02-15,8:43,N,VIIRS,2023,2,7,7d,Sathupally,Khammam,50
 17.32066,78.20979,2023-02-16,8:26,N,VIIRS,2023,2,7,7d,Chevella,Rangareddy,100
 17.3234,80.78712,2023-02-15,8:43,N,VIIRS,2023,2,7,7d,Sathupally,Khammam,50
@@ -741,7 +843,13 @@ latitude,longitude,acq_date,acq_time,satellite,instrument,year,month,week,durati
 17.32709,78.01413,2023-02-20,20:29,1,VIIRS,2023,2,8,7d,Chevella,Rangareddy,50
 17.32803,78.18443,2023-02-15,8:43,N,VIIRS,2023,2,7,7d,Chevella,Rangareddy,100
 17.3287,78.01788,2023-02-17,8:56,1,VIIRS,2023,2,7,7d,Chevella,Rangareddy,50
+17.32988,80.36786,2023-02-22,7:20,1,VIIRS,2023,2,8,24h,Enkoor,Khammam,50
+17.32988,80.36786,2023-02-22,7:20,1,VIIRS,2023,2,8,48h,Enkoor,Khammam,50
+17.32988,80.36786,2023-02-22,7:20,1,VIIRS,2023,2,8,7d,Enkoor,Khammam,50
 17.33092,77.57159,2023-02-15,7:52,1,VIIRS,2023,2,7,7d,Tandur,Vikarabad,50
+17.33274,77.88094,2023-02-22,8:11,N,VIIRS,2023,2,8,24h,Vikarabad,Vikarabad,50
+17.33274,77.88094,2023-02-22,8:11,N,VIIRS,2023,2,8,48h,Vikarabad,Vikarabad,50
+17.33274,77.88094,2023-02-22,8:11,N,VIIRS,2023,2,8,7d,Vikarabad,Vikarabad,50
 17.33286,77.48479,2023-02-15,21:16,N,VIIRS,2023,2,7,7d,Tandur,Vikarabad,50
 17.33322,78.31202,2023-02-17,8:05,N,VIIRS,2023,2,7,7d,Moinabad,Rangareddy,50
 17.33373,78.18393,2023-02-15,8:43,N,VIIRS,2023,2,7,7d,Chevella,Rangareddy,100
@@ -756,7 +864,16 @@ latitude,longitude,acq_date,acq_time,satellite,instrument,year,month,week,durati
 17.33697,80.85791,2023-02-21,8:32,N,VIIRS,2023,2,8,7d,Sathupally,Khammam,50
 17.33987,79.29719,2023-02-15,7:52,1,VIIRS,2023,2,7,7d,Narketpally,Nalgonda,50
 17.34172,77.64166,2023-02-17,8:05,N,VIIRS,2023,2,7,7d,Peddemul,Vikarabad,50
+17.34369,78.01376,2023-02-22,7:20,1,VIIRS,2023,2,8,24h,Chevella,Rangareddy,50
+17.34369,78.01376,2023-02-22,7:20,1,VIIRS,2023,2,8,48h,Chevella,Rangareddy,50
+17.34369,78.01376,2023-02-22,7:20,1,VIIRS,2023,2,8,7d,Chevella,Rangareddy,50
+17.3445,78.01764,2023-02-22,7:20,1,VIIRS,2023,2,8,24h,Chevella,Rangareddy,50
+17.3445,78.01764,2023-02-22,7:20,1,VIIRS,2023,2,8,48h,Chevella,Rangareddy,50
+17.3445,78.01764,2023-02-22,7:20,1,VIIRS,2023,2,8,7d,Chevella,Rangareddy,50
 17.3534,80.5803,2023-02-15,7:03,N,VIIRS,2023,2,7,7d,Chandrugonda,Bhadradri Kothagudem,50
+17.35402,78.18499,2023-02-22,8:11,N,VIIRS,2023,2,8,24h,Chevella,Rangareddy,50
+17.35402,78.18499,2023-02-22,8:11,N,VIIRS,2023,2,8,48h,Chevella,Rangareddy,50
+17.35402,78.18499,2023-02-22,8:11,N,VIIRS,2023,2,8,7d,Chevella,Rangareddy,50
 17.35545,78.55209,2023-02-21,7:39,1,VIIRS,2023,2,8,24h,Saroornagar,Rangareddy,50
 17.35545,78.55209,2023-02-21,7:39,1,VIIRS,2023,2,8,48h,Saroornagar,Rangareddy,50
 17.35545,78.55209,2023-02-21,7:39,1,VIIRS,2023,2,8,7d,Saroornagar,Rangareddy,50
@@ -765,6 +882,9 @@ latitude,longitude,acq_date,acq_time,satellite,instrument,year,month,week,durati
 17.35942,78.55128,2023-02-21,7:39,1,VIIRS,2023,2,8,48h,Saroornagar,Rangareddy,50
 17.35942,78.55128,2023-02-21,7:39,1,VIIRS,2023,2,8,7d,Saroornagar,Rangareddy,50
 17.36113,78.26289,2023-02-18,7:48,N,VIIRS,2023,2,7,7d,Moinabad,Rangareddy,50
+17.3632,77.69632,2023-02-22,20:44,N,VIIRS,2023,2,8,24h,Kotepally,Vikarabad,50
+17.3632,77.69632,2023-02-22,20:44,N,VIIRS,2023,2,8,48h,Kotepally,Vikarabad,50
+17.3632,77.69632,2023-02-22,20:44,N,VIIRS,2023,2,8,7d,Kotepally,Vikarabad,50
 17.36385,77.54465,2023-02-20,7:58,1,VIIRS,2023,2,8,48h,Tandur,Vikarabad,50
 17.36385,77.54465,2023-02-20,7:58,1,VIIRS,2023,2,8,7d,Tandur,Vikarabad,50
 17.3742,79.22615,2023-02-15,7:03,N,VIIRS,2023,2,7,7d,Mothkur,Yadadri Bhuvanagiri,50
@@ -808,7 +928,16 @@ latitude,longitude,acq_date,acq_time,satellite,instrument,year,month,week,durati
 17.41406,80.36894,2023-02-22,5:12,T,MODIS,2023,2,8,7d,Enkoor,Khammam,65
 17.41905,77.88808,2023-02-16,8:26,N,VIIRS,2023,2,7,7d,Vikarabad,Vikarabad,50
 17.42075,78.00678,2023-02-17,7:13,1,VIIRS,2023,2,7,7d,Nawabpet,Vikarabad,50
+17.42226,78.11795,2023-02-22,7:20,1,VIIRS,2023,2,8,24h,Shankarpalle,Rangareddy,50
+17.42226,78.11795,2023-02-22,7:20,1,VIIRS,2023,2,8,48h,Shankarpalle,Rangareddy,50
+17.42226,78.11795,2023-02-22,7:20,1,VIIRS,2023,2,8,7d,Shankarpalle,Rangareddy,50
+17.42305,78.12172,2023-02-22,7:20,1,VIIRS,2023,2,8,24h,Shankarpalle,Rangareddy,100
+17.42305,78.12172,2023-02-22,7:20,1,VIIRS,2023,2,8,48h,Shankarpalle,Rangareddy,100
+17.42305,78.12172,2023-02-22,7:20,1,VIIRS,2023,2,8,7d,Shankarpalle,Rangareddy,100
 17.42674,78.98586,2023-02-18,8:34,1,VIIRS,2023,2,7,7d,Valigonda,Yadadri Bhuvanagiri,50
+17.43718,78.11932,2023-02-22,8:11,N,VIIRS,2023,2,8,24h,Shankarpalle,Rangareddy,50
+17.43718,78.11932,2023-02-22,8:11,N,VIIRS,2023,2,8,48h,Shankarpalle,Rangareddy,50
+17.43718,78.11932,2023-02-22,8:11,N,VIIRS,2023,2,8,7d,Shankarpalle,Rangareddy,50
 17.43821,80.32413,2023-02-15,7:03,N,VIIRS,2023,2,7,7d,Kamepally,Khammam,50
 17.44304,77.96896,2023-02-21,7:39,1,VIIRS,2023,2,8,24h,Nawabpet,Vikarabad,100
 17.44304,77.96896,2023-02-21,7:39,1,VIIRS,2023,2,8,48h,Nawabpet,Vikarabad,100
@@ -820,8 +949,14 @@ latitude,longitude,acq_date,acq_time,satellite,instrument,year,month,week,durati
 17.45092,77.91896,2023-02-21,7:39,1,VIIRS,2023,2,8,24h,Nawabpet,Vikarabad,50
 17.45092,77.91896,2023-02-21,7:39,1,VIIRS,2023,2,8,48h,Nawabpet,Vikarabad,50
 17.45092,77.91896,2023-02-21,7:39,1,VIIRS,2023,2,8,7d,Nawabpet,Vikarabad,50
+17.45217,80.50986,2023-02-22,7:20,1,VIIRS,2023,2,8,24h,Julurupad,Bhadradri Kothagudem,50
+17.45217,80.50986,2023-02-22,7:20,1,VIIRS,2023,2,8,48h,Julurupad,Bhadradri Kothagudem,50
+17.45217,80.50986,2023-02-22,7:20,1,VIIRS,2023,2,8,7d,Julurupad,Bhadradri Kothagudem,50
 17.45307,81.05761,2023-02-16,8:13,A,MODIS,2023,2,7,7d,Aswaraopeta,Bhadradri Kothagudem,74
 17.45402,77.69672,2023-02-18,8:34,1,VIIRS,2023,2,7,7d,Bantwaram,Vikarabad,50
+17.45743,80.53654,2023-02-22,7:20,1,VIIRS,2023,2,8,24h,Julurupad,Bhadradri Kothagudem,50
+17.45743,80.53654,2023-02-22,7:20,1,VIIRS,2023,2,8,48h,Julurupad,Bhadradri Kothagudem,50
+17.45743,80.53654,2023-02-22,7:20,1,VIIRS,2023,2,8,7d,Julurupad,Bhadradri Kothagudem,50
 17.45793,77.98566,2023-02-17,8:56,1,VIIRS,2023,2,7,7d,Nawabpet,Vikarabad,50
 17.45896,77.69602,2023-02-18,8:34,1,VIIRS,2023,2,7,7d,Bantwaram,Vikarabad,50
 17.46023,77.98214,2023-02-17,7:13,1,VIIRS,2023,2,7,7d,Mominpet,Vikarabad,50
@@ -838,7 +973,13 @@ latitude,longitude,acq_date,acq_time,satellite,instrument,year,month,week,durati
 17.46442,80.65484,2023-02-21,20:10,1,VIIRS,2023,2,8,24h,Chunchupally,Bhadradri Kothagudem,50
 17.46442,80.65484,2023-02-21,20:10,1,VIIRS,2023,2,8,48h,Chunchupally,Bhadradri Kothagudem,50
 17.46442,80.65484,2023-02-21,20:10,1,VIIRS,2023,2,8,7d,Chunchupally,Bhadradri Kothagudem,50
+17.46446,80.65543,2023-02-22,19:53,1,VIIRS,2023,2,8,24h,Chunchupally,Bhadradri Kothagudem,50
+17.46446,80.65543,2023-02-22,19:53,1,VIIRS,2023,2,8,48h,Chunchupally,Bhadradri Kothagudem,50
+17.46446,80.65543,2023-02-22,19:53,1,VIIRS,2023,2,8,7d,Chunchupally,Bhadradri Kothagudem,50
 17.46524,80.65365,2023-02-16,20:04,1,VIIRS,2023,2,7,7d,Chunchupally,Bhadradri Kothagudem,50
+17.46545,80.65271,2023-02-22,19:53,1,VIIRS,2023,2,8,24h,Chunchupally,Bhadradri Kothagudem,50
+17.46545,80.65271,2023-02-22,19:53,1,VIIRS,2023,2,8,48h,Chunchupally,Bhadradri Kothagudem,50
+17.46545,80.65271,2023-02-22,19:53,1,VIIRS,2023,2,8,7d,Chunchupally,Bhadradri Kothagudem,50
 17.46708,79.93338,2023-02-17,5:01,T,MODIS,2023,2,7,7d,Chinnagudur,Mahabubabad,60
 17.46749,78.29041,2023-02-21,20:10,1,VIIRS,2023,2,8,24h,Ramachandrapuram,Sangareddy,50
 17.46749,78.29041,2023-02-21,20:10,1,VIIRS,2023,2,8,48h,Ramachandrapuram,Sangareddy,50
@@ -880,11 +1021,23 @@ latitude,longitude,acq_date,acq_time,satellite,instrument,year,month,week,durati
 17.49533,78.21759,2023-02-15,8:43,N,VIIRS,2023,2,7,7d,Patancheruvu,Sangareddy,50
 17.49658,78.21695,2023-02-15,8:43,N,VIIRS,2023,2,7,7d,Patancheruvu,Sangareddy,50
 17.49699,78.22103,2023-02-15,8:43,N,VIIRS,2023,2,7,7d,Patancheruvu,Sangareddy,50
+17.50046,77.73276,2023-02-22,8:11,N,VIIRS,2023,2,8,24h,Marpalle,Vikarabad,50
+17.50046,77.73276,2023-02-22,8:11,N,VIIRS,2023,2,8,48h,Marpalle,Vikarabad,50
+17.50046,77.73276,2023-02-22,8:11,N,VIIRS,2023,2,8,7d,Marpalle,Vikarabad,50
+17.50155,78.21311,2023-02-22,8:11,N,VIIRS,2023,2,8,24h,Patancheruvu,Sangareddy,50
+17.50155,78.21311,2023-02-22,8:11,N,VIIRS,2023,2,8,48h,Patancheruvu,Sangareddy,50
+17.50155,78.21311,2023-02-22,8:11,N,VIIRS,2023,2,8,7d,Patancheruvu,Sangareddy,50
 17.50198,78.63516,2023-02-16,8:26,N,VIIRS,2023,2,7,7d,Keesara,Medchal_Malkajgiri,50
 17.50293,78.63386,2023-02-16,7:35,1,VIIRS,2023,2,7,7d,Keesara,Medchal_Malkajgiri,50
 17.50342,77.89899,2023-02-21,8:32,N,VIIRS,2023,2,8,24h,Mominpet,Vikarabad,50
 17.50342,77.89899,2023-02-21,8:32,N,VIIRS,2023,2,8,48h,Mominpet,Vikarabad,50
 17.50342,77.89899,2023-02-21,8:32,N,VIIRS,2023,2,8,7d,Mominpet,Vikarabad,50
+17.50354,77.73701,2023-02-22,7:20,1,VIIRS,2023,2,8,24h,Marpalle,Vikarabad,50
+17.50354,77.73701,2023-02-22,7:20,1,VIIRS,2023,2,8,48h,Marpalle,Vikarabad,50
+17.50354,77.73701,2023-02-22,7:20,1,VIIRS,2023,2,8,7d,Marpalle,Vikarabad,50
+17.50656,77.7378,2023-02-22,7:20,1,VIIRS,2023,2,8,24h,Marpalle,Vikarabad,50
+17.50656,77.7378,2023-02-22,7:20,1,VIIRS,2023,2,8,48h,Marpalle,Vikarabad,50
+17.50656,77.7378,2023-02-22,7:20,1,VIIRS,2023,2,8,7d,Marpalle,Vikarabad,50
 17.50913,79.06081,2023-02-19,8:17,1,VIIRS,2023,2,7,7d,Motakondur,Yadadri Bhuvanagiri,50
 17.51016,77.75631,2023-02-17,5:01,T,MODIS,2023,2,7,7d,Marpalle,Vikarabad,70
 17.51138,78.67814,2023-02-16,7:35,1,VIIRS,2023,2,7,7d,Keesara,Medchal_Malkajgiri,50
@@ -940,10 +1093,16 @@ latitude,longitude,acq_date,acq_time,satellite,instrument,year,month,week,durati
 17.54931,78.25019,2023-02-18,7:48,N,VIIRS,2023,2,7,7d,Patancheruvu,Sangareddy,50
 17.54944,80.09232,2023-02-16,8:26,N,VIIRS,2023,2,7,7d,Bayyaram,Mahabubabad,50
 17.55045,80.08955,2023-02-16,8:26,N,VIIRS,2023,2,7,7d,Bayyaram,Mahabubabad,50
+17.55089,79.0611,2023-02-22,8:11,N,VIIRS,2023,2,8,24h,Motakondur,Yadadri Bhuvanagiri,50
+17.55089,79.0611,2023-02-22,8:11,N,VIIRS,2023,2,8,48h,Motakondur,Yadadri Bhuvanagiri,50
+17.55089,79.0611,2023-02-22,8:11,N,VIIRS,2023,2,8,7d,Motakondur,Yadadri Bhuvanagiri,50
 17.55102,78.34563,2023-02-16,20:55,N,VIIRS,2023,2,7,7d,Jinnaram,Sangareddy,50
 17.55119,78.34096,2023-02-16,20:55,N,VIIRS,2023,2,7,7d,Jinnaram,Sangareddy,50
 17.55209,78.34019,2023-02-16,20:55,N,VIIRS,2023,2,7,7d,Jinnaram,Sangareddy,50
 17.55329,78.24198,2023-02-16,20:04,1,VIIRS,2023,2,7,7d,Patancheruvu,Sangareddy,50
+17.55748,79.68254,2023-02-22,20:44,N,VIIRS,2023,2,8,24h,Thorrur,Mahabubabad,50
+17.55748,79.68254,2023-02-22,20:44,N,VIIRS,2023,2,8,48h,Thorrur,Mahabubabad,50
+17.55748,79.68254,2023-02-22,20:44,N,VIIRS,2023,2,8,7d,Thorrur,Mahabubabad,50
 17.55787,77.89384,2023-02-15,20:23,1,VIIRS,2023,2,7,7d,Mominpet,Vikarabad,50
 17.56045,78.14987,2023-02-18,7:48,N,VIIRS,2023,2,7,7d,Patancheruvu,Sangareddy,50
 17.56387,77.79313,2023-02-17,8:05,N,VIIRS,2023,2,7,7d,Marpalle,Vikarabad,50
@@ -972,9 +1131,15 @@ latitude,longitude,acq_date,acq_time,satellite,instrument,year,month,week,durati
 17.58135,77.81187,2023-02-15,5:18,T,MODIS,2023,2,7,7d,Marpalle,Vikarabad,64
 17.58154,80.89626,2023-02-20,7:58,1,VIIRS,2023,2,8,48h,Mulakalapally,Bhadradri Kothagudem,50
 17.58154,80.89626,2023-02-20,7:58,1,VIIRS,2023,2,8,7d,Mulakalapally,Bhadradri Kothagudem,50
+17.58169,78.36065,2023-02-22,7:20,1,VIIRS,2023,2,8,24h,Jinnaram,Sangareddy,50
+17.58169,78.36065,2023-02-22,7:20,1,VIIRS,2023,2,8,48h,Jinnaram,Sangareddy,50
+17.58169,78.36065,2023-02-22,7:20,1,VIIRS,2023,2,8,7d,Jinnaram,Sangareddy,50
 17.58231,77.8896,2023-02-16,8:13,A,MODIS,2023,2,7,7d,Sadasivpet,Sangareddy,73
 17.58269,80.89744,2023-02-20,7:09,N,VIIRS,2023,2,8,48h,Mulakalapally,Bhadradri Kothagudem,50
 17.58269,80.89744,2023-02-20,7:09,N,VIIRS,2023,2,8,7d,Mulakalapally,Bhadradri Kothagudem,50
+17.58273,78.35818,2023-02-22,8:11,N,VIIRS,2023,2,8,24h,Jinnaram,Sangareddy,50
+17.58273,78.35818,2023-02-22,8:11,N,VIIRS,2023,2,8,48h,Jinnaram,Sangareddy,50
+17.58273,78.35818,2023-02-22,8:11,N,VIIRS,2023,2,8,7d,Jinnaram,Sangareddy,50
 17.5838,80.89693,2023-02-20,7:09,N,VIIRS,2023,2,8,48h,Mulakalapally,Bhadradri Kothagudem,50
 17.5838,80.89693,2023-02-20,7:09,N,VIIRS,2023,2,8,7d,Mulakalapally,Bhadradri Kothagudem,50
 17.58603,80.31555,2023-02-15,5:18,T,MODIS,2023,2,7,7d,Yellandu,Bhadradri Kothagudem,74
@@ -1007,9 +1172,15 @@ latitude,longitude,acq_date,acq_time,satellite,instrument,year,month,week,durati
 17.62658,77.6275,2023-02-15,8:43,N,VIIRS,2023,2,7,7d,Zahirabad,Sangareddy,50
 17.62664,80.82845,2023-02-15,7:52,1,VIIRS,2023,2,7,7d,Burgampadu,Bhadradri Kothagudem,50
 17.62701,80.77191,2023-02-19,7:28,N,VIIRS,2023,2,7,7d,Burgampadu,Bhadradri Kothagudem,50
+17.62805,78.00681,2023-02-22,7:20,1,VIIRS,2023,2,8,24h,Sadasivpet,Sangareddy,100
+17.62805,78.00681,2023-02-22,7:20,1,VIIRS,2023,2,8,48h,Sadasivpet,Sangareddy,100
+17.62805,78.00681,2023-02-22,7:20,1,VIIRS,2023,2,8,7d,Sadasivpet,Sangareddy,100
 17.62808,80.82884,2023-02-15,8:43,N,VIIRS,2023,2,7,7d,Burgampadu,Bhadradri Kothagudem,50
 17.63013,80.82336,2023-02-16,7:35,1,VIIRS,2023,2,7,7d,Burgampadu,Bhadradri Kothagudem,50
 17.63611,80.33203,2023-02-16,8:13,A,MODIS,2023,2,7,7d,Yellandu,Bhadradri Kothagudem,70
+17.63661,78.57106,2023-02-22,7:20,1,VIIRS,2023,2,8,24h,Shamirpet,Medchal_Malkajgiri,50
+17.63661,78.57106,2023-02-22,7:20,1,VIIRS,2023,2,8,48h,Shamirpet,Medchal_Malkajgiri,50
+17.63661,78.57106,2023-02-22,7:20,1,VIIRS,2023,2,8,7d,Shamirpet,Medchal_Malkajgiri,50
 17.63699,78.05297,2023-02-16,8:26,N,VIIRS,2023,2,7,7d,Sangareddy,Sangareddy,50
 17.63735,80.52698,2023-02-19,8:17,1,VIIRS,2023,2,7,7d,Tekulapalle,Bhadradri Kothagudem,50
 17.63755,77.79799,2023-02-15,7:52,1,VIIRS,2023,2,7,7d,Munipally,Sangareddy,50
@@ -1017,6 +1188,9 @@ latitude,longitude,acq_date,acq_time,satellite,instrument,year,month,week,durati
 17.63982,80.34242,2023-02-21,8:32,N,VIIRS,2023,2,8,48h,Yellandu,Bhadradri Kothagudem,50
 17.63982,80.34242,2023-02-21,8:32,N,VIIRS,2023,2,8,7d,Yellandu,Bhadradri Kothagudem,50
 17.64006,78.13735,2023-02-16,8:13,A,MODIS,2023,2,7,7d,Sangareddy,Sangareddy,71
+17.64038,78.56934,2023-02-22,8:11,N,VIIRS,2023,2,8,24h,Shamirpet,Medchal_Malkajgiri,50
+17.64038,78.56934,2023-02-22,8:11,N,VIIRS,2023,2,8,48h,Shamirpet,Medchal_Malkajgiri,50
+17.64038,78.56934,2023-02-22,8:11,N,VIIRS,2023,2,8,7d,Shamirpet,Medchal_Malkajgiri,50
 17.64158,78.94696,2023-02-15,7:52,1,VIIRS,2023,2,7,7d,Yadagirigutta,Yadadri Bhuvanagiri,50
 17.64167,77.49995,2023-02-21,8:32,N,VIIRS,2023,2,8,24h,Mogudampally,Sangareddy,50
 17.64167,77.49995,2023-02-21,8:32,N,VIIRS,2023,2,8,48h,Mogudampally,Sangareddy,50
@@ -1030,9 +1204,15 @@ latitude,longitude,acq_date,acq_time,satellite,instrument,year,month,week,durati
 17.6462,78.60362,2023-02-15,8:43,N,VIIRS,2023,2,7,7d,Shamirpet,Medchal_Malkajgiri,50
 17.64725,80.42093,2023-02-17,7:13,1,VIIRS,2023,2,7,7d,Tekulapalle,Bhadradri Kothagudem,50
 17.64749,78.60493,2023-02-15,8:43,N,VIIRS,2023,2,7,7d,Shamirpet,Medchal_Malkajgiri,50
+17.64761,80.82805,2023-02-22,7:20,1,VIIRS,2023,2,8,24h,Burgampadu,Bhadradri Kothagudem,50
+17.64761,80.82805,2023-02-22,7:20,1,VIIRS,2023,2,8,48h,Burgampadu,Bhadradri Kothagudem,50
+17.64761,80.82805,2023-02-22,7:20,1,VIIRS,2023,2,8,7d,Burgampadu,Bhadradri Kothagudem,50
 17.64916,80.37353,2023-02-22,5:12,T,MODIS,2023,2,8,24h,Yellandu,Bhadradri Kothagudem,52
 17.64916,80.37353,2023-02-22,5:12,T,MODIS,2023,2,8,48h,Yellandu,Bhadradri Kothagudem,52
 17.64916,80.37353,2023-02-22,5:12,T,MODIS,2023,2,8,7d,Yellandu,Bhadradri Kothagudem,52
+17.64921,77.63058,2023-02-22,8:11,N,VIIRS,2023,2,8,24h,Zahirabad,Sangareddy,50
+17.64921,77.63058,2023-02-22,8:11,N,VIIRS,2023,2,8,48h,Zahirabad,Sangareddy,50
+17.64921,77.63058,2023-02-22,8:11,N,VIIRS,2023,2,8,7d,Zahirabad,Sangareddy,50
 17.65014,77.78736,2023-02-15,7:52,1,VIIRS,2023,2,7,7d,Munipally,Sangareddy,50
 17.65128,77.60417,2023-02-18,20:18,N,VIIRS,2023,2,7,7d,Zahirabad,Sangareddy,50
 17.65136,80.14932,2023-02-20,7:58,1,VIIRS,2023,2,8,48h,Bayyaram,Mahabubabad,50
@@ -1041,6 +1221,9 @@ latitude,longitude,acq_date,acq_time,satellite,instrument,year,month,week,durati
 17.65186,77.60023,2023-02-18,20:18,N,VIIRS,2023,2,7,7d,Zahirabad,Sangareddy,50
 17.65191,80.15304,2023-02-20,7:58,1,VIIRS,2023,2,8,48h,Bayyaram,Mahabubabad,50
 17.65191,80.15304,2023-02-20,7:58,1,VIIRS,2023,2,8,7d,Bayyaram,Mahabubabad,50
+17.6528,77.87516,2023-02-22,7:20,1,VIIRS,2023,2,8,24h,Sadasivpet,Sangareddy,50
+17.6528,77.87516,2023-02-22,7:20,1,VIIRS,2023,2,8,48h,Sadasivpet,Sangareddy,50
+17.6528,77.87516,2023-02-22,7:20,1,VIIRS,2023,2,8,7d,Sadasivpet,Sangareddy,50
 17.65379,80.14902,2023-02-20,7:58,1,VIIRS,2023,2,8,48h,Bayyaram,Mahabubabad,50
 17.65379,80.14902,2023-02-20,7:58,1,VIIRS,2023,2,8,7d,Bayyaram,Mahabubabad,50
 17.65416,77.60865,2023-02-18,20:18,N,VIIRS,2023,2,7,7d,Zahirabad,Sangareddy,50
@@ -1048,6 +1231,9 @@ latitude,longitude,acq_date,acq_time,satellite,instrument,year,month,week,durati
 17.65546,80.38873,2023-02-21,7:39,1,VIIRS,2023,2,8,24h,Yellandu,Bhadradri Kothagudem,50
 17.65546,80.38873,2023-02-21,7:39,1,VIIRS,2023,2,8,48h,Yellandu,Bhadradri Kothagudem,50
 17.65546,80.38873,2023-02-21,7:39,1,VIIRS,2023,2,8,7d,Yellandu,Bhadradri Kothagudem,50
+17.65549,78.21953,2023-02-22,7:20,1,VIIRS,2023,2,8,24h,Hathnoora,Sangareddy,50
+17.65549,78.21953,2023-02-22,7:20,1,VIIRS,2023,2,8,48h,Hathnoora,Sangareddy,50
+17.65549,78.21953,2023-02-22,7:20,1,VIIRS,2023,2,8,7d,Hathnoora,Sangareddy,50
 17.65655,80.15108,2023-02-20,7:09,N,VIIRS,2023,2,8,48h,Bayyaram,Mahabubabad,50
 17.65655,80.15108,2023-02-20,7:09,N,VIIRS,2023,2,8,7d,Bayyaram,Mahabubabad,50
 17.65762,78.10876,2023-02-18,8:34,1,VIIRS,2023,2,7,7d,Chowtakur,Sangareddy,50
@@ -1137,6 +1323,9 @@ latitude,longitude,acq_date,acq_time,satellite,instrument,year,month,week,durati
 17.70534,78.69123,2023-02-17,8:56,1,VIIRS,2023,2,7,7d,Mulug,Siddipet,50
 17.70681,80.19763,2023-02-15,7:33,A,MODIS,2023,2,7,7d,Bayyaram,Mahabubabad,66
 17.70745,80.21768,2023-02-15,7:52,1,VIIRS,2023,2,7,7d,Bayyaram,Mahabubabad,50
+17.70793,80.13799,2023-02-22,8:11,N,VIIRS,2023,2,8,24h,Bayyaram,Mahabubabad,50
+17.70793,80.13799,2023-02-22,8:11,N,VIIRS,2023,2,8,48h,Bayyaram,Mahabubabad,50
+17.70793,80.13799,2023-02-22,8:11,N,VIIRS,2023,2,8,7d,Bayyaram,Mahabubabad,50
 17.70849,80.11423,2023-02-15,7:52,1,VIIRS,2023,2,7,7d,Bayyaram,Mahabubabad,50
 17.70905,80.11783,2023-02-15,7:52,1,VIIRS,2023,2,7,7d,Bayyaram,Mahabubabad,50
 17.70968,77.71408,2023-02-20,8:49,N,VIIRS,2023,2,8,48h,Jharasangam,Sangareddy,50
@@ -1163,9 +1352,18 @@ latitude,longitude,acq_date,acq_time,satellite,instrument,year,month,week,durati
 17.72259,80.4856,2023-02-21,8:32,N,VIIRS,2023,2,8,24h,Tekulapalle,Bhadradri Kothagudem,50
 17.72259,80.4856,2023-02-21,8:32,N,VIIRS,2023,2,8,48h,Tekulapalle,Bhadradri Kothagudem,50
 17.72259,80.4856,2023-02-21,8:32,N,VIIRS,2023,2,8,7d,Tekulapalle,Bhadradri Kothagudem,50
+17.72457,80.13361,2023-02-22,8:11,N,VIIRS,2023,2,8,24h,Gangaram,Mahabubabad,50
+17.72457,80.13361,2023-02-22,8:11,N,VIIRS,2023,2,8,48h,Gangaram,Mahabubabad,50
+17.72457,80.13361,2023-02-22,8:11,N,VIIRS,2023,2,8,7d,Gangaram,Mahabubabad,50
 17.72602,77.7308,2023-02-21,20:10,1,VIIRS,2023,2,8,24h,Jharasangam,Sangareddy,50
 17.72602,77.7308,2023-02-21,20:10,1,VIIRS,2023,2,8,48h,Jharasangam,Sangareddy,50
 17.72602,77.7308,2023-02-21,20:10,1,VIIRS,2023,2,8,7d,Jharasangam,Sangareddy,50
+17.72602,80.11045,2023-02-22,19:53,1,VIIRS,2023,2,8,24h,Gangaram,Mahabubabad,50
+17.72602,80.11045,2023-02-22,19:53,1,VIIRS,2023,2,8,48h,Gangaram,Mahabubabad,50
+17.72602,80.11045,2023-02-22,19:53,1,VIIRS,2023,2,8,7d,Gangaram,Mahabubabad,50
+17.72672,80.10983,2023-02-22,20:44,N,VIIRS,2023,2,8,24h,Gangaram,Mahabubabad,50
+17.72672,80.10983,2023-02-22,20:44,N,VIIRS,2023,2,8,48h,Gangaram,Mahabubabad,50
+17.72672,80.10983,2023-02-22,20:44,N,VIIRS,2023,2,8,7d,Gangaram,Mahabubabad,50
 17.72693,78.14927,2023-02-20,20:29,1,VIIRS,2023,2,8,48h,Hathnoora,Sangareddy,50
 17.72693,78.14927,2023-02-20,20:29,1,VIIRS,2023,2,8,7d,Hathnoora,Sangareddy,50
 17.72761,80.09375,2023-02-15,20:23,1,VIIRS,2023,2,7,7d,Bayyaram,Mahabubabad,50
@@ -1216,6 +1414,9 @@ latitude,longitude,acq_date,acq_time,satellite,instrument,year,month,week,durati
 17.74826,78.10348,2023-02-15,7:52,1,VIIRS,2023,2,7,7d,Chowtakur,Sangareddy,50
 17.74863,80.09792,2023-02-16,7:35,1,VIIRS,2023,2,7,7d,Gudur,Mahabubabad,50
 17.74868,80.28876,2023-02-16,20:04,1,VIIRS,2023,2,7,7d,Yellandu,Bhadradri Kothagudem,50
+17.74903,80.23267,2023-02-22,8:11,N,VIIRS,2023,2,8,24h,Bayyaram,Mahabubabad,50
+17.74903,80.23267,2023-02-22,8:11,N,VIIRS,2023,2,8,48h,Bayyaram,Mahabubabad,50
+17.74903,80.23267,2023-02-22,8:11,N,VIIRS,2023,2,8,7d,Bayyaram,Mahabubabad,50
 17.74923,78.9,2023-02-20,8:49,N,VIIRS,2023,2,8,48h,Rajapeta,Yadadri Bhuvanagiri,50
 17.74923,78.9,2023-02-20,8:49,N,VIIRS,2023,2,8,7d,Rajapeta,Yadadri Bhuvanagiri,50
 17.7501,80.31858,2023-02-15,20:23,1,VIIRS,2023,2,7,7d,Yellandu,Bhadradri Kothagudem,50
@@ -1233,9 +1434,15 @@ latitude,longitude,acq_date,acq_time,satellite,instrument,year,month,week,durati
 17.75301,80.31702,2023-02-15,7:52,1,VIIRS,2023,2,7,7d,Yellandu,Bhadradri Kothagudem,50
 17.7531,80.28321,2023-02-15,19:34,N,VIIRS,2023,2,7,7d,Yellandu,Bhadradri Kothagudem,50
 17.75326,80.28513,2023-02-15,19:34,N,VIIRS,2023,2,7,7d,Yellandu,Bhadradri Kothagudem,50
+17.75333,80.12881,2023-02-22,19:53,1,VIIRS,2023,2,8,24h,Gangaram,Mahabubabad,50
+17.75333,80.12881,2023-02-22,19:53,1,VIIRS,2023,2,8,48h,Gangaram,Mahabubabad,50
+17.75333,80.12881,2023-02-22,19:53,1,VIIRS,2023,2,8,7d,Gangaram,Mahabubabad,50
 17.75342,80.12109,2023-02-21,20:10,1,VIIRS,2023,2,8,24h,Gudur,Mahabubabad,50
 17.75342,80.12109,2023-02-21,20:10,1,VIIRS,2023,2,8,48h,Gudur,Mahabubabad,50
 17.75342,80.12109,2023-02-21,20:10,1,VIIRS,2023,2,8,7d,Gudur,Mahabubabad,50
+17.75412,80.12733,2023-02-22,19:53,1,VIIRS,2023,2,8,24h,Gangaram,Mahabubabad,50
+17.75412,80.12733,2023-02-22,19:53,1,VIIRS,2023,2,8,48h,Gangaram,Mahabubabad,50
+17.75412,80.12733,2023-02-22,19:53,1,VIIRS,2023,2,8,7d,Gangaram,Mahabubabad,50
 17.75445,80.25143,2023-02-15,20:23,1,VIIRS,2023,2,7,7d,Gangaram,Mahabubabad,50
 17.75477,78.7889,2023-02-21,8:32,N,VIIRS,2023,2,8,24h,Jagdevpur,Siddipet,50
 17.75477,78.7889,2023-02-21,8:32,N,VIIRS,2023,2,8,48h,Jagdevpur,Siddipet,50
@@ -1401,6 +1608,9 @@ latitude,longitude,acq_date,acq_time,satellite,instrument,year,month,week,durati
 17.8081,80.01151,2023-02-15,7:52,1,VIIRS,2023,2,7,7d,Gudur,Mahabubabad,50
 17.8084,79.35281,2023-02-20,7:58,1,VIIRS,2023,2,8,48h,Ragunathpally,Jangoan,50
 17.8084,79.35281,2023-02-20,7:58,1,VIIRS,2023,2,8,7d,Ragunathpally,Jangoan,50
+17.8087,77.75531,2023-02-22,19:53,1,VIIRS,2023,2,8,24h,Jharasangam,Sangareddy,50
+17.8087,77.75531,2023-02-22,19:53,1,VIIRS,2023,2,8,48h,Jharasangam,Sangareddy,50
+17.8087,77.75531,2023-02-22,19:53,1,VIIRS,2023,2,8,7d,Jharasangam,Sangareddy,50
 17.80932,80.80148,2023-02-17,8:05,N,VIIRS,2023,2,7,7d,Aswapuram,Bhadradri Kothagudem,50
 17.80991,77.69355,2023-02-16,7:35,1,VIIRS,2023,2,7,7d,Jharasangam,Sangareddy,50
 17.8138,80.28,2023-02-16,8:26,N,VIIRS,2023,2,7,7d,Gundala,Bhadradri Kothagudem,50
@@ -1410,6 +1620,9 @@ latitude,longitude,acq_date,acq_time,satellite,instrument,year,month,week,durati
 17.81683,77.78819,2023-02-21,21:01,N,VIIRS,2023,2,8,7d,Raikode,Sangareddy,50
 17.81702,80.27484,2023-02-15,20:23,1,VIIRS,2023,2,7,7d,Gundala,Bhadradri Kothagudem,50
 17.81962,79.15257,2023-02-17,7:13,1,VIIRS,2023,2,7,7d,Jangoan,Jangoan,50
+17.82321,79.09655,2023-02-22,8:11,N,VIIRS,2023,2,8,24h,Narmetta,Jangoan,50
+17.82321,79.09655,2023-02-22,8:11,N,VIIRS,2023,2,8,48h,Narmetta,Jangoan,50
+17.82321,79.09655,2023-02-22,8:11,N,VIIRS,2023,2,8,7d,Narmetta,Jangoan,50
 17.82489,79.09953,2023-02-16,8:26,N,VIIRS,2023,2,7,7d,Narmetta,Jangoan,50
 17.82623,77.78218,2023-02-19,7:28,N,VIIRS,2023,2,7,7d,Raikode,Sangareddy,50
 17.82703,80.25679,2023-02-15,20:23,1,VIIRS,2023,2,7,7d,Gangaram,Mahabubabad,50
@@ -1428,12 +1641,48 @@ latitude,longitude,acq_date,acq_time,satellite,instrument,year,month,week,durati
 17.83921,78.60993,2023-02-15,8:43,N,VIIRS,2023,2,7,7d,Gajwel,Siddipet,50
 17.84018,80.19436,2023-02-18,7:48,N,VIIRS,2023,2,7,7d,Gangaram,Mahabubabad,50
 17.8408,80.19817,2023-02-18,7:48,N,VIIRS,2023,2,7,7d,Gangaram,Mahabubabad,50
+17.84237,78.21294,2023-02-22,7:20,1,VIIRS,2023,2,8,24h,Kowdipally,Medak,50
+17.84237,78.21294,2023-02-22,7:20,1,VIIRS,2023,2,8,48h,Kowdipally,Medak,50
+17.84237,78.21294,2023-02-22,7:20,1,VIIRS,2023,2,8,7d,Kowdipally,Medak,50
+17.84267,78.21197,2023-02-22,8:11,N,VIIRS,2023,2,8,24h,Kowdipally,Medak,50
+17.84267,78.21197,2023-02-22,8:11,N,VIIRS,2023,2,8,48h,Kowdipally,Medak,50
+17.84267,78.21197,2023-02-22,8:11,N,VIIRS,2023,2,8,7d,Kowdipally,Medak,50
+17.84312,78.21159,2023-02-22,7:20,1,VIIRS,2023,2,8,24h,Kowdipally,Medak,50
+17.84312,78.21159,2023-02-22,7:20,1,VIIRS,2023,2,8,48h,Kowdipally,Medak,50
+17.84312,78.21159,2023-02-22,7:20,1,VIIRS,2023,2,8,7d,Kowdipally,Medak,50
 17.84426,80.56283,2023-02-16,8:13,A,MODIS,2023,2,7,7d,Allapalli,Bhadradri Kothagudem,70
+17.84474,80.29915,2023-02-22,8:11,N,VIIRS,2023,2,8,24h,Gundala,Bhadradri Kothagudem,50
+17.84474,80.29915,2023-02-22,8:11,N,VIIRS,2023,2,8,48h,Gundala,Bhadradri Kothagudem,50
+17.84474,80.29915,2023-02-22,8:11,N,VIIRS,2023,2,8,7d,Gundala,Bhadradri Kothagudem,50
+17.84526,80.30193,2023-02-22,8:11,N,VIIRS,2023,2,8,24h,Gundala,Bhadradri Kothagudem,50
+17.84526,80.30193,2023-02-22,8:11,N,VIIRS,2023,2,8,48h,Gundala,Bhadradri Kothagudem,50
+17.84526,80.30193,2023-02-22,8:11,N,VIIRS,2023,2,8,7d,Gundala,Bhadradri Kothagudem,50
 17.84559,80.57216,2023-02-16,8:13,A,MODIS,2023,2,7,7d,Allapalli,Bhadradri Kothagudem,61
+17.84727,80.30229,2023-02-22,7:20,1,VIIRS,2023,2,8,24h,Gundala,Bhadradri Kothagudem,50
+17.84727,80.30229,2023-02-22,7:20,1,VIIRS,2023,2,8,48h,Gundala,Bhadradri Kothagudem,50
+17.84727,80.30229,2023-02-22,7:20,1,VIIRS,2023,2,8,7d,Gundala,Bhadradri Kothagudem,50
+17.84809,80.26823,2023-02-22,19:53,1,VIIRS,2023,2,8,24h,Gangaram,Mahabubabad,50
+17.84809,80.26823,2023-02-22,19:53,1,VIIRS,2023,2,8,48h,Gangaram,Mahabubabad,50
+17.84809,80.26823,2023-02-22,19:53,1,VIIRS,2023,2,8,7d,Gangaram,Mahabubabad,50
+17.84863,80.29848,2023-02-22,8:11,N,VIIRS,2023,2,8,24h,Gundala,Bhadradri Kothagudem,50
+17.84863,80.29848,2023-02-22,8:11,N,VIIRS,2023,2,8,48h,Gundala,Bhadradri Kothagudem,50
+17.84863,80.29848,2023-02-22,8:11,N,VIIRS,2023,2,8,7d,Gundala,Bhadradri Kothagudem,50
+17.84915,80.30128,2023-02-22,8:11,N,VIIRS,2023,2,8,24h,Gundala,Bhadradri Kothagudem,50
+17.84915,80.30128,2023-02-22,8:11,N,VIIRS,2023,2,8,48h,Gundala,Bhadradri Kothagudem,50
+17.84915,80.30128,2023-02-22,8:11,N,VIIRS,2023,2,8,7d,Gundala,Bhadradri Kothagudem,50
+17.84928,80.30361,2023-02-22,8:11,N,VIIRS,2023,2,8,24h,Gundala,Bhadradri Kothagudem,50
+17.84928,80.30361,2023-02-22,8:11,N,VIIRS,2023,2,8,48h,Gundala,Bhadradri Kothagudem,50
+17.84928,80.30361,2023-02-22,8:11,N,VIIRS,2023,2,8,7d,Gundala,Bhadradri Kothagudem,50
+17.84946,80.27045,2023-02-22,20:44,N,VIIRS,2023,2,8,24h,Gangaram,Mahabubabad,50
+17.84946,80.27045,2023-02-22,20:44,N,VIIRS,2023,2,8,48h,Gangaram,Mahabubabad,50
+17.84946,80.27045,2023-02-22,20:44,N,VIIRS,2023,2,8,7d,Gangaram,Mahabubabad,50
 17.85125,80.57166,2023-02-16,8:26,N,VIIRS,2023,2,7,7d,Allapalli,Bhadradri Kothagudem,50
 17.85202,80.29283,2023-02-21,8:32,N,VIIRS,2023,2,8,24h,Gundala,Bhadradri Kothagudem,100
 17.85202,80.29283,2023-02-21,8:32,N,VIIRS,2023,2,8,48h,Gundala,Bhadradri Kothagudem,100
 17.85202,80.29283,2023-02-21,8:32,N,VIIRS,2023,2,8,7d,Gundala,Bhadradri Kothagudem,100
+17.85206,80.30149,2023-02-22,7:20,1,VIIRS,2023,2,8,24h,Gundala,Bhadradri Kothagudem,50
+17.85206,80.30149,2023-02-22,7:20,1,VIIRS,2023,2,8,48h,Gundala,Bhadradri Kothagudem,50
+17.85206,80.30149,2023-02-22,7:20,1,VIIRS,2023,2,8,7d,Gundala,Bhadradri Kothagudem,50
 17.85207,77.61034,2023-02-21,7:39,1,VIIRS,2023,2,8,24h,Nyalkal,Sangareddy,50
 17.85207,77.61034,2023-02-21,7:39,1,VIIRS,2023,2,8,48h,Nyalkal,Sangareddy,50
 17.85207,77.61034,2023-02-21,7:39,1,VIIRS,2023,2,8,7d,Nyalkal,Sangareddy,50
@@ -1441,6 +1690,12 @@ latitude,longitude,acq_date,acq_time,satellite,instrument,year,month,week,durati
 17.85274,80.28477,2023-02-21,8:28,A,MODIS,2023,2,8,48h,Gundala,Bhadradri Kothagudem,58
 17.85274,80.28477,2023-02-21,8:28,A,MODIS,2023,2,8,7d,Gundala,Bhadradri Kothagudem,58
 17.85279,80.07759,2023-02-18,7:48,N,VIIRS,2023,2,7,7d,Kothaguda,Mahabubabad,50
+17.85318,80.303,2023-02-22,8:11,N,VIIRS,2023,2,8,24h,Gundala,Bhadradri Kothagudem,50
+17.85318,80.303,2023-02-22,8:11,N,VIIRS,2023,2,8,48h,Gundala,Bhadradri Kothagudem,50
+17.85318,80.303,2023-02-22,8:11,N,VIIRS,2023,2,8,7d,Gundala,Bhadradri Kothagudem,50
+17.85373,80.30582,2023-02-22,8:11,N,VIIRS,2023,2,8,24h,Gundala,Bhadradri Kothagudem,50
+17.85373,80.30582,2023-02-22,8:11,N,VIIRS,2023,2,8,48h,Gundala,Bhadradri Kothagudem,50
+17.85373,80.30582,2023-02-22,8:11,N,VIIRS,2023,2,8,7d,Gundala,Bhadradri Kothagudem,50
 17.85377,80.2858,2023-02-21,17:00,T,MODIS,2023,2,8,24h,Gundala,Bhadradri Kothagudem,83
 17.85377,80.2858,2023-02-21,17:00,T,MODIS,2023,2,8,48h,Gundala,Bhadradri Kothagudem,83
 17.85377,80.2858,2023-02-21,17:00,T,MODIS,2023,2,8,7d,Gundala,Bhadradri Kothagudem,83
@@ -1462,9 +1717,18 @@ latitude,longitude,acq_date,acq_time,satellite,instrument,year,month,week,durati
 17.8566,80.28831,2023-02-20,19:40,N,VIIRS,2023,2,8,7d,Gundala,Bhadradri Kothagudem,50
 17.85676,80.28909,2023-02-20,19:40,N,VIIRS,2023,2,8,48h,Gundala,Bhadradri Kothagudem,50
 17.85676,80.28909,2023-02-20,19:40,N,VIIRS,2023,2,8,7d,Gundala,Bhadradri Kothagudem,50
+17.85709,80.30252,2023-02-22,8:11,N,VIIRS,2023,2,8,24h,Gundala,Bhadradri Kothagudem,50
+17.85709,80.30252,2023-02-22,8:11,N,VIIRS,2023,2,8,48h,Gundala,Bhadradri Kothagudem,50
+17.85709,80.30252,2023-02-22,8:11,N,VIIRS,2023,2,8,7d,Gundala,Bhadradri Kothagudem,50
 17.85763,80.30267,2023-02-21,19:21,N,VIIRS,2023,2,8,24h,Gundala,Bhadradri Kothagudem,50
 17.85763,80.30267,2023-02-21,19:21,N,VIIRS,2023,2,8,48h,Gundala,Bhadradri Kothagudem,50
 17.85763,80.30267,2023-02-21,19:21,N,VIIRS,2023,2,8,7d,Gundala,Bhadradri Kothagudem,50
+17.85766,80.30539,2023-02-22,8:11,N,VIIRS,2023,2,8,24h,Gundala,Bhadradri Kothagudem,50
+17.85766,80.30539,2023-02-22,8:11,N,VIIRS,2023,2,8,48h,Gundala,Bhadradri Kothagudem,50
+17.85766,80.30539,2023-02-22,8:11,N,VIIRS,2023,2,8,7d,Gundala,Bhadradri Kothagudem,50
+17.85775,80.30774,2023-02-22,8:11,N,VIIRS,2023,2,8,24h,Gundala,Bhadradri Kothagudem,50
+17.85775,80.30774,2023-02-22,8:11,N,VIIRS,2023,2,8,48h,Gundala,Bhadradri Kothagudem,50
+17.85775,80.30774,2023-02-22,8:11,N,VIIRS,2023,2,8,7d,Gundala,Bhadradri Kothagudem,50
 17.85804,80.3002,2023-02-21,20:10,1,VIIRS,2023,2,8,24h,Gundala,Bhadradri Kothagudem,50
 17.85804,80.3002,2023-02-21,20:10,1,VIIRS,2023,2,8,48h,Gundala,Bhadradri Kothagudem,50
 17.85804,80.3002,2023-02-21,20:10,1,VIIRS,2023,2,8,7d,Gundala,Bhadradri Kothagudem,50
@@ -1491,28 +1755,124 @@ latitude,longitude,acq_date,acq_time,satellite,instrument,year,month,week,durati
 17.86138,80.30073,2023-02-21,20:10,1,VIIRS,2023,2,8,24h,Gundala,Bhadradri Kothagudem,50
 17.86138,80.30073,2023-02-21,20:10,1,VIIRS,2023,2,8,48h,Gundala,Bhadradri Kothagudem,50
 17.86138,80.30073,2023-02-21,20:10,1,VIIRS,2023,2,8,7d,Gundala,Bhadradri Kothagudem,50
+17.86167,80.30733,2023-02-22,8:11,N,VIIRS,2023,2,8,24h,Gundala,Bhadradri Kothagudem,50
+17.86167,80.30733,2023-02-22,8:11,N,VIIRS,2023,2,8,48h,Gundala,Bhadradri Kothagudem,50
+17.86167,80.30733,2023-02-22,8:11,N,VIIRS,2023,2,8,7d,Gundala,Bhadradri Kothagudem,50
 17.86198,80.29593,2023-02-21,17:00,T,MODIS,2023,2,8,24h,Gundala,Bhadradri Kothagudem,100
 17.86198,80.29593,2023-02-21,17:00,T,MODIS,2023,2,8,48h,Gundala,Bhadradri Kothagudem,100
 17.86198,80.29593,2023-02-21,17:00,T,MODIS,2023,2,8,7d,Gundala,Bhadradri Kothagudem,100
+17.8635,80.3167,2023-02-22,20:44,N,VIIRS,2023,2,8,24h,Gundala,Bhadradri Kothagudem,50
+17.8635,80.3167,2023-02-22,20:44,N,VIIRS,2023,2,8,48h,Gundala,Bhadradri Kothagudem,50
+17.8635,80.3167,2023-02-22,20:44,N,VIIRS,2023,2,8,7d,Gundala,Bhadradri Kothagudem,50
+17.86362,80.29134,2023-02-22,8:11,N,VIIRS,2023,2,8,24h,Gundala,Bhadradri Kothagudem,50
+17.86362,80.29134,2023-02-22,8:11,N,VIIRS,2023,2,8,48h,Gundala,Bhadradri Kothagudem,50
+17.86362,80.29134,2023-02-22,8:11,N,VIIRS,2023,2,8,7d,Gundala,Bhadradri Kothagudem,50
+17.8637,80.31494,2023-02-22,19:53,1,VIIRS,2023,2,8,24h,Gundala,Bhadradri Kothagudem,50
+17.8637,80.31494,2023-02-22,19:53,1,VIIRS,2023,2,8,48h,Gundala,Bhadradri Kothagudem,50
+17.8637,80.31494,2023-02-22,19:53,1,VIIRS,2023,2,8,7d,Gundala,Bhadradri Kothagudem,50
+17.86427,80.29643,2023-02-22,8:11,N,VIIRS,2023,2,8,24h,Gundala,Bhadradri Kothagudem,50
+17.86427,80.29643,2023-02-22,8:11,N,VIIRS,2023,2,8,48h,Gundala,Bhadradri Kothagudem,50
+17.86427,80.29643,2023-02-22,8:11,N,VIIRS,2023,2,8,7d,Gundala,Bhadradri Kothagudem,50
+17.86493,80.30166,2023-02-22,8:11,N,VIIRS,2023,2,8,24h,Gundala,Bhadradri Kothagudem,50
+17.86493,80.30166,2023-02-22,8:11,N,VIIRS,2023,2,8,48h,Gundala,Bhadradri Kothagudem,50
+17.86493,80.30166,2023-02-22,8:11,N,VIIRS,2023,2,8,7d,Gundala,Bhadradri Kothagudem,50
 17.86508,80.07863,2023-02-16,7:35,1,VIIRS,2023,2,7,7d,Kothaguda,Mahabubabad,50
 17.86614,80.29478,2023-02-21,21:01,N,VIIRS,2023,2,8,24h,Gundala,Bhadradri Kothagudem,50
 17.86614,80.29478,2023-02-21,21:01,N,VIIRS,2023,2,8,48h,Gundala,Bhadradri Kothagudem,50
 17.86614,80.29478,2023-02-21,21:01,N,VIIRS,2023,2,8,7d,Gundala,Bhadradri Kothagudem,50
+17.86622,80.2979,2023-02-22,7:20,1,VIIRS,2023,2,8,24h,Gundala,Bhadradri Kothagudem,50
+17.86622,80.2979,2023-02-22,7:20,1,VIIRS,2023,2,8,48h,Gundala,Bhadradri Kothagudem,50
+17.86622,80.2979,2023-02-22,7:20,1,VIIRS,2023,2,8,7d,Gundala,Bhadradri Kothagudem,50
 17.86658,80.07875,2023-02-16,7:35,1,VIIRS,2023,2,7,7d,Kothaguda,Mahabubabad,50
 17.86683,80.39858,2023-02-20,7:58,1,VIIRS,2023,2,8,48h,Gundala,Bhadradri Kothagudem,50
 17.86683,80.39858,2023-02-20,7:58,1,VIIRS,2023,2,8,7d,Gundala,Bhadradri Kothagudem,50
+17.86787,80.3178,2023-02-22,20:44,N,VIIRS,2023,2,8,24h,Gundala,Bhadradri Kothagudem,50
+17.86787,80.3178,2023-02-22,20:44,N,VIIRS,2023,2,8,48h,Gundala,Bhadradri Kothagudem,50
+17.86787,80.3178,2023-02-22,20:44,N,VIIRS,2023,2,8,7d,Gundala,Bhadradri Kothagudem,50
+17.86791,80.31542,2023-02-22,19:53,1,VIIRS,2023,2,8,24h,Gundala,Bhadradri Kothagudem,50
+17.86791,80.31542,2023-02-22,19:53,1,VIIRS,2023,2,8,48h,Gundala,Bhadradri Kothagudem,50
+17.86791,80.31542,2023-02-22,19:53,1,VIIRS,2023,2,8,7d,Gundala,Bhadradri Kothagudem,50
+17.86994,80.29924,2023-02-22,19:53,1,VIIRS,2023,2,8,24h,Gundala,Bhadradri Kothagudem,50
+17.86994,80.29924,2023-02-22,19:53,1,VIIRS,2023,2,8,48h,Gundala,Bhadradri Kothagudem,50
+17.86994,80.29924,2023-02-22,19:53,1,VIIRS,2023,2,8,7d,Gundala,Bhadradri Kothagudem,50
+17.87132,80.29968,2023-02-22,20:44,N,VIIRS,2023,2,8,24h,Gundala,Bhadradri Kothagudem,50
+17.87132,80.29968,2023-02-22,20:44,N,VIIRS,2023,2,8,48h,Gundala,Bhadradri Kothagudem,50
+17.87132,80.29968,2023-02-22,20:44,N,VIIRS,2023,2,8,7d,Gundala,Bhadradri Kothagudem,50
+17.87354,80.36962,2023-02-22,8:11,N,VIIRS,2023,2,8,24h,Gundala,Bhadradri Kothagudem,50
+17.87354,80.36962,2023-02-22,8:11,N,VIIRS,2023,2,8,48h,Gundala,Bhadradri Kothagudem,50
+17.87354,80.36962,2023-02-22,8:11,N,VIIRS,2023,2,8,7d,Gundala,Bhadradri Kothagudem,50
+17.87365,80.30382,2023-02-22,19:53,1,VIIRS,2023,2,8,24h,Gundala,Bhadradri Kothagudem,50
+17.87365,80.30382,2023-02-22,19:53,1,VIIRS,2023,2,8,48h,Gundala,Bhadradri Kothagudem,50
+17.87365,80.30382,2023-02-22,19:53,1,VIIRS,2023,2,8,7d,Gundala,Bhadradri Kothagudem,50
 17.87367,80.10303,2023-02-15,7:03,N,VIIRS,2023,2,7,7d,Kothaguda,Mahabubabad,50
 17.87391,80.2721,2023-02-15,20:23,1,VIIRS,2023,2,7,7d,Gangaram,Mahabubabad,50
+17.87402,80.30376,2023-02-22,20:44,N,VIIRS,2023,2,8,24h,Gundala,Bhadradri Kothagudem,50
+17.87402,80.30376,2023-02-22,20:44,N,VIIRS,2023,2,8,48h,Gundala,Bhadradri Kothagudem,50
+17.87402,80.30376,2023-02-22,20:44,N,VIIRS,2023,2,8,7d,Gundala,Bhadradri Kothagudem,50
+17.87416,80.29974,2023-02-22,19:53,1,VIIRS,2023,2,8,24h,Gundala,Bhadradri Kothagudem,50
+17.87416,80.29974,2023-02-22,19:53,1,VIIRS,2023,2,8,48h,Gundala,Bhadradri Kothagudem,50
+17.87416,80.29974,2023-02-22,19:53,1,VIIRS,2023,2,8,7d,Gundala,Bhadradri Kothagudem,50
+17.8742,80.37483,2023-02-22,8:11,N,VIIRS,2023,2,8,24h,Gundala,Bhadradri Kothagudem,50
+17.8742,80.37483,2023-02-22,8:11,N,VIIRS,2023,2,8,48h,Gundala,Bhadradri Kothagudem,50
+17.8742,80.37483,2023-02-22,8:11,N,VIIRS,2023,2,8,7d,Gundala,Bhadradri Kothagudem,50
 17.87457,80.26822,2023-02-15,20:23,1,VIIRS,2023,2,7,7d,Gangaram,Mahabubabad,50
+17.87484,80.30521,2023-02-22,20:44,N,VIIRS,2023,2,8,24h,Gundala,Bhadradri Kothagudem,50
+17.87484,80.30521,2023-02-22,20:44,N,VIIRS,2023,2,8,48h,Gundala,Bhadradri Kothagudem,50
+17.87484,80.30521,2023-02-22,20:44,N,VIIRS,2023,2,8,7d,Gundala,Bhadradri Kothagudem,50
+17.8749,80.29928,2023-02-22,20:44,N,VIIRS,2023,2,8,24h,Gundala,Bhadradri Kothagudem,50
+17.8749,80.29928,2023-02-22,20:44,N,VIIRS,2023,2,8,48h,Gundala,Bhadradri Kothagudem,50
+17.8749,80.29928,2023-02-22,20:44,N,VIIRS,2023,2,8,7d,Gundala,Bhadradri Kothagudem,50
+17.8757,80.3007,2023-02-22,20:44,N,VIIRS,2023,2,8,24h,Gundala,Bhadradri Kothagudem,50
+17.8757,80.3007,2023-02-22,20:44,N,VIIRS,2023,2,8,48h,Gundala,Bhadradri Kothagudem,50
+17.8757,80.3007,2023-02-22,20:44,N,VIIRS,2023,2,8,7d,Gundala,Bhadradri Kothagudem,50
 17.87577,80.10534,2023-02-15,7:03,N,VIIRS,2023,2,7,7d,Kothaguda,Mahabubabad,50
 17.87595,80.27328,2023-02-15,7:52,1,VIIRS,2023,2,7,7d,Gangaram,Mahabubabad,50
+17.8761,80.37298,2023-02-22,7:20,1,VIIRS,2023,2,8,24h,Gundala,Bhadradri Kothagudem,50
+17.8761,80.37298,2023-02-22,7:20,1,VIIRS,2023,2,8,48h,Gundala,Bhadradri Kothagudem,50
+17.8761,80.37298,2023-02-22,7:20,1,VIIRS,2023,2,8,7d,Gundala,Bhadradri Kothagudem,50
+17.87735,80.30836,2023-02-22,19:53,1,VIIRS,2023,2,8,24h,Gundala,Bhadradri Kothagudem,50
+17.87735,80.30836,2023-02-22,19:53,1,VIIRS,2023,2,8,48h,Gundala,Bhadradri Kothagudem,50
+17.87735,80.30836,2023-02-22,19:53,1,VIIRS,2023,2,8,7d,Gundala,Bhadradri Kothagudem,50
+17.8775,80.30933,2023-02-22,20:44,N,VIIRS,2023,2,8,24h,Gundala,Bhadradri Kothagudem,50
+17.8775,80.30933,2023-02-22,20:44,N,VIIRS,2023,2,8,48h,Gundala,Bhadradri Kothagudem,50
+17.8775,80.30933,2023-02-22,20:44,N,VIIRS,2023,2,8,7d,Gundala,Bhadradri Kothagudem,50
+17.87786,80.30434,2023-02-22,19:53,1,VIIRS,2023,2,8,24h,Gundala,Bhadradri Kothagudem,50
+17.87786,80.30434,2023-02-22,19:53,1,VIIRS,2023,2,8,48h,Gundala,Bhadradri Kothagudem,50
+17.87786,80.30434,2023-02-22,19:53,1,VIIRS,2023,2,8,7d,Gundala,Bhadradri Kothagudem,50
+17.87835,80.31083,2023-02-22,20:44,N,VIIRS,2023,2,8,24h,Gundala,Bhadradri Kothagudem,50
+17.87835,80.31083,2023-02-22,20:44,N,VIIRS,2023,2,8,48h,Gundala,Bhadradri Kothagudem,50
+17.87835,80.31083,2023-02-22,20:44,N,VIIRS,2023,2,8,7d,Gundala,Bhadradri Kothagudem,50
+17.87837,80.30027,2023-02-22,19:53,1,VIIRS,2023,2,8,24h,Gundala,Bhadradri Kothagudem,50
+17.87837,80.30027,2023-02-22,19:53,1,VIIRS,2023,2,8,48h,Gundala,Bhadradri Kothagudem,50
+17.87837,80.30027,2023-02-22,19:53,1,VIIRS,2023,2,8,7d,Gundala,Bhadradri Kothagudem,50
+17.8784,80.30478,2023-02-22,20:44,N,VIIRS,2023,2,8,24h,Gundala,Bhadradri Kothagudem,50
+17.8784,80.30478,2023-02-22,20:44,N,VIIRS,2023,2,8,48h,Gundala,Bhadradri Kothagudem,50
+17.8784,80.30478,2023-02-22,20:44,N,VIIRS,2023,2,8,7d,Gundala,Bhadradri Kothagudem,50
 17.87895,80.36996,2023-02-19,8:17,1,VIIRS,2023,2,7,7d,Gundala,Bhadradri Kothagudem,50
+17.87922,80.30626,2023-02-22,20:44,N,VIIRS,2023,2,8,24h,Gundala,Bhadradri Kothagudem,50
+17.87922,80.30626,2023-02-22,20:44,N,VIIRS,2023,2,8,48h,Gundala,Bhadradri Kothagudem,50
+17.87922,80.30626,2023-02-22,20:44,N,VIIRS,2023,2,8,7d,Gundala,Bhadradri Kothagudem,50
+17.88157,80.30882,2023-02-22,19:53,1,VIIRS,2023,2,8,24h,Gundala,Bhadradri Kothagudem,50
+17.88157,80.30882,2023-02-22,19:53,1,VIIRS,2023,2,8,48h,Gundala,Bhadradri Kothagudem,50
+17.88157,80.30882,2023-02-22,19:53,1,VIIRS,2023,2,8,7d,Gundala,Bhadradri Kothagudem,50
 17.88171,77.68726,2023-02-21,20:10,1,VIIRS,2023,2,8,24h,Nyalkal,Sangareddy,50
 17.88171,77.68726,2023-02-21,20:10,1,VIIRS,2023,2,8,48h,Nyalkal,Sangareddy,50
 17.88171,77.68726,2023-02-21,20:10,1,VIIRS,2023,2,8,7d,Nyalkal,Sangareddy,50
+17.88186,80.31044,2023-02-22,20:44,N,VIIRS,2023,2,8,24h,Gundala,Bhadradri Kothagudem,50
+17.88186,80.31044,2023-02-22,20:44,N,VIIRS,2023,2,8,48h,Gundala,Bhadradri Kothagudem,50
+17.88186,80.31044,2023-02-22,20:44,N,VIIRS,2023,2,8,7d,Gundala,Bhadradri Kothagudem,50
 17.88212,80.20259,2023-02-15,20:23,1,VIIRS,2023,2,7,7d,Gangaram,Mahabubabad,50
+17.88239,80.0748,2023-02-22,7:20,1,VIIRS,2023,2,8,24h,Kothaguda,Mahabubabad,50
+17.88239,80.0748,2023-02-22,7:20,1,VIIRS,2023,2,8,48h,Kothaguda,Mahabubabad,50
+17.88239,80.0748,2023-02-22,7:20,1,VIIRS,2023,2,8,7d,Kothaguda,Mahabubabad,50
 17.88266,80.26173,2023-02-15,20:23,1,VIIRS,2023,2,7,7d,Gangaram,Mahabubabad,50
+17.88276,80.30588,2023-02-22,20:44,N,VIIRS,2023,2,8,24h,Gundala,Bhadradri Kothagudem,50
+17.88276,80.30588,2023-02-22,20:44,N,VIIRS,2023,2,8,48h,Gundala,Bhadradri Kothagudem,50
+17.88276,80.30588,2023-02-22,20:44,N,VIIRS,2023,2,8,7d,Gundala,Bhadradri Kothagudem,50
 17.88345,80.20996,2023-02-15,19:34,N,VIIRS,2023,2,7,7d,Gangaram,Mahabubabad,50
+17.88358,80.3074,2023-02-22,20:44,N,VIIRS,2023,2,8,24h,Gundala,Bhadradri Kothagudem,50
+17.88358,80.3074,2023-02-22,20:44,N,VIIRS,2023,2,8,48h,Gundala,Bhadradri Kothagudem,50
+17.88358,80.3074,2023-02-22,20:44,N,VIIRS,2023,2,8,7d,Gundala,Bhadradri Kothagudem,50
 17.88431,80.20126,2023-02-15,19:34,N,VIIRS,2023,2,7,7d,Gangaram,Mahabubabad,50
 17.88503,80.20448,2023-02-15,19:34,N,VIIRS,2023,2,7,7d,Gangaram,Mahabubabad,50
 17.88539,80.40208,2023-02-21,8:32,N,VIIRS,2023,2,8,24h,Gundala,Bhadradri Kothagudem,50
@@ -1523,6 +1883,9 @@ latitude,longitude,acq_date,acq_time,satellite,instrument,year,month,week,durati
 17.88577,80.40559,2023-02-21,8:32,N,VIIRS,2023,2,8,24h,Gundala,Bhadradri Kothagudem,50
 17.88577,80.40559,2023-02-21,8:32,N,VIIRS,2023,2,8,48h,Gundala,Bhadradri Kothagudem,50
 17.88577,80.40559,2023-02-21,8:32,N,VIIRS,2023,2,8,7d,Gundala,Bhadradri Kothagudem,50
+17.8858,80.30923,2023-02-22,19:53,1,VIIRS,2023,2,8,24h,Gundala,Bhadradri Kothagudem,50
+17.8858,80.30923,2023-02-22,19:53,1,VIIRS,2023,2,8,48h,Gundala,Bhadradri Kothagudem,50
+17.8858,80.30923,2023-02-22,19:53,1,VIIRS,2023,2,8,7d,Gundala,Bhadradri Kothagudem,50
 17.88637,77.87504,2023-02-18,20:18,N,VIIRS,2023,2,7,7d,Vatpally,Sangareddy,50
 17.88652,80.25901,2023-02-16,20:04,1,VIIRS,2023,2,7,7d,Gangaram,Mahabubabad,50
 17.88751,80.27452,2023-02-15,20:23,1,VIIRS,2023,2,7,7d,Gangaram,Mahabubabad,50
@@ -1532,6 +1895,12 @@ latitude,longitude,acq_date,acq_time,satellite,instrument,year,month,week,durati
 17.89317,78.5158,2023-02-19,7:28,N,VIIRS,2023,2,7,7d,Toopran,Medak,50
 17.89511,77.85417,2023-02-19,20:48,1,VIIRS,2023,2,7,7d,Vatpally,Sangareddy,50
 17.89574,78.51294,2023-02-19,7:28,N,VIIRS,2023,2,7,7d,Toopran,Medak,50
+17.89624,80.29774,2023-02-22,8:11,N,VIIRS,2023,2,8,24h,Gundala,Bhadradri Kothagudem,50
+17.89624,80.29774,2023-02-22,8:11,N,VIIRS,2023,2,8,48h,Gundala,Bhadradri Kothagudem,50
+17.89624,80.29774,2023-02-22,8:11,N,VIIRS,2023,2,8,7d,Gundala,Bhadradri Kothagudem,50
+17.89668,80.3017,2023-02-22,7:20,1,VIIRS,2023,2,8,24h,Gundala,Bhadradri Kothagudem,50
+17.89668,80.3017,2023-02-22,7:20,1,VIIRS,2023,2,8,48h,Gundala,Bhadradri Kothagudem,50
+17.89668,80.3017,2023-02-22,7:20,1,VIIRS,2023,2,8,7d,Gundala,Bhadradri Kothagudem,50
 17.89747,80.30314,2023-02-22,5:12,T,MODIS,2023,2,8,24h,Gundala,Bhadradri Kothagudem,57
 17.89747,80.30314,2023-02-22,5:12,T,MODIS,2023,2,8,48h,Gundala,Bhadradri Kothagudem,57
 17.89747,80.30314,2023-02-22,5:12,T,MODIS,2023,2,8,7d,Gundala,Bhadradri Kothagudem,57
@@ -1571,6 +1940,9 @@ latitude,longitude,acq_date,acq_time,satellite,instrument,year,month,week,durati
 17.90914,80.1515,2023-02-16,20:04,1,VIIRS,2023,2,7,7d,Kothaguda,Mahabubabad,50
 17.90914,80.29361,2023-02-20,19:40,N,VIIRS,2023,2,8,48h,Gundala,Bhadradri Kothagudem,50
 17.90914,80.29361,2023-02-20,19:40,N,VIIRS,2023,2,8,7d,Gundala,Bhadradri Kothagudem,50
+17.91015,80.15011,2023-02-22,19:53,1,VIIRS,2023,2,8,24h,Kothaguda,Mahabubabad,50
+17.91015,80.15011,2023-02-22,19:53,1,VIIRS,2023,2,8,48h,Kothaguda,Mahabubabad,50
+17.91015,80.15011,2023-02-22,19:53,1,VIIRS,2023,2,8,7d,Kothaguda,Mahabubabad,50
 17.91124,80.2979,2023-02-20,7:09,N,VIIRS,2023,2,8,48h,Gundala,Bhadradri Kothagudem,50
 17.91124,80.2979,2023-02-20,7:09,N,VIIRS,2023,2,8,7d,Gundala,Bhadradri Kothagudem,50
 17.91131,80.21207,2023-02-21,8:32,N,VIIRS,2023,2,8,24h,Kothaguda,Mahabubabad,50
@@ -1580,9 +1952,18 @@ latitude,longitude,acq_date,acq_time,satellite,instrument,year,month,week,durati
 17.91228,80.34914,2023-02-21,8:32,N,VIIRS,2023,2,8,24h,Gundala,Bhadradri Kothagudem,50
 17.91228,80.34914,2023-02-21,8:32,N,VIIRS,2023,2,8,48h,Gundala,Bhadradri Kothagudem,50
 17.91228,80.34914,2023-02-21,8:32,N,VIIRS,2023,2,8,7d,Gundala,Bhadradri Kothagudem,50
+17.91253,80.11942,2023-02-22,8:11,N,VIIRS,2023,2,8,24h,Kothaguda,Mahabubabad,50
+17.91253,80.11942,2023-02-22,8:11,N,VIIRS,2023,2,8,48h,Kothaguda,Mahabubabad,50
+17.91253,80.11942,2023-02-22,8:11,N,VIIRS,2023,2,8,7d,Kothaguda,Mahabubabad,50
+17.91315,80.15072,2023-02-22,20:44,N,VIIRS,2023,2,8,24h,Kothaguda,Mahabubabad,50
+17.91315,80.15072,2023-02-22,20:44,N,VIIRS,2023,2,8,48h,Kothaguda,Mahabubabad,50
+17.91315,80.15072,2023-02-22,20:44,N,VIIRS,2023,2,8,7d,Kothaguda,Mahabubabad,50
 17.91354,80.21377,2023-02-21,8:32,N,VIIRS,2023,2,8,24h,Gangaram,Mahabubabad,50
 17.91354,80.21377,2023-02-21,8:32,N,VIIRS,2023,2,8,48h,Gangaram,Mahabubabad,50
 17.91354,80.21377,2023-02-21,8:32,N,VIIRS,2023,2,8,7d,Gangaram,Mahabubabad,50
+17.9144,80.15074,2023-02-22,19:53,1,VIIRS,2023,2,8,24h,Kothaguda,Mahabubabad,50
+17.9144,80.15074,2023-02-22,19:53,1,VIIRS,2023,2,8,48h,Kothaguda,Mahabubabad,50
+17.9144,80.15074,2023-02-22,19:53,1,VIIRS,2023,2,8,7d,Kothaguda,Mahabubabad,50
 17.91456,77.63928,2023-02-21,7:39,1,VIIRS,2023,2,8,24h,Nyalkal,Sangareddy,50
 17.91456,77.63928,2023-02-21,7:39,1,VIIRS,2023,2,8,48h,Nyalkal,Sangareddy,50
 17.91456,77.63928,2023-02-21,7:39,1,VIIRS,2023,2,8,7d,Nyalkal,Sangareddy,50
@@ -1603,9 +1984,15 @@ latitude,longitude,acq_date,acq_time,satellite,instrument,year,month,week,durati
 17.91944,80.2145,2023-02-21,7:39,1,VIIRS,2023,2,8,24h,Gangaram,Mahabubabad,50
 17.91944,80.2145,2023-02-21,7:39,1,VIIRS,2023,2,8,48h,Gangaram,Mahabubabad,50
 17.91944,80.2145,2023-02-21,7:39,1,VIIRS,2023,2,8,7d,Gangaram,Mahabubabad,50
+17.91969,80.23392,2023-02-22,20:44,N,VIIRS,2023,2,8,24h,Gangaram,Mahabubabad,50
+17.91969,80.23392,2023-02-22,20:44,N,VIIRS,2023,2,8,48h,Gangaram,Mahabubabad,50
+17.91969,80.23392,2023-02-22,20:44,N,VIIRS,2023,2,8,7d,Gangaram,Mahabubabad,50
 17.9198,80.23087,2023-02-21,20:10,1,VIIRS,2023,2,8,24h,Gangaram,Mahabubabad,50
 17.9198,80.23087,2023-02-21,20:10,1,VIIRS,2023,2,8,48h,Gangaram,Mahabubabad,50
 17.9198,80.23087,2023-02-21,20:10,1,VIIRS,2023,2,8,7d,Gangaram,Mahabubabad,50
+17.9206,80.22927,2023-02-22,20:44,N,VIIRS,2023,2,8,24h,Gangaram,Mahabubabad,50
+17.9206,80.22927,2023-02-22,20:44,N,VIIRS,2023,2,8,48h,Gangaram,Mahabubabad,50
+17.9206,80.22927,2023-02-22,20:44,N,VIIRS,2023,2,8,7d,Gangaram,Mahabubabad,50
 17.92134,80.01828,2023-02-15,7:52,1,VIIRS,2023,2,7,7d,Kothaguda,Mahabubabad,50
 17.92172,80.11971,2023-02-21,7:39,1,VIIRS,2023,2,8,24h,Kothaguda,Mahabubabad,50
 17.92172,80.11971,2023-02-21,7:39,1,VIIRS,2023,2,8,48h,Kothaguda,Mahabubabad,50
@@ -1690,10 +2077,28 @@ latitude,longitude,acq_date,acq_time,satellite,instrument,year,month,week,durati
 17.94275,80.20223,2023-02-20,7:48,A,MODIS,2023,2,8,48h,Kothaguda,Mahabubabad,56
 17.94275,80.20223,2023-02-20,7:48,A,MODIS,2023,2,8,7d,Kothaguda,Mahabubabad,56
 17.94287,80.13665,2023-02-15,7:52,1,VIIRS,2023,2,7,7d,Kothaguda,Mahabubabad,50
+17.94336,80.36414,2023-02-22,7:20,1,VIIRS,2023,2,8,24h,Gundala,Bhadradri Kothagudem,50
+17.94336,80.36414,2023-02-22,7:20,1,VIIRS,2023,2,8,48h,Gundala,Bhadradri Kothagudem,50
+17.94336,80.36414,2023-02-22,7:20,1,VIIRS,2023,2,8,7d,Gundala,Bhadradri Kothagudem,50
+17.9444,80.36958,2023-02-22,7:20,1,VIIRS,2023,2,8,24h,Gundala,Bhadradri Kothagudem,50
+17.9444,80.36958,2023-02-22,7:20,1,VIIRS,2023,2,8,48h,Gundala,Bhadradri Kothagudem,50
+17.9444,80.36958,2023-02-22,7:20,1,VIIRS,2023,2,8,7d,Gundala,Bhadradri Kothagudem,50
+17.94448,80.36729,2023-02-22,7:20,1,VIIRS,2023,2,8,24h,Gundala,Bhadradri Kothagudem,50
+17.94448,80.36729,2023-02-22,7:20,1,VIIRS,2023,2,8,48h,Gundala,Bhadradri Kothagudem,50
+17.94448,80.36729,2023-02-22,7:20,1,VIIRS,2023,2,8,7d,Gundala,Bhadradri Kothagudem,50
 17.94449,80.00597,2023-02-16,20:04,1,VIIRS,2023,2,7,7d,Kothaguda,Mahabubabad,50
 17.9451,80.00169,2023-02-16,20:04,1,VIIRS,2023,2,7,7d,Kothaguda,Mahabubabad,50
 17.94515,80.21335,2023-02-20,7:58,1,VIIRS,2023,2,8,48h,Kothaguda,Mahabubabad,50
 17.94515,80.21335,2023-02-20,7:58,1,VIIRS,2023,2,8,7d,Kothaguda,Mahabubabad,50
+17.94553,80.37021,2023-02-22,8:11,N,VIIRS,2023,2,8,24h,Gundala,Bhadradri Kothagudem,50
+17.94553,80.37021,2023-02-22,8:11,N,VIIRS,2023,2,8,48h,Gundala,Bhadradri Kothagudem,50
+17.94553,80.37021,2023-02-22,8:11,N,VIIRS,2023,2,8,7d,Gundala,Bhadradri Kothagudem,50
+17.95465,80.28896,2023-02-22,20:44,N,VIIRS,2023,2,8,24h,Gundala,Bhadradri Kothagudem,50
+17.95465,80.28896,2023-02-22,20:44,N,VIIRS,2023,2,8,48h,Gundala,Bhadradri Kothagudem,50
+17.95465,80.28896,2023-02-22,20:44,N,VIIRS,2023,2,8,7d,Gundala,Bhadradri Kothagudem,50
+17.95552,80.28442,2023-02-22,20:44,N,VIIRS,2023,2,8,24h,Gundala,Bhadradri Kothagudem,50
+17.95552,80.28442,2023-02-22,20:44,N,VIIRS,2023,2,8,48h,Gundala,Bhadradri Kothagudem,50
+17.95552,80.28442,2023-02-22,20:44,N,VIIRS,2023,2,8,7d,Gundala,Bhadradri Kothagudem,50
 17.95614,79.49483,2023-02-21,20:10,1,VIIRS,2023,2,8,24h,Khaazipet,Hanumakonda,50
 17.95614,79.49483,2023-02-21,20:10,1,VIIRS,2023,2,8,48h,Khaazipet,Hanumakonda,50
 17.95614,79.49483,2023-02-21,20:10,1,VIIRS,2023,2,8,7d,Khaazipet,Hanumakonda,50
@@ -1702,10 +2107,16 @@ latitude,longitude,acq_date,acq_time,satellite,instrument,year,month,week,durati
 17.9567,79.4938,2023-02-21,20:10,1,VIIRS,2023,2,8,48h,Khaazipet,Hanumakonda,50
 17.9567,79.4938,2023-02-21,20:10,1,VIIRS,2023,2,8,7d,Khaazipet,Hanumakonda,50
 17.95713,80.79871,2023-02-19,20:48,1,VIIRS,2023,2,7,7d,Manuguru,Bhadradri Kothagudem,50
+17.95728,80.28854,2023-02-22,19:53,1,VIIRS,2023,2,8,24h,Gangaram,Mahabubabad,50
+17.95728,80.28854,2023-02-22,19:53,1,VIIRS,2023,2,8,48h,Gangaram,Mahabubabad,50
+17.95728,80.28854,2023-02-22,19:53,1,VIIRS,2023,2,8,7d,Gangaram,Mahabubabad,50
 17.95732,80.80044,2023-02-21,21:01,N,VIIRS,2023,2,8,24h,Manuguru,Bhadradri Kothagudem,50
 17.95732,80.80044,2023-02-21,21:01,N,VIIRS,2023,2,8,48h,Manuguru,Bhadradri Kothagudem,50
 17.95732,80.80044,2023-02-21,21:01,N,VIIRS,2023,2,8,7d,Manuguru,Bhadradri Kothagudem,50
 17.95735,80.80132,2023-02-15,20:23,1,VIIRS,2023,2,7,7d,Manuguru,Bhadradri Kothagudem,50
+17.95777,80.28452,2023-02-22,19:53,1,VIIRS,2023,2,8,24h,Gangaram,Mahabubabad,50
+17.95777,80.28452,2023-02-22,19:53,1,VIIRS,2023,2,8,48h,Gangaram,Mahabubabad,50
+17.95777,80.28452,2023-02-22,19:53,1,VIIRS,2023,2,8,7d,Gangaram,Mahabubabad,50
 17.95777,80.79921,2023-02-21,21:01,N,VIIRS,2023,2,8,24h,Manuguru,Bhadradri Kothagudem,50
 17.95777,80.79921,2023-02-21,21:01,N,VIIRS,2023,2,8,48h,Manuguru,Bhadradri Kothagudem,50
 17.95777,80.79921,2023-02-21,21:01,N,VIIRS,2023,2,8,7d,Manuguru,Bhadradri Kothagudem,50
@@ -1722,17 +2133,50 @@ latitude,longitude,acq_date,acq_time,satellite,instrument,year,month,week,durati
 17.95845,80.79958,2023-02-21,20:10,1,VIIRS,2023,2,8,48h,Manuguru,Bhadradri Kothagudem,50
 17.95845,80.79958,2023-02-21,20:10,1,VIIRS,2023,2,8,7d,Manuguru,Bhadradri Kothagudem,50
 17.95859,80.79892,2023-02-18,20:18,N,VIIRS,2023,2,7,7d,Manuguru,Bhadradri Kothagudem,50
+17.95947,80.79848,2023-02-22,20:44,N,VIIRS,2023,2,8,24h,Manuguru,Bhadradri Kothagudem,50
+17.95947,80.79848,2023-02-22,20:44,N,VIIRS,2023,2,8,48h,Manuguru,Bhadradri Kothagudem,50
+17.95947,80.79848,2023-02-22,20:44,N,VIIRS,2023,2,8,7d,Manuguru,Bhadradri Kothagudem,50
 17.95954,80.80143,2023-02-17,20:38,N,VIIRS,2023,2,7,7d,Manuguru,Bhadradri Kothagudem,50
 17.95959,80.79995,2023-02-20,20:29,1,VIIRS,2023,2,8,48h,Manuguru,Bhadradri Kothagudem,50
 17.95959,80.79995,2023-02-20,20:29,1,VIIRS,2023,2,8,7d,Manuguru,Bhadradri Kothagudem,50
+17.96057,80.27446,2023-02-22,7:20,1,VIIRS,2023,2,8,24h,Gangaram,Mahabubabad,50
+17.96057,80.27446,2023-02-22,7:20,1,VIIRS,2023,2,8,48h,Gangaram,Mahabubabad,50
+17.96057,80.27446,2023-02-22,7:20,1,VIIRS,2023,2,8,7d,Gangaram,Mahabubabad,50
 17.9607,80.80151,2023-02-16,20:55,N,VIIRS,2023,2,7,7d,Manuguru,Bhadradri Kothagudem,50
+17.96124,80.27579,2023-02-22,8:11,N,VIIRS,2023,2,8,24h,Gangaram,Mahabubabad,50
+17.96124,80.27579,2023-02-22,8:11,N,VIIRS,2023,2,8,48h,Gangaram,Mahabubabad,50
+17.96124,80.27579,2023-02-22,8:11,N,VIIRS,2023,2,8,7d,Gangaram,Mahabubabad,50
+17.96132,80.27841,2023-02-22,8:11,N,VIIRS,2023,2,8,24h,Gangaram,Mahabubabad,50
+17.96132,80.27841,2023-02-22,8:11,N,VIIRS,2023,2,8,48h,Gangaram,Mahabubabad,50
+17.96132,80.27841,2023-02-22,8:11,N,VIIRS,2023,2,8,7d,Gangaram,Mahabubabad,50
+17.96164,80.27986,2023-02-22,7:20,1,VIIRS,2023,2,8,24h,Gangaram,Mahabubabad,50
+17.96164,80.27986,2023-02-22,7:20,1,VIIRS,2023,2,8,48h,Gangaram,Mahabubabad,50
+17.96164,80.27986,2023-02-22,7:20,1,VIIRS,2023,2,8,7d,Gangaram,Mahabubabad,50
 17.96202,80.79709,2023-02-18,21:05,1,VIIRS,2023,2,7,7d,Manuguru,Bhadradri Kothagudem,50
+17.96218,80.31491,2023-02-22,8:11,N,VIIRS,2023,2,8,24h,Gundala,Bhadradri Kothagudem,50
+17.96218,80.31491,2023-02-22,8:11,N,VIIRS,2023,2,8,48h,Gundala,Bhadradri Kothagudem,50
+17.96218,80.31491,2023-02-22,8:11,N,VIIRS,2023,2,8,7d,Gundala,Bhadradri Kothagudem,50
+17.96252,80.31749,2023-02-22,8:11,N,VIIRS,2023,2,8,24h,Gundala,Bhadradri Kothagudem,50
+17.96252,80.31749,2023-02-22,8:11,N,VIIRS,2023,2,8,48h,Gundala,Bhadradri Kothagudem,50
+17.96252,80.31749,2023-02-22,8:11,N,VIIRS,2023,2,8,7d,Gundala,Bhadradri Kothagudem,50
 17.96303,80.21358,2023-02-17,8:05,N,VIIRS,2023,2,7,7d,Kothaguda,Mahabubabad,50
+17.96365,79.9844,2023-02-22,20:44,N,VIIRS,2023,2,8,24h,Khanapur,Warangal,50
+17.96365,79.9844,2023-02-22,20:44,N,VIIRS,2023,2,8,48h,Khanapur,Warangal,50
+17.96365,79.9844,2023-02-22,20:44,N,VIIRS,2023,2,8,7d,Khanapur,Warangal,50
 17.96448,80.27406,2023-02-22,5:12,T,MODIS,2023,2,8,24h,Gangaram,Mahabubabad,53
 17.96448,80.27406,2023-02-22,5:12,T,MODIS,2023,2,8,48h,Gangaram,Mahabubabad,53
 17.96448,80.27406,2023-02-22,5:12,T,MODIS,2023,2,8,7d,Gangaram,Mahabubabad,53
+17.96567,79.98611,2023-02-22,19:53,1,VIIRS,2023,2,8,24h,Khanapur,Warangal,50
+17.96567,79.98611,2023-02-22,19:53,1,VIIRS,2023,2,8,48h,Khanapur,Warangal,50
+17.96567,79.98611,2023-02-22,19:53,1,VIIRS,2023,2,8,7d,Khanapur,Warangal,50
+17.96621,79.98187,2023-02-22,19:53,1,VIIRS,2023,2,8,24h,Khanapur,Warangal,50
+17.96621,79.98187,2023-02-22,19:53,1,VIIRS,2023,2,8,48h,Khanapur,Warangal,50
+17.96621,79.98187,2023-02-22,19:53,1,VIIRS,2023,2,8,7d,Khanapur,Warangal,50
 17.96661,80.21306,2023-02-17,8:05,N,VIIRS,2023,2,7,7d,Kothaguda,Mahabubabad,50
 17.96759,78.87885,2023-02-15,8:43,N,VIIRS,2023,2,7,7d,Kondapak,Siddipet,50
+17.96829,80.11412,2023-02-22,8:11,N,VIIRS,2023,2,8,24h,Kothaguda,Mahabubabad,50
+17.96829,80.11412,2023-02-22,8:11,N,VIIRS,2023,2,8,48h,Kothaguda,Mahabubabad,50
+17.96829,80.11412,2023-02-22,8:11,N,VIIRS,2023,2,8,7d,Kothaguda,Mahabubabad,50
 17.96953,78.87853,2023-02-15,8:43,N,VIIRS,2023,2,7,7d,Kondapak,Siddipet,50
 17.97132,80.14251,2023-02-15,7:52,1,VIIRS,2023,2,7,7d,Gangaram,Mahabubabad,50
 17.97462,80.14195,2023-02-15,7:52,1,VIIRS,2023,2,7,7d,Gangaram,Mahabubabad,50
@@ -1773,9 +2217,15 @@ latitude,longitude,acq_date,acq_time,satellite,instrument,year,month,week,durati
 18.0,80.34125,2023-02-21,7:39,1,VIIRS,2023,2,8,48h,Gundala,Bhadradri Kothagudem,50
 18.0,80.34125,2023-02-21,7:39,1,VIIRS,2023,2,8,7d,Gundala,Bhadradri Kothagudem,50
 18.00069,80.01556,2023-02-15,8:43,N,VIIRS,2023,2,7,7d,Kothaguda,Mahabubabad,50
+18.00072,80.22642,2023-02-22,7:20,1,VIIRS,2023,2,8,24h,Gangaram,Mahabubabad,50
+18.00072,80.22642,2023-02-22,7:20,1,VIIRS,2023,2,8,48h,Gangaram,Mahabubabad,50
+18.00072,80.22642,2023-02-22,7:20,1,VIIRS,2023,2,8,7d,Gangaram,Mahabubabad,50
 18.0015,80.11899,2023-02-15,7:52,1,VIIRS,2023,2,7,7d,Kothaguda,Mahabubabad,50
 18.00162,79.96973,2023-02-15,8:43,N,VIIRS,2023,2,7,7d,Khanapur,Warangal,50
 18.00186,79.96732,2023-02-15,7:52,1,VIIRS,2023,2,7,7d,Khanapur,Warangal,50
+18.00212,80.223,2023-02-22,8:11,N,VIIRS,2023,2,8,24h,Gangaram,Mahabubabad,50
+18.00212,80.223,2023-02-22,8:11,N,VIIRS,2023,2,8,48h,Gangaram,Mahabubabad,50
+18.00212,80.223,2023-02-22,8:11,N,VIIRS,2023,2,8,7d,Gangaram,Mahabubabad,50
 18.00301,80.11864,2023-02-15,8:43,N,VIIRS,2023,2,7,7d,Kothaguda,Mahabubabad,50
 18.00366,80.12128,2023-02-15,8:43,N,VIIRS,2023,2,7,7d,Kothaguda,Mahabubabad,50
 18.00479,80.11843,2023-02-15,7:52,1,VIIRS,2023,2,7,7d,Kothaguda,Mahabubabad,50
@@ -1830,6 +2280,9 @@ latitude,longitude,acq_date,acq_time,satellite,instrument,year,month,week,durati
 18.03296,80.19422,2023-02-16,20:04,1,VIIRS,2023,2,7,7d,Tadvai (Sammakka Sarakka),Mulugu,50
 18.03508,80.10095,2023-02-16,8:13,A,MODIS,2023,2,7,7d,Kothaguda,Mahabubabad,52
 18.03517,80.18092,2023-02-15,8:43,N,VIIRS,2023,2,7,7d,Tadvai (Sammakka Sarakka),Mulugu,50
+18.0355,80.10223,2023-02-22,7:20,1,VIIRS,2023,2,8,24h,Kothaguda,Mahabubabad,50
+18.0355,80.10223,2023-02-22,7:20,1,VIIRS,2023,2,8,48h,Kothaguda,Mahabubabad,50
+18.0355,80.10223,2023-02-22,7:20,1,VIIRS,2023,2,8,7d,Kothaguda,Mahabubabad,50
 18.0369,80.16634,2023-02-16,20:55,N,VIIRS,2023,2,7,7d,Kothaguda,Mahabubabad,50
 18.03719,80.16489,2023-02-16,20:04,1,VIIRS,2023,2,7,7d,Kothaguda,Mahabubabad,50
 18.03722,80.17578,2023-02-15,7:52,1,VIIRS,2023,2,7,7d,Tadvai (Sammakka Sarakka),Mulugu,50
@@ -1842,6 +2295,9 @@ latitude,longitude,acq_date,acq_time,satellite,instrument,year,month,week,durati
 18.04247,78.80505,2023-02-21,7:39,1,VIIRS,2023,2,8,24h,Thoguta,Siddipet,50
 18.04247,78.80505,2023-02-21,7:39,1,VIIRS,2023,2,8,48h,Thoguta,Siddipet,50
 18.04247,78.80505,2023-02-21,7:39,1,VIIRS,2023,2,8,7d,Thoguta,Siddipet,50
+18.04253,80.15833,2023-02-22,19:53,1,VIIRS,2023,2,8,24h,Kothaguda,Mahabubabad,50
+18.04253,80.15833,2023-02-22,19:53,1,VIIRS,2023,2,8,48h,Kothaguda,Mahabubabad,50
+18.04253,80.15833,2023-02-22,19:53,1,VIIRS,2023,2,8,7d,Kothaguda,Mahabubabad,50
 18.04432,80.10477,2023-02-16,7:35,1,VIIRS,2023,2,7,7d,Kothaguda,Mahabubabad,50
 18.04489,80.13757,2023-02-15,7:52,1,VIIRS,2023,2,7,7d,Kothaguda,Mahabubabad,50
 18.04592,80.05608,2023-02-15,7:52,1,VIIRS,2023,2,7,7d,Kothaguda,Mahabubabad,50
@@ -1859,8 +2315,14 @@ latitude,longitude,acq_date,acq_time,satellite,instrument,year,month,week,durati
 18.05427,80.09634,2023-02-15,20:23,1,VIIRS,2023,2,7,7d,Kothaguda,Mahabubabad,50
 18.05482,80.09743,2023-02-15,21:14,N,VIIRS,2023,2,7,7d,Kothaguda,Mahabubabad,50
 18.06137,80.20129,2023-02-15,7:52,1,VIIRS,2023,2,7,7d,Tadvai (Sammakka Sarakka),Mulugu,50
+18.06286,80.10097,2023-02-22,19:53,1,VIIRS,2023,2,8,24h,Kothaguda,Mahabubabad,50
+18.06286,80.10097,2023-02-22,19:53,1,VIIRS,2023,2,8,48h,Kothaguda,Mahabubabad,50
+18.06286,80.10097,2023-02-22,19:53,1,VIIRS,2023,2,8,7d,Kothaguda,Mahabubabad,50
 18.06315,80.20022,2023-02-15,8:43,N,VIIRS,2023,2,7,7d,Tadvai (Sammakka Sarakka),Mulugu,50
 18.06321,80.21056,2023-02-16,7:35,1,VIIRS,2023,2,7,7d,Tadvai (Sammakka Sarakka),Mulugu,50
+18.06502,80.21642,2023-02-22,8:11,N,VIIRS,2023,2,8,24h,Tadvai (Sammakka Sarakka),Mulugu,50
+18.06502,80.21642,2023-02-22,8:11,N,VIIRS,2023,2,8,48h,Tadvai (Sammakka Sarakka),Mulugu,50
+18.06502,80.21642,2023-02-22,8:11,N,VIIRS,2023,2,8,7d,Tadvai (Sammakka Sarakka),Mulugu,50
 18.06514,80.20049,2023-02-15,7:03,N,VIIRS,2023,2,7,7d,Tadvai (Sammakka Sarakka),Mulugu,50
 18.06754,80.20916,2023-02-16,8:26,N,VIIRS,2023,2,7,7d,Tadvai (Sammakka Sarakka),Mulugu,50
 18.06796,80.20019,2023-02-15,7:52,1,VIIRS,2023,2,7,7d,Tadvai (Sammakka Sarakka),Mulugu,50
@@ -1914,15 +2376,33 @@ latitude,longitude,acq_date,acq_time,satellite,instrument,year,month,week,durati
 18.08679,80.01572,2023-02-16,20:04,1,VIIRS,2023,2,7,7d,Nallabelli,Warangal,50
 18.08839,80.01691,2023-02-16,20:55,N,VIIRS,2023,2,7,7d,Nallabelli,Warangal,50
 18.09055,77.64127,2023-02-19,7:28,N,VIIRS,2023,2,7,7d,Nagalgidda,Sangareddy,50
+18.0912,80.21471,2023-02-22,19:53,1,VIIRS,2023,2,8,24h,Tadvai (Sammakka Sarakka),Mulugu,50
+18.0912,80.21471,2023-02-22,19:53,1,VIIRS,2023,2,8,48h,Tadvai (Sammakka Sarakka),Mulugu,50
+18.0912,80.21471,2023-02-22,19:53,1,VIIRS,2023,2,8,7d,Tadvai (Sammakka Sarakka),Mulugu,50
 18.09246,80.01897,2023-02-16,20:23,A,MODIS,2023,2,7,7d,Nallabelli,Warangal,58
 18.09269,80.18131,2023-02-16,8:13,A,MODIS,2023,2,7,7d,Tadvai (Sammakka Sarakka),Mulugu,72
 18.09298,77.78264,2023-02-21,7:39,1,VIIRS,2023,2,8,24h,Narayankhed,Sangareddy,50
 18.09298,77.78264,2023-02-21,7:39,1,VIIRS,2023,2,8,48h,Narayankhed,Sangareddy,50
 18.09298,77.78264,2023-02-21,7:39,1,VIIRS,2023,2,8,7d,Narayankhed,Sangareddy,50
+18.09526,80.21395,2023-02-22,20:44,N,VIIRS,2023,2,8,24h,Tadvai (Sammakka Sarakka),Mulugu,50
+18.09526,80.21395,2023-02-22,20:44,N,VIIRS,2023,2,8,48h,Tadvai (Sammakka Sarakka),Mulugu,50
+18.09526,80.21395,2023-02-22,20:44,N,VIIRS,2023,2,8,7d,Tadvai (Sammakka Sarakka),Mulugu,50
+18.09545,80.21519,2023-02-22,19:53,1,VIIRS,2023,2,8,24h,Tadvai (Sammakka Sarakka),Mulugu,50
+18.09545,80.21519,2023-02-22,19:53,1,VIIRS,2023,2,8,48h,Tadvai (Sammakka Sarakka),Mulugu,50
+18.09545,80.21519,2023-02-22,19:53,1,VIIRS,2023,2,8,7d,Tadvai (Sammakka Sarakka),Mulugu,50
 18.09576,79.69522,2023-02-15,7:52,1,VIIRS,2023,2,7,7d,Atmakur,Hanumakonda,50
+18.09594,80.21124,2023-02-22,19:53,1,VIIRS,2023,2,8,24h,Tadvai (Sammakka Sarakka),Mulugu,50
+18.09594,80.21124,2023-02-22,19:53,1,VIIRS,2023,2,8,48h,Tadvai (Sammakka Sarakka),Mulugu,50
+18.09594,80.21124,2023-02-22,19:53,1,VIIRS,2023,2,8,7d,Tadvai (Sammakka Sarakka),Mulugu,50
 18.09715,80.27686,2023-02-20,7:58,1,VIIRS,2023,2,8,48h,Tadvai (Sammakka Sarakka),Mulugu,50
 18.09715,80.27686,2023-02-20,7:58,1,VIIRS,2023,2,8,7d,Tadvai (Sammakka Sarakka),Mulugu,50
+18.10021,80.2116,2023-02-22,19:53,1,VIIRS,2023,2,8,24h,Tadvai (Sammakka Sarakka),Mulugu,50
+18.10021,80.2116,2023-02-22,19:53,1,VIIRS,2023,2,8,48h,Tadvai (Sammakka Sarakka),Mulugu,50
+18.10021,80.2116,2023-02-22,19:53,1,VIIRS,2023,2,8,7d,Tadvai (Sammakka Sarakka),Mulugu,50
 18.10147,78.34324,2023-02-17,5:01,T,MODIS,2023,2,7,7d,Medak,Medak,53
+18.1028,80.04977,2023-02-22,19:53,1,VIIRS,2023,2,8,24h,Mulug,Mulugu,50
+18.1028,80.04977,2023-02-22,19:53,1,VIIRS,2023,2,8,48h,Mulug,Mulugu,50
+18.1028,80.04977,2023-02-22,19:53,1,VIIRS,2023,2,8,7d,Mulug,Mulugu,50
 18.10285,79.95285,2023-02-16,20:04,1,VIIRS,2023,2,7,7d,Mulug,Mulugu,50
 18.10352,80.18285,2023-02-15,20:23,1,VIIRS,2023,2,7,7d,Tadvai (Sammakka Sarakka),Mulugu,50
 18.10416,80.17902,2023-02-15,20:23,1,VIIRS,2023,2,7,7d,Tadvai (Sammakka Sarakka),Mulugu,50
@@ -1947,11 +2427,17 @@ latitude,longitude,acq_date,acq_time,satellite,instrument,year,month,week,durati
 18.11388,80.18426,2023-02-16,20:04,1,VIIRS,2023,2,7,7d,Tadvai (Sammakka Sarakka),Mulugu,50
 18.11437,80.18359,2023-02-16,20:55,N,VIIRS,2023,2,7,7d,Tadvai (Sammakka Sarakka),Mulugu,50
 18.11525,80.3952,2023-02-15,7:52,1,VIIRS,2023,2,7,7d,Tadvai (Sammakka Sarakka),Mulugu,50
+18.11531,80.12496,2023-02-22,19:53,1,VIIRS,2023,2,8,24h,Mulug,Mulugu,50
+18.11531,80.12496,2023-02-22,19:53,1,VIIRS,2023,2,8,48h,Mulug,Mulugu,50
+18.11531,80.12496,2023-02-22,19:53,1,VIIRS,2023,2,8,7d,Mulug,Mulugu,50
 18.11557,80.17329,2023-02-15,20:23,1,VIIRS,2023,2,7,7d,Govindaraopet,Mulugu,50
 18.11584,79.95876,2023-02-21,7:39,1,VIIRS,2023,2,8,24h,Mulug,Mulugu,50
 18.11584,79.95876,2023-02-21,7:39,1,VIIRS,2023,2,8,48h,Mulug,Mulugu,50
 18.11584,79.95876,2023-02-21,7:39,1,VIIRS,2023,2,8,7d,Mulug,Mulugu,50
 18.11612,79.26076,2023-02-16,20:04,1,VIIRS,2023,2,7,7d,Husnabad,Siddipet,50
+18.11637,80.12663,2023-02-22,20:44,N,VIIRS,2023,2,8,24h,Mulug,Mulugu,50
+18.11637,80.12663,2023-02-22,20:44,N,VIIRS,2023,2,8,48h,Mulug,Mulugu,50
+18.11637,80.12663,2023-02-22,20:44,N,VIIRS,2023,2,8,7d,Mulug,Mulugu,50
 18.11676,79.94709,2023-02-16,7:35,1,VIIRS,2023,2,7,7d,Mulug,Mulugu,50
 18.11738,80.17592,2023-02-16,7:35,1,VIIRS,2023,2,7,7d,Govindaraopet,Mulugu,50
 18.11742,80.18481,2023-02-16,20:04,1,VIIRS,2023,2,7,7d,Tadvai (Sammakka Sarakka),Mulugu,50
@@ -1959,10 +2445,19 @@ latitude,longitude,acq_date,acq_time,satellite,instrument,year,month,week,durati
 18.11828,79.97416,2023-02-20,7:09,N,VIIRS,2023,2,8,48h,Mulug,Mulugu,50
 18.11828,79.97416,2023-02-20,7:09,N,VIIRS,2023,2,8,7d,Mulug,Mulugu,50
 18.11969,80.18482,2023-02-16,20:55,N,VIIRS,2023,2,7,7d,Govindaraopet,Mulugu,50
+18.12012,80.2039,2023-02-22,20:44,N,VIIRS,2023,2,8,24h,Tadvai (Sammakka Sarakka),Mulugu,50
+18.12012,80.2039,2023-02-22,20:44,N,VIIRS,2023,2,8,48h,Tadvai (Sammakka Sarakka),Mulugu,50
+18.12012,80.2039,2023-02-22,20:44,N,VIIRS,2023,2,8,7d,Tadvai (Sammakka Sarakka),Mulugu,50
 18.12026,80.18808,2023-02-17,8:05,N,VIIRS,2023,2,7,7d,Tadvai (Sammakka Sarakka),Mulugu,50
+18.12029,80.20136,2023-02-22,20:44,N,VIIRS,2023,2,8,24h,Tadvai (Sammakka Sarakka),Mulugu,50
+18.12029,80.20136,2023-02-22,20:44,N,VIIRS,2023,2,8,48h,Tadvai (Sammakka Sarakka),Mulugu,50
+18.12029,80.20136,2023-02-22,20:44,N,VIIRS,2023,2,8,7d,Tadvai (Sammakka Sarakka),Mulugu,50
 18.1205,80.18096,2023-02-16,20:55,N,VIIRS,2023,2,7,7d,Govindaraopet,Mulugu,50
 18.12082,80.1627,2023-02-15,20:23,1,VIIRS,2023,2,7,7d,Govindaraopet,Mulugu,50
 18.12123,80.17746,2023-02-16,20:55,N,VIIRS,2023,2,7,7d,Govindaraopet,Mulugu,50
+18.12127,80.13087,2023-02-22,8:11,N,VIIRS,2023,2,8,24h,Mulug,Mulugu,50
+18.12127,80.13087,2023-02-22,8:11,N,VIIRS,2023,2,8,48h,Mulug,Mulugu,50
+18.12127,80.13087,2023-02-22,8:11,N,VIIRS,2023,2,8,7d,Mulug,Mulugu,50
 18.12128,80.18541,2023-02-17,5:01,T,MODIS,2023,2,7,7d,Govindaraopet,Mulugu,72
 18.12144,80.16958,2023-02-20,7:58,1,VIIRS,2023,2,8,48h,Govindaraopet,Mulugu,50
 18.12144,80.16958,2023-02-20,7:58,1,VIIRS,2023,2,8,7d,Govindaraopet,Mulugu,50
@@ -1991,6 +2486,9 @@ latitude,longitude,acq_date,acq_time,satellite,instrument,year,month,week,durati
 18.13184,79.93069,2023-02-15,20:23,1,VIIRS,2023,2,7,7d,Mulug,Mulugu,50
 18.13194,80.18656,2023-02-18,20:18,N,VIIRS,2023,2,7,7d,Govindaraopet,Mulugu,50
 18.13408,79.95276,2023-02-15,5:18,T,MODIS,2023,2,7,7d,Mulug,Mulugu,64
+18.13417,80.76876,2023-02-22,8:11,N,VIIRS,2023,2,8,24h,Cherla,Bhadradri Kothagudem,50
+18.13417,80.76876,2023-02-22,8:11,N,VIIRS,2023,2,8,48h,Cherla,Bhadradri Kothagudem,50
+18.13417,80.76876,2023-02-22,8:11,N,VIIRS,2023,2,8,7d,Cherla,Bhadradri Kothagudem,50
 18.13462,80.77448,2023-02-21,7:39,1,VIIRS,2023,2,8,24h,Cherla,Bhadradri Kothagudem,50
 18.13462,80.77448,2023-02-21,7:39,1,VIIRS,2023,2,8,48h,Cherla,Bhadradri Kothagudem,50
 18.13462,80.77448,2023-02-21,7:39,1,VIIRS,2023,2,8,7d,Cherla,Bhadradri Kothagudem,50
@@ -2008,6 +2506,9 @@ latitude,longitude,acq_date,acq_time,satellite,instrument,year,month,week,durati
 18.13983,80.12141,2023-02-21,20:10,1,VIIRS,2023,2,8,48h,Mulug,Mulugu,50
 18.13983,80.12141,2023-02-21,20:10,1,VIIRS,2023,2,8,7d,Mulug,Mulugu,50
 18.14,79.91904,2023-02-15,19:34,N,VIIRS,2023,2,7,7d,Mulug,Mulugu,50
+18.14154,78.26517,2023-02-22,8:11,N,VIIRS,2023,2,8,24h,Havelighanpur,Medak,50
+18.14154,78.26517,2023-02-22,8:11,N,VIIRS,2023,2,8,48h,Havelighanpur,Medak,50
+18.14154,78.26517,2023-02-22,8:11,N,VIIRS,2023,2,8,7d,Havelighanpur,Medak,50
 18.1431,78.25137,2023-02-21,20:10,1,VIIRS,2023,2,8,24h,Havelighanpur,Medak,50
 18.1431,78.25137,2023-02-21,20:10,1,VIIRS,2023,2,8,48h,Havelighanpur,Medak,50
 18.1431,78.25137,2023-02-21,20:10,1,VIIRS,2023,2,8,7d,Havelighanpur,Medak,50
@@ -2015,6 +2516,9 @@ latitude,longitude,acq_date,acq_time,satellite,instrument,year,month,week,durati
 18.14778,79.92001,2023-02-15,7:52,1,VIIRS,2023,2,7,7d,Mulug,Mulugu,50
 18.14822,79.92079,2023-02-15,8:43,N,VIIRS,2023,2,7,7d,Mulug,Mulugu,50
 18.15364,79.90967,2023-02-15,8:43,N,VIIRS,2023,2,7,7d,Mulug,Mulugu,50
+18.16284,80.05827,2023-02-22,19:53,1,VIIRS,2023,2,8,24h,Govindaraopet,Mulugu,50
+18.16284,80.05827,2023-02-22,19:53,1,VIIRS,2023,2,8,48h,Govindaraopet,Mulugu,50
+18.16284,80.05827,2023-02-22,19:53,1,VIIRS,2023,2,8,7d,Govindaraopet,Mulugu,50
 18.1697,79.96751,2023-02-19,7:28,N,VIIRS,2023,2,7,7d,Mulug,Mulugu,50
 18.17099,79.90221,2023-02-17,8:05,N,VIIRS,2023,2,7,7d,Mulug,Mulugu,50
 18.17148,79.90187,2023-02-17,8:05,N,VIIRS,2023,2,7,7d,Mulug,Mulugu,50
@@ -2032,6 +2536,12 @@ latitude,longitude,acq_date,acq_time,satellite,instrument,year,month,week,durati
 18.21941,78.30528,2023-02-16,8:13,A,MODIS,2023,2,7,7d,Rajampet,Kamareddy,76
 18.22024,79.80109,2023-02-16,7:35,1,VIIRS,2023,2,7,7d,Regonda,Jayashankar Bhupalpally,50
 18.22296,78.30447,2023-02-15,5:18,T,MODIS,2023,2,7,7d,Rajampet,Kamareddy,67
+18.23064,80.75256,2023-02-22,8:11,N,VIIRS,2023,2,8,24h,Venkatapuram,Mulugu,50
+18.23064,80.75256,2023-02-22,8:11,N,VIIRS,2023,2,8,48h,Venkatapuram,Mulugu,50
+18.23064,80.75256,2023-02-22,8:11,N,VIIRS,2023,2,8,7d,Venkatapuram,Mulugu,50
+18.23229,78.76577,2023-02-22,7:20,1,VIIRS,2023,2,8,24h,Narayanraopet,Siddipet,50
+18.23229,78.76577,2023-02-22,7:20,1,VIIRS,2023,2,8,48h,Narayanraopet,Siddipet,50
+18.23229,78.76577,2023-02-22,7:20,1,VIIRS,2023,2,8,7d,Narayanraopet,Siddipet,50
 18.23273,78.09643,2023-02-15,8:43,N,VIIRS,2023,2,7,7d,Lingampet,Kamareddy,50
 18.23362,78.10488,2023-02-15,8:43,N,VIIRS,2023,2,7,7d,Lingampet,Kamareddy,50
 18.23409,78.67105,2023-02-21,20:40,A,MODIS,2023,2,8,24h,Dubbak,Siddipet,51
@@ -2087,14 +2597,29 @@ latitude,longitude,acq_date,acq_time,satellite,instrument,year,month,week,durati
 18.30297,80.6857,2023-02-16,20:04,1,VIIRS,2023,2,7,7d,Venkatapuram,Mulugu,50
 18.30506,80.6881,2023-02-16,20:55,N,VIIRS,2023,2,7,7d,Venkatapuram,Mulugu,50
 18.30523,78.18611,2023-02-18,8:34,1,VIIRS,2023,2,7,7d,Lingampet,Kamareddy,50
+18.30555,77.69169,2023-02-22,7:22,1,VIIRS,2023,2,8,24h,Pedda Kodapgal,Kamareddy,50
+18.30555,77.69169,2023-02-22,7:22,1,VIIRS,2023,2,8,48h,Pedda Kodapgal,Kamareddy,50
+18.30555,77.69169,2023-02-22,7:22,1,VIIRS,2023,2,8,7d,Pedda Kodapgal,Kamareddy,50
 18.30751,80.69199,2023-02-17,7:13,1,VIIRS,2023,2,7,7d,Venkatapuram,Mulugu,50
 18.3077,80.68526,2023-02-18,7:48,N,VIIRS,2023,2,7,7d,Venkatapuram,Mulugu,50
 18.3092,78.27074,2023-02-15,7:52,1,VIIRS,2023,2,7,7d,Tadwai,Kamareddy,50
 18.3101,78.06168,2023-02-15,7:52,1,VIIRS,2023,2,7,7d,Lingampet,Kamareddy,50
 18.31116,80.6832,2023-02-18,8:00,A,MODIS,2023,2,7,7d,Venkatapuram,Mulugu,72
+18.31844,79.00366,2023-02-22,7:20,1,VIIRS,2023,2,8,24h,Illanthakunta,Rajanna Sircilla,50
+18.31844,79.00366,2023-02-22,7:20,1,VIIRS,2023,2,8,48h,Illanthakunta,Rajanna Sircilla,50
+18.31844,79.00366,2023-02-22,7:20,1,VIIRS,2023,2,8,7d,Illanthakunta,Rajanna Sircilla,50
 18.31939,77.74884,2023-02-19,8:17,1,VIIRS,2023,2,7,7d,Bichkunda,Kamareddy,50
+18.31993,79.00218,2023-02-22,7:20,1,VIIRS,2023,2,8,24h,Illanthakunta,Rajanna Sircilla,50
+18.31993,79.00218,2023-02-22,7:20,1,VIIRS,2023,2,8,48h,Illanthakunta,Rajanna Sircilla,50
+18.31993,79.00218,2023-02-22,7:20,1,VIIRS,2023,2,8,7d,Illanthakunta,Rajanna Sircilla,50
+18.3206,79.0054,2023-02-22,7:20,1,VIIRS,2023,2,8,24h,Illanthakunta,Rajanna Sircilla,50
+18.3206,79.0054,2023-02-22,7:20,1,VIIRS,2023,2,8,48h,Illanthakunta,Rajanna Sircilla,50
+18.3206,79.0054,2023-02-22,7:20,1,VIIRS,2023,2,8,7d,Illanthakunta,Rajanna Sircilla,50
 18.32094,78.54125,2023-02-20,7:58,1,VIIRS,2023,2,8,48h,Gambhiraopet,Rajanna Sircilla,50
 18.32094,78.54125,2023-02-20,7:58,1,VIIRS,2023,2,8,7d,Gambhiraopet,Rajanna Sircilla,50
+18.32285,79.00327,2023-02-22,8:11,N,VIIRS,2023,2,8,24h,Illanthakunta,Rajanna Sircilla,50
+18.32285,79.00327,2023-02-22,8:11,N,VIIRS,2023,2,8,48h,Illanthakunta,Rajanna Sircilla,50
+18.32285,79.00327,2023-02-22,8:11,N,VIIRS,2023,2,8,7d,Illanthakunta,Rajanna Sircilla,50
 18.32647,80.68053,2023-02-17,7:13,1,VIIRS,2023,2,7,7d,Venkatapuram,Mulugu,50
 18.33057,78.55148,2023-02-17,8:05,N,VIIRS,2023,2,7,7d,Gambhiraopet,Rajanna Sircilla,50
 18.34585,78.4618,2023-02-20,8:49,N,VIIRS,2023,2,8,48h,Machareddy,Kamareddy,50
@@ -2116,6 +2641,9 @@ latitude,longitude,acq_date,acq_time,satellite,instrument,year,month,week,durati
 18.36062,77.93517,2023-02-15,20:23,1,VIIRS,2023,2,7,7d,Gandhari,Kamareddy,50
 18.36151,77.93047,2023-02-17,8:05,N,VIIRS,2023,2,7,7d,Gandhari,Kamareddy,50
 18.36153,80.62411,2023-02-16,20:04,1,VIIRS,2023,2,7,7d,Venkatapuram,Mulugu,50
+18.36511,77.92017,2023-02-22,19:53,1,VIIRS,2023,2,8,24h,Banswada,Kamareddy,50
+18.36511,77.92017,2023-02-22,19:53,1,VIIRS,2023,2,8,48h,Banswada,Kamareddy,50
+18.36511,77.92017,2023-02-22,19:53,1,VIIRS,2023,2,8,7d,Banswada,Kamareddy,50
 18.36939,78.04341,2023-02-21,8:32,N,VIIRS,2023,2,8,24h,Gandhari,Kamareddy,50
 18.36939,78.04341,2023-02-21,8:32,N,VIIRS,2023,2,8,48h,Gandhari,Kamareddy,50
 18.36939,78.04341,2023-02-21,8:32,N,VIIRS,2023,2,8,7d,Gandhari,Kamareddy,50
@@ -2131,6 +2659,9 @@ latitude,longitude,acq_date,acq_time,satellite,instrument,year,month,week,durati
 18.37741,80.66421,2023-02-17,8:05,N,VIIRS,2023,2,7,7d,Venkatapuram,Mulugu,50
 18.37744,80.69892,2023-02-16,20:55,N,VIIRS,2023,2,7,7d,Venkatapuram,Mulugu,50
 18.37764,80.69775,2023-02-16,20:55,N,VIIRS,2023,2,7,7d,Venkatapuram,Mulugu,50
+18.3785,80.58124,2023-02-22,8:11,N,VIIRS,2023,2,8,24h,Venkatapuram,Mulugu,50
+18.3785,80.58124,2023-02-22,8:11,N,VIIRS,2023,2,8,48h,Venkatapuram,Mulugu,50
+18.3785,80.58124,2023-02-22,8:11,N,VIIRS,2023,2,8,7d,Venkatapuram,Mulugu,50
 18.37874,80.67949,2023-02-15,7:52,1,VIIRS,2023,2,7,7d,Venkatapuram,Mulugu,50
 18.37903,80.66576,2023-02-17,7:13,1,VIIRS,2023,2,7,7d,Venkatapuram,Mulugu,50
 18.37928,80.68311,2023-02-15,7:52,1,VIIRS,2023,2,7,7d,Venkatapuram,Mulugu,50
@@ -2140,6 +2671,9 @@ latitude,longitude,acq_date,acq_time,satellite,instrument,year,month,week,durati
 18.38107,80.66364,2023-02-17,8:05,N,VIIRS,2023,2,7,7d,Venkatapuram,Mulugu,50
 18.38152,80.66309,2023-02-17,7:13,1,VIIRS,2023,2,7,7d,Venkatapuram,Mulugu,50
 18.38159,80.66719,2023-02-17,5:01,T,MODIS,2023,2,7,7d,Venkatapuram,Mulugu,64
+18.38166,80.57826,2023-02-22,7:20,1,VIIRS,2023,2,8,24h,Venkatapuram,Mulugu,50
+18.38166,80.57826,2023-02-22,7:20,1,VIIRS,2023,2,8,48h,Venkatapuram,Mulugu,50
+18.38166,80.57826,2023-02-22,7:20,1,VIIRS,2023,2,8,7d,Venkatapuram,Mulugu,50
 18.38216,78.04982,2023-02-16,8:26,N,VIIRS,2023,2,7,7d,Gandhari,Kamareddy,50
 18.38316,80.6814,2023-02-15,7:03,N,VIIRS,2023,2,7,7d,Venkatapuram,Mulugu,100
 18.38325,78.04155,2023-02-21,8:32,N,VIIRS,2023,2,8,24h,Gandhari,Kamareddy,50
@@ -2245,6 +2779,9 @@ latitude,longitude,acq_date,acq_time,satellite,instrument,year,month,week,durati
 18.42573,80.64747,2023-02-21,7:39,1,VIIRS,2023,2,8,24h,Wazeed,Mulugu,50
 18.42573,80.64747,2023-02-21,7:39,1,VIIRS,2023,2,8,48h,Wazeed,Mulugu,50
 18.42573,80.64747,2023-02-21,7:39,1,VIIRS,2023,2,8,7d,Wazeed,Mulugu,50
+18.42603,80.6589,2023-02-22,7:20,1,VIIRS,2023,2,8,24h,Venkatapuram,Mulugu,50
+18.42603,80.6589,2023-02-22,7:20,1,VIIRS,2023,2,8,48h,Venkatapuram,Mulugu,50
+18.42603,80.6589,2023-02-22,7:20,1,VIIRS,2023,2,8,7d,Venkatapuram,Mulugu,50
 18.42651,80.57731,2023-02-16,20:55,N,VIIRS,2023,2,7,7d,Wazeed,Mulugu,50
 18.42655,80.69488,2023-02-21,7:39,1,VIIRS,2023,2,8,24h,Venkatapuram,Mulugu,50
 18.42655,80.69488,2023-02-21,7:39,1,VIIRS,2023,2,8,48h,Venkatapuram,Mulugu,50
@@ -2254,19 +2791,43 @@ latitude,longitude,acq_date,acq_time,satellite,instrument,year,month,week,durati
 18.42764,80.68674,2023-02-21,20:10,1,VIIRS,2023,2,8,24h,Venkatapuram,Mulugu,50
 18.42764,80.68674,2023-02-21,20:10,1,VIIRS,2023,2,8,48h,Venkatapuram,Mulugu,50
 18.42764,80.68674,2023-02-21,20:10,1,VIIRS,2023,2,8,7d,Venkatapuram,Mulugu,50
+18.42901,80.65561,2023-02-22,7:20,1,VIIRS,2023,2,8,24h,Wazeed,Mulugu,50
+18.42901,80.65561,2023-02-22,7:20,1,VIIRS,2023,2,8,48h,Wazeed,Mulugu,50
+18.42901,80.65561,2023-02-22,7:20,1,VIIRS,2023,2,8,7d,Wazeed,Mulugu,50
 18.42941,80.65304,2023-02-21,20:10,1,VIIRS,2023,2,8,24h,Wazeed,Mulugu,50
 18.42941,80.65304,2023-02-21,20:10,1,VIIRS,2023,2,8,48h,Wazeed,Mulugu,50
 18.42941,80.65304,2023-02-21,20:10,1,VIIRS,2023,2,8,7d,Wazeed,Mulugu,50
 18.42945,80.58338,2023-02-16,20:04,1,VIIRS,2023,2,7,7d,Wazeed,Mulugu,50
+18.4295,80.66042,2023-02-22,8:11,N,VIIRS,2023,2,8,24h,Wazeed,Mulugu,50
+18.4295,80.66042,2023-02-22,8:11,N,VIIRS,2023,2,8,48h,Wazeed,Mulugu,50
+18.4295,80.66042,2023-02-22,8:11,N,VIIRS,2023,2,8,7d,Wazeed,Mulugu,50
+18.43002,80.6607,2023-02-22,7:20,1,VIIRS,2023,2,8,24h,Wazeed,Mulugu,50
+18.43002,80.6607,2023-02-22,7:20,1,VIIRS,2023,2,8,48h,Wazeed,Mulugu,50
+18.43002,80.6607,2023-02-22,7:20,1,VIIRS,2023,2,8,7d,Wazeed,Mulugu,50
+18.4305,80.65986,2023-02-22,8:11,N,VIIRS,2023,2,8,24h,Wazeed,Mulugu,50
+18.4305,80.65986,2023-02-22,8:11,N,VIIRS,2023,2,8,48h,Wazeed,Mulugu,50
+18.4305,80.65986,2023-02-22,8:11,N,VIIRS,2023,2,8,7d,Wazeed,Mulugu,50
+18.43062,80.6579,2023-02-22,7:20,1,VIIRS,2023,2,8,24h,Wazeed,Mulugu,50
+18.43062,80.6579,2023-02-22,7:20,1,VIIRS,2023,2,8,48h,Wazeed,Mulugu,50
+18.43062,80.6579,2023-02-22,7:20,1,VIIRS,2023,2,8,7d,Wazeed,Mulugu,50
 18.43088,80.68731,2023-02-21,20:10,1,VIIRS,2023,2,8,24h,Venkatapuram,Mulugu,50
 18.43088,80.68731,2023-02-21,20:10,1,VIIRS,2023,2,8,48h,Venkatapuram,Mulugu,50
 18.43088,80.68731,2023-02-21,20:10,1,VIIRS,2023,2,8,7d,Venkatapuram,Mulugu,50
 18.43143,80.56823,2023-02-18,8:34,1,VIIRS,2023,2,7,7d,Wazeed,Mulugu,50
+18.43161,80.66306,2023-02-22,7:20,1,VIIRS,2023,2,8,24h,Wazeed,Mulugu,50
+18.43161,80.66306,2023-02-22,7:20,1,VIIRS,2023,2,8,48h,Wazeed,Mulugu,50
+18.43161,80.66306,2023-02-22,7:20,1,VIIRS,2023,2,8,7d,Wazeed,Mulugu,50
 18.43163,78.04722,2023-02-15,20:23,1,VIIRS,2023,2,7,7d,Gandhari,Kamareddy,50
 18.43184,80.56892,2023-02-17,19:46,1,VIIRS,2023,2,7,7d,Wazeed,Mulugu,50
 18.43232,77.97528,2023-02-16,8:26,N,VIIRS,2023,2,7,7d,Banswada,Kamareddy,50
 18.43327,80.56419,2023-02-19,8:17,1,VIIRS,2023,2,7,7d,Wazeed,Mulugu,50
+18.43352,80.65986,2023-02-22,8:11,N,VIIRS,2023,2,8,24h,Wazeed,Mulugu,50
+18.43352,80.65986,2023-02-22,8:11,N,VIIRS,2023,2,8,48h,Wazeed,Mulugu,50
+18.43352,80.65986,2023-02-22,8:11,N,VIIRS,2023,2,8,7d,Wazeed,Mulugu,50
 18.43368,80.56425,2023-02-19,8:17,1,VIIRS,2023,2,7,7d,Wazeed,Mulugu,50
+18.43452,80.6593,2023-02-22,8:11,N,VIIRS,2023,2,8,24h,Wazeed,Mulugu,50
+18.43452,80.6593,2023-02-22,8:11,N,VIIRS,2023,2,8,48h,Wazeed,Mulugu,50
+18.43452,80.6593,2023-02-22,8:11,N,VIIRS,2023,2,8,7d,Wazeed,Mulugu,50
 18.43475,80.68417,2023-02-21,20:10,1,VIIRS,2023,2,8,24h,Venkatapuram,Mulugu,50
 18.43475,80.68417,2023-02-21,20:10,1,VIIRS,2023,2,8,48h,Venkatapuram,Mulugu,50
 18.43475,80.68417,2023-02-21,20:10,1,VIIRS,2023,2,8,7d,Venkatapuram,Mulugu,50
@@ -2287,15 +2848,45 @@ latitude,longitude,acq_date,acq_time,satellite,instrument,year,month,week,durati
 18.44081,80.68913,2023-02-21,20:10,1,VIIRS,2023,2,8,48h,Venkatapuram,Mulugu,50
 18.44081,80.68913,2023-02-21,20:10,1,VIIRS,2023,2,8,7d,Venkatapuram,Mulugu,50
 18.44143,78.6719,2023-02-16,8:26,N,VIIRS,2023,2,7,7d,Yellareddypet,Rajanna Sircilla,50
+18.44323,80.55717,2023-02-22,19:53,1,VIIRS,2023,2,8,24h,Wazeed,Mulugu,50
+18.44323,80.55717,2023-02-22,19:53,1,VIIRS,2023,2,8,48h,Wazeed,Mulugu,50
+18.44323,80.55717,2023-02-22,19:53,1,VIIRS,2023,2,8,7d,Wazeed,Mulugu,50
+18.44489,80.55667,2023-02-22,19:53,1,VIIRS,2023,2,8,24h,Wazeed,Mulugu,50
+18.44489,80.55667,2023-02-22,19:53,1,VIIRS,2023,2,8,48h,Wazeed,Mulugu,50
+18.44489,80.55667,2023-02-22,19:53,1,VIIRS,2023,2,8,7d,Wazeed,Mulugu,50
+18.4458,80.55736,2023-02-22,20:44,N,VIIRS,2023,2,8,24h,Wazeed,Mulugu,50
+18.4458,80.55736,2023-02-22,20:44,N,VIIRS,2023,2,8,48h,Wazeed,Mulugu,50
+18.4458,80.55736,2023-02-22,20:44,N,VIIRS,2023,2,8,7d,Wazeed,Mulugu,50
 18.44625,80.56539,2023-02-21,20:10,1,VIIRS,2023,2,8,24h,Wazeed,Mulugu,50
 18.44625,80.56539,2023-02-21,20:10,1,VIIRS,2023,2,8,48h,Wazeed,Mulugu,50
 18.44625,80.56539,2023-02-21,20:10,1,VIIRS,2023,2,8,7d,Wazeed,Mulugu,50
+18.44667,79.94193,2023-02-22,20:44,N,VIIRS,2023,2,8,24h,Bhupalpally,Jayashankar Bhupalpally,50
+18.44667,79.94193,2023-02-22,20:44,N,VIIRS,2023,2,8,48h,Bhupalpally,Jayashankar Bhupalpally,50
+18.44667,79.94193,2023-02-22,20:44,N,VIIRS,2023,2,8,7d,Bhupalpally,Jayashankar Bhupalpally,50
+18.4468,79.94209,2023-02-22,19:53,1,VIIRS,2023,2,8,24h,Bhupalpally,Jayashankar Bhupalpally,50
+18.4468,79.94209,2023-02-22,19:53,1,VIIRS,2023,2,8,48h,Bhupalpally,Jayashankar Bhupalpally,50
+18.4468,79.94209,2023-02-22,19:53,1,VIIRS,2023,2,8,7d,Bhupalpally,Jayashankar Bhupalpally,50
 18.44707,78.09359,2023-02-17,8:05,N,VIIRS,2023,2,7,7d,Gandhari,Kamareddy,50
+18.45025,80.55817,2023-02-22,20:44,N,VIIRS,2023,2,8,24h,Wazeed,Mulugu,50
+18.45025,80.55817,2023-02-22,20:44,N,VIIRS,2023,2,8,48h,Wazeed,Mulugu,50
+18.45025,80.55817,2023-02-22,20:44,N,VIIRS,2023,2,8,7d,Wazeed,Mulugu,50
+18.45092,79.94286,2023-02-22,20:44,N,VIIRS,2023,2,8,24h,Bhupalpally,Jayashankar Bhupalpally,50
+18.45092,79.94286,2023-02-22,20:44,N,VIIRS,2023,2,8,48h,Bhupalpally,Jayashankar Bhupalpally,50
+18.45092,79.94286,2023-02-22,20:44,N,VIIRS,2023,2,8,7d,Bhupalpally,Jayashankar Bhupalpally,50
+18.45154,80.55853,2023-02-22,19:53,1,VIIRS,2023,2,8,24h,Wazeed,Mulugu,50
+18.45154,80.55853,2023-02-22,19:53,1,VIIRS,2023,2,8,48h,Wazeed,Mulugu,50
+18.45154,80.55853,2023-02-22,19:53,1,VIIRS,2023,2,8,7d,Wazeed,Mulugu,50
 18.45227,78.50473,2023-02-17,8:05,N,VIIRS,2023,2,7,7d,Sirikonda,Nizamabad,50
 18.45281,78.5085,2023-02-17,8:05,N,VIIRS,2023,2,7,7d,Sirikonda,Nizamabad,50
+18.4532,80.55807,2023-02-22,19:53,1,VIIRS,2023,2,8,24h,Wazeed,Mulugu,50
+18.4532,80.55807,2023-02-22,19:53,1,VIIRS,2023,2,8,48h,Wazeed,Mulugu,50
+18.4532,80.55807,2023-02-22,19:53,1,VIIRS,2023,2,8,7d,Wazeed,Mulugu,50
 18.45564,78.50421,2023-02-17,8:05,N,VIIRS,2023,2,7,7d,Sirikonda,Nizamabad,50
 18.45619,78.50797,2023-02-17,8:05,N,VIIRS,2023,2,7,7d,Sirikonda,Nizamabad,50
 18.46623,78.09107,2023-02-15,7:52,1,VIIRS,2023,2,7,7d,Gandhari,Kamareddy,50
+18.46653,78.04597,2023-02-22,8:13,N,VIIRS,2023,2,8,24h,Gandhari,Kamareddy,50
+18.46653,78.04597,2023-02-22,8:13,N,VIIRS,2023,2,8,48h,Gandhari,Kamareddy,50
+18.46653,78.04597,2023-02-22,8:13,N,VIIRS,2023,2,8,7d,Gandhari,Kamareddy,50
 18.46722,78.24776,2023-02-21,8:28,A,MODIS,2023,2,8,24h,Sadashivnagar,Kamareddy,73
 18.46722,78.24776,2023-02-21,8:28,A,MODIS,2023,2,8,48h,Sadashivnagar,Kamareddy,73
 18.46722,78.24776,2023-02-21,8:28,A,MODIS,2023,2,8,7d,Sadashivnagar,Kamareddy,73
@@ -2304,8 +2895,14 @@ latitude,longitude,acq_date,acq_time,satellite,instrument,year,month,week,durati
 18.46801,78.2518,2023-02-21,7:39,1,VIIRS,2023,2,8,48h,Sadashivnagar,Kamareddy,50
 18.46801,78.2518,2023-02-21,7:39,1,VIIRS,2023,2,8,7d,Sadashivnagar,Kamareddy,50
 18.46809,80.64751,2023-02-17,8:05,N,VIIRS,2023,2,7,7d,Wazeed,Mulugu,50
+18.46835,78.24735,2023-02-22,7:22,1,VIIRS,2023,2,8,24h,Sadashivnagar,Kamareddy,50
+18.46835,78.24735,2023-02-22,7:22,1,VIIRS,2023,2,8,48h,Sadashivnagar,Kamareddy,50
+18.46835,78.24735,2023-02-22,7:22,1,VIIRS,2023,2,8,7d,Sadashivnagar,Kamareddy,50
 18.46839,80.63537,2023-02-16,20:04,1,VIIRS,2023,2,7,7d,Wazeed,Mulugu,50
 18.46898,80.63126,2023-02-16,20:04,1,VIIRS,2023,2,7,7d,Wazeed,Mulugu,50
+18.46927,78.24714,2023-02-22,8:13,N,VIIRS,2023,2,8,24h,Sadashivnagar,Kamareddy,50
+18.46927,78.24714,2023-02-22,8:13,N,VIIRS,2023,2,8,48h,Sadashivnagar,Kamareddy,50
+18.46927,78.24714,2023-02-22,8:13,N,VIIRS,2023,2,8,7d,Sadashivnagar,Kamareddy,50
 18.47007,80.64217,2023-02-17,7:13,1,VIIRS,2023,2,7,7d,Wazeed,Mulugu,100
 18.47056,80.63828,2023-02-16,20:55,N,VIIRS,2023,2,7,7d,Wazeed,Mulugu,50
 18.47175,80.64693,2023-02-17,8:05,N,VIIRS,2023,2,7,7d,Wazeed,Mulugu,50
@@ -2338,6 +2935,9 @@ latitude,longitude,acq_date,acq_time,satellite,instrument,year,month,week,durati
 18.47911,77.98102,2023-02-15,20:23,1,VIIRS,2023,2,7,7d,Varni,Nizamabad,50
 18.47939,80.60903,2023-02-17,7:13,1,VIIRS,2023,2,7,7d,Wazeed,Mulugu,50
 18.4796,80.6496,2023-02-17,8:05,N,VIIRS,2023,2,7,7d,Wazeed,Mulugu,50
+18.47974,77.93686,2023-02-22,8:13,N,VIIRS,2023,2,8,24h,Nasurullabad,Kamareddy,50
+18.47974,77.93686,2023-02-22,8:13,N,VIIRS,2023,2,8,48h,Nasurullabad,Kamareddy,50
+18.47974,77.93686,2023-02-22,8:13,N,VIIRS,2023,2,8,7d,Nasurullabad,Kamareddy,50
 18.47977,80.62019,2023-02-16,20:55,N,VIIRS,2023,2,7,7d,Wazeed,Mulugu,50
 18.48068,80.6422,2023-02-16,20:55,N,VIIRS,2023,2,7,7d,Wazeed,Mulugu,50
 18.48099,77.98475,2023-02-15,21:14,N,VIIRS,2023,2,7,7d,Varni,Nizamabad,50
@@ -2362,6 +2962,9 @@ latitude,longitude,acq_date,acq_time,satellite,instrument,year,month,week,durati
 18.48883,80.6125,2023-02-16,7:35,1,VIIRS,2023,2,7,7d,Wazeed,Mulugu,50
 18.48969,80.61743,2023-02-16,7:35,1,VIIRS,2023,2,7,7d,Wazeed,Mulugu,50
 18.49101,78.07037,2023-02-15,7:52,1,VIIRS,2023,2,7,7d,Gandhari,Kamareddy,50
+18.49125,78.17206,2023-02-22,8:13,N,VIIRS,2023,2,8,24h,Sadashivnagar,Kamareddy,50
+18.49125,78.17206,2023-02-22,8:13,N,VIIRS,2023,2,8,48h,Sadashivnagar,Kamareddy,50
+18.49125,78.17206,2023-02-22,8:13,N,VIIRS,2023,2,8,7d,Sadashivnagar,Kamareddy,50
 18.49147,80.63391,2023-02-16,8:26,N,VIIRS,2023,2,7,7d,Wazeed,Mulugu,50
 18.49166,80.59752,2023-02-16,20:04,1,VIIRS,2023,2,7,7d,Wazeed,Mulugu,50
 18.49179,80.60695,2023-02-16,7:35,1,VIIRS,2023,2,7,7d,Wazeed,Mulugu,50
@@ -2371,6 +2974,9 @@ latitude,longitude,acq_date,acq_time,satellite,instrument,year,month,week,durati
 18.49334,78.538,2023-02-18,7:48,N,VIIRS,2023,2,7,7d,Sirikonda,Nizamabad,50
 18.49467,80.60919,2023-02-16,8:13,A,MODIS,2023,2,7,7d,Wazeed,Mulugu,67
 18.49492,77.9386,2023-02-17,8:05,N,VIIRS,2023,2,7,7d,Varni,Nizamabad,50
+18.49533,77.93607,2023-02-22,7:22,1,VIIRS,2023,2,8,24h,Varni,Nizamabad,50
+18.49533,77.93607,2023-02-22,7:22,1,VIIRS,2023,2,8,48h,Varni,Nizamabad,50
+18.49533,77.93607,2023-02-22,7:22,1,VIIRS,2023,2,8,7d,Varni,Nizamabad,50
 18.49624,78.53814,2023-02-17,20:38,N,VIIRS,2023,2,7,7d,Sirikonda,Nizamabad,50
 18.49646,80.61128,2023-02-16,7:35,1,VIIRS,2023,2,7,7d,Wazeed,Mulugu,50
 18.49799,77.84077,2023-02-17,20:38,N,VIIRS,2023,2,7,7d,Nasurullabad,Kamareddy,50
@@ -2379,8 +2985,14 @@ latitude,longitude,acq_date,acq_time,satellite,instrument,year,month,week,durati
 18.49864,80.59866,2023-02-16,20:04,1,VIIRS,2023,2,7,7d,Wazeed,Mulugu,50
 18.49875,79.55411,2023-02-15,7:52,1,VIIRS,2023,2,7,7d,Srirampur,Peddapalli,50
 18.49933,80.63061,2023-02-15,20:23,1,VIIRS,2023,2,7,7d,Wazeed,Mulugu,50
+18.49991,77.93068,2023-02-22,7:22,1,VIIRS,2023,2,8,24h,Varni,Nizamabad,50
+18.49991,77.93068,2023-02-22,7:22,1,VIIRS,2023,2,8,48h,Varni,Nizamabad,50
+18.49991,77.93068,2023-02-22,7:22,1,VIIRS,2023,2,8,7d,Varni,Nizamabad,50
 18.50017,80.6059,2023-02-16,20:55,N,VIIRS,2023,2,7,7d,Wazeed,Mulugu,50
 18.50025,80.60468,2023-02-16,20:55,N,VIIRS,2023,2,7,7d,Wazeed,Mulugu,50
+18.5007,77.93443,2023-02-22,7:22,1,VIIRS,2023,2,8,24h,Varni,Nizamabad,50
+18.5007,77.93443,2023-02-22,7:22,1,VIIRS,2023,2,8,48h,Varni,Nizamabad,50
+18.5007,77.93443,2023-02-22,7:22,1,VIIRS,2023,2,8,7d,Varni,Nizamabad,50
 18.50094,80.60739,2023-02-16,20:04,1,VIIRS,2023,2,7,7d,Wazeed,Mulugu,50
 18.5021,80.60807,2023-02-21,7:39,1,VIIRS,2023,2,8,24h,Wazeed,Mulugu,50
 18.5021,80.60807,2023-02-21,7:39,1,VIIRS,2023,2,8,48h,Wazeed,Mulugu,50
@@ -2414,6 +3026,9 @@ latitude,longitude,acq_date,acq_time,satellite,instrument,year,month,week,durati
 18.51681,78.47775,2023-02-20,20:29,1,VIIRS,2023,2,8,48h,Sirikonda,Nizamabad,50
 18.51681,78.47775,2023-02-20,20:29,1,VIIRS,2023,2,8,7d,Sirikonda,Nizamabad,50
 18.51688,78.481,2023-02-15,19:34,N,VIIRS,2023,2,7,7d,Sirikonda,Nizamabad,50
+18.51784,78.33768,2023-02-22,8:13,N,VIIRS,2023,2,8,24h,Dharpally,Nizamabad,50
+18.51784,78.33768,2023-02-22,8:13,N,VIIRS,2023,2,8,48h,Dharpally,Nizamabad,50
+18.51784,78.33768,2023-02-22,8:13,N,VIIRS,2023,2,8,7d,Dharpally,Nizamabad,50
 18.51845,77.8853,2023-02-16,20:04,1,VIIRS,2023,2,7,7d,Varni,Nizamabad,50
 18.51858,80.53909,2023-02-15,8:43,N,VIIRS,2023,2,7,7d,Wazeed,Mulugu,100
 18.51891,77.88168,2023-02-16,20:04,1,VIIRS,2023,2,7,7d,Varni,Nizamabad,50
@@ -2441,7 +3056,13 @@ latitude,longitude,acq_date,acq_time,satellite,instrument,year,month,week,durati
 18.53467,78.46709,2023-02-18,20:18,N,VIIRS,2023,2,7,7d,Sirikonda,Nizamabad,50
 18.53505,80.54502,2023-02-16,7:35,1,VIIRS,2023,2,7,7d,Wazeed,Mulugu,50
 18.53577,78.13001,2023-02-15,7:52,1,VIIRS,2023,2,7,7d,Mugpal,Nizamabad,50
+18.53679,80.58866,2023-02-22,8:11,N,VIIRS,2023,2,8,24h,Wazeed,Mulugu,50
+18.53679,80.58866,2023-02-22,8:11,N,VIIRS,2023,2,8,48h,Wazeed,Mulugu,50
+18.53679,80.58866,2023-02-22,8:11,N,VIIRS,2023,2,8,7d,Wazeed,Mulugu,50
 18.53705,78.45399,2023-02-16,20:55,N,VIIRS,2023,2,7,7d,Sirikonda,Nizamabad,50
+18.53723,80.59219,2023-02-22,8:11,N,VIIRS,2023,2,8,24h,Wazeed,Mulugu,50
+18.53723,80.59219,2023-02-22,8:11,N,VIIRS,2023,2,8,48h,Wazeed,Mulugu,50
+18.53723,80.59219,2023-02-22,8:11,N,VIIRS,2023,2,8,7d,Wazeed,Mulugu,50
 18.53753,78.02502,2023-02-18,8:34,1,VIIRS,2023,2,7,7d,Mosra,Nizamabad,50
 18.53818,80.46989,2023-02-21,8:32,N,VIIRS,2023,2,8,24h,Wazeed,Mulugu,50
 18.53818,80.46989,2023-02-21,8:32,N,VIIRS,2023,2,8,48h,Wazeed,Mulugu,50
@@ -2506,11 +3127,20 @@ latitude,longitude,acq_date,acq_time,satellite,instrument,year,month,week,durati
 18.55124,80.53956,2023-02-16,8:26,N,VIIRS,2023,2,7,7d,Wazeed,Mulugu,50
 18.55133,78.0468,2023-02-17,8:56,1,VIIRS,2023,2,7,7d,Mosra,Nizamabad,50
 18.55178,80.53664,2023-02-16,8:26,N,VIIRS,2023,2,7,7d,Wazeed,Mulugu,50
+18.55208,78.01237,2023-02-22,20:44,N,VIIRS,2023,2,8,24h,Chandur,Nizamabad,50
+18.55208,78.01237,2023-02-22,20:44,N,VIIRS,2023,2,8,48h,Chandur,Nizamabad,50
+18.55208,78.01237,2023-02-22,20:44,N,VIIRS,2023,2,8,7d,Chandur,Nizamabad,50
 18.55291,80.5262,2023-02-16,20:04,1,VIIRS,2023,2,7,7d,Wazeed,Mulugu,50
 18.55321,80.5365,2023-02-16,7:35,1,VIIRS,2023,2,7,7d,Wazeed,Mulugu,50
+18.55343,78.48569,2023-02-22,20:44,N,VIIRS,2023,2,8,24h,Sirikonda,Nizamabad,50
+18.55343,78.48569,2023-02-22,20:44,N,VIIRS,2023,2,8,48h,Sirikonda,Nizamabad,50
+18.55343,78.48569,2023-02-22,20:44,N,VIIRS,2023,2,8,7d,Sirikonda,Nizamabad,50
 18.55374,80.49481,2023-02-16,7:35,1,VIIRS,2023,2,7,7d,Wazeed,Mulugu,50
 18.5539,80.51384,2023-02-16,20:55,N,VIIRS,2023,2,7,7d,Wazeed,Mulugu,50
 18.55392,78.21869,2023-02-15,19:34,N,VIIRS,2023,2,7,7d,Indalwai,Nizamabad,50
+18.55395,78.48431,2023-02-22,20:44,N,VIIRS,2023,2,8,24h,Sirikonda,Nizamabad,50
+18.55395,78.48431,2023-02-22,20:44,N,VIIRS,2023,2,8,48h,Sirikonda,Nizamabad,50
+18.55395,78.48431,2023-02-22,20:44,N,VIIRS,2023,2,8,7d,Sirikonda,Nizamabad,50
 18.55416,78.22018,2023-02-15,20:23,1,VIIRS,2023,2,7,7d,Indalwai,Nizamabad,50
 18.55463,80.51041,2023-02-16,20:55,N,VIIRS,2023,2,7,7d,Wazeed,Mulugu,50
 18.55524,80.50964,2023-02-16,20:04,1,VIIRS,2023,2,7,7d,Wazeed,Mulugu,50
@@ -2818,9 +3448,24 @@ latitude,longitude,acq_date,acq_time,satellite,instrument,year,month,week,durati
 18.63787,78.51522,2023-02-21,20:10,1,VIIRS,2023,2,8,48h,Bheemgal,Nizamabad,50
 18.63787,78.51522,2023-02-21,20:10,1,VIIRS,2023,2,8,7d,Bheemgal,Nizamabad,50
 18.63911,78.868,2023-02-15,20:23,1,VIIRS,2023,2,7,7d,Kodimial,Jagtial,50
+18.64005,79.47071,2023-02-22,7:22,1,VIIRS,2023,2,8,24h,Peddapalli,Peddapalli,50
+18.64005,79.47071,2023-02-22,7:22,1,VIIRS,2023,2,8,48h,Peddapalli,Peddapalli,50
+18.64005,79.47071,2023-02-22,7:22,1,VIIRS,2023,2,8,7d,Peddapalli,Peddapalli,50
+18.64179,78.50903,2023-02-22,20:44,N,VIIRS,2023,2,8,24h,Bheemgal,Nizamabad,50
+18.64179,78.50903,2023-02-22,20:44,N,VIIRS,2023,2,8,48h,Bheemgal,Nizamabad,50
+18.64179,78.50903,2023-02-22,20:44,N,VIIRS,2023,2,8,7d,Bheemgal,Nizamabad,50
 18.6438,78.75366,2023-02-15,20:23,1,VIIRS,2023,2,7,7d,Kathlapur,Jagtial,50
 18.64433,78.81003,2023-02-20,20:29,1,VIIRS,2023,2,8,48h,Kodimial,Jagtial,50
 18.64433,78.81003,2023-02-20,20:29,1,VIIRS,2023,2,8,7d,Kodimial,Jagtial,50
+18.64487,78.73192,2023-02-22,7:22,1,VIIRS,2023,2,8,24h,Kathlapur,Jagtial,50
+18.64487,78.73192,2023-02-22,7:22,1,VIIRS,2023,2,8,48h,Kathlapur,Jagtial,50
+18.64487,78.73192,2023-02-22,7:22,1,VIIRS,2023,2,8,7d,Kathlapur,Jagtial,50
+18.64568,78.50977,2023-02-22,20:44,N,VIIRS,2023,2,8,24h,Bheemgal,Nizamabad,50
+18.64568,78.50977,2023-02-22,20:44,N,VIIRS,2023,2,8,48h,Bheemgal,Nizamabad,50
+18.64568,78.50977,2023-02-22,20:44,N,VIIRS,2023,2,8,7d,Bheemgal,Nizamabad,50
+18.64572,78.5113,2023-02-22,20:44,N,VIIRS,2023,2,8,24h,Bheemgal,Nizamabad,50
+18.64572,78.5113,2023-02-22,20:44,N,VIIRS,2023,2,8,48h,Bheemgal,Nizamabad,50
+18.64572,78.5113,2023-02-22,20:44,N,VIIRS,2023,2,8,7d,Bheemgal,Nizamabad,50
 18.65229,78.28577,2023-02-18,20:18,N,VIIRS,2023,2,7,7d,Dichpally,Nizamabad,50
 18.6541,78.03681,2023-02-15,7:52,1,VIIRS,2023,2,7,7d,Nizamabad Rural,Nizamabad,50
 18.65538,78.36774,2023-02-16,20:04,1,VIIRS,2023,2,7,7d,Dharpally,Nizamabad,50
@@ -2837,21 +3482,51 @@ latitude,longitude,acq_date,acq_time,satellite,instrument,year,month,week,durati
 18.65956,78.53529,2023-02-20,7:58,1,VIIRS,2023,2,8,7d,Bheemgal,Nizamabad,50
 18.65978,78.36763,2023-02-16,8:26,N,VIIRS,2023,2,7,7d,Dharpally,Nizamabad,50
 18.66038,78.58414,2023-02-16,7:35,1,VIIRS,2023,2,7,7d,Bheemgal,Nizamabad,50
+18.66391,78.25318,2023-02-22,8:13,N,VIIRS,2023,2,8,24h,Jakranpally,Nizamabad,50
+18.66391,78.25318,2023-02-22,8:13,N,VIIRS,2023,2,8,48h,Jakranpally,Nizamabad,50
+18.66391,78.25318,2023-02-22,8:13,N,VIIRS,2023,2,8,7d,Jakranpally,Nizamabad,50
+18.66936,78.65485,2023-02-22,8:13,N,VIIRS,2023,2,8,24h,Kathlapur,Jagtial,50
+18.66936,78.65485,2023-02-22,8:13,N,VIIRS,2023,2,8,48h,Kathlapur,Jagtial,50
+18.66936,78.65485,2023-02-22,8:13,N,VIIRS,2023,2,8,7d,Kathlapur,Jagtial,50
 18.67527,79.42907,2023-02-21,21:01,N,VIIRS,2023,2,8,24h,Peddapalli,Peddapalli,50
 18.67527,79.42907,2023-02-21,21:01,N,VIIRS,2023,2,8,48h,Peddapalli,Peddapalli,50
 18.67527,79.42907,2023-02-21,21:01,N,VIIRS,2023,2,8,7d,Peddapalli,Peddapalli,50
+18.67609,78.6525,2023-02-22,20:44,N,VIIRS,2023,2,8,24h,Kathlapur,Jagtial,50
+18.67609,78.6525,2023-02-22,20:44,N,VIIRS,2023,2,8,48h,Kathlapur,Jagtial,50
+18.67609,78.6525,2023-02-22,20:44,N,VIIRS,2023,2,8,7d,Kathlapur,Jagtial,50
 18.67643,79.42833,2023-02-21,20:10,1,VIIRS,2023,2,8,24h,Peddapalli,Peddapalli,50
 18.67643,79.42833,2023-02-21,20:10,1,VIIRS,2023,2,8,48h,Peddapalli,Peddapalli,50
 18.67643,79.42833,2023-02-21,20:10,1,VIIRS,2023,2,8,7d,Peddapalli,Peddapalli,50
 18.6767,78.67072,2023-02-21,20:10,1,VIIRS,2023,2,8,24h,Kathlapur,Jagtial,50
 18.6767,78.67072,2023-02-21,20:10,1,VIIRS,2023,2,8,48h,Kathlapur,Jagtial,50
 18.6767,78.67072,2023-02-21,20:10,1,VIIRS,2023,2,8,7d,Kathlapur,Jagtial,50
+18.67679,78.64969,2023-02-22,19:53,1,VIIRS,2023,2,8,24h,Kathlapur,Jagtial,50
+18.67679,78.64969,2023-02-22,19:53,1,VIIRS,2023,2,8,48h,Kathlapur,Jagtial,50
+18.67679,78.64969,2023-02-22,19:53,1,VIIRS,2023,2,8,7d,Kathlapur,Jagtial,50
 18.68118,78.78493,2023-02-19,20:48,1,VIIRS,2023,2,7,7d,Bheemaram,Jagtial,50
+18.68859,78.66103,2023-02-22,8:13,N,VIIRS,2023,2,8,24h,Kathlapur,Jagtial,50
+18.68859,78.66103,2023-02-22,8:13,N,VIIRS,2023,2,8,48h,Kathlapur,Jagtial,50
+18.68859,78.66103,2023-02-22,8:13,N,VIIRS,2023,2,8,7d,Kathlapur,Jagtial,50
 18.68904,78.62802,2023-02-16,7:35,1,VIIRS,2023,2,7,7d,Rudrangi,Rajanna Sircilla,50
 18.68981,78.63205,2023-02-16,7:35,1,VIIRS,2023,2,7,7d,Rudrangi,Rajanna Sircilla,50
 18.69117,78.63078,2023-02-16,7:35,1,VIIRS,2023,2,7,7d,Kammarpally,Nizamabad,50
+18.69184,78.56869,2023-02-22,8:13,N,VIIRS,2023,2,8,24h,Kammarpally,Nizamabad,50
+18.69184,78.56869,2023-02-22,8:13,N,VIIRS,2023,2,8,48h,Kammarpally,Nizamabad,50
+18.69184,78.56869,2023-02-22,8:13,N,VIIRS,2023,2,8,7d,Kammarpally,Nizamabad,50
+18.69251,78.56875,2023-02-22,7:22,1,VIIRS,2023,2,8,24h,Kammarpally,Nizamabad,50
+18.69251,78.56875,2023-02-22,7:22,1,VIIRS,2023,2,8,48h,Kammarpally,Nizamabad,50
+18.69251,78.56875,2023-02-22,7:22,1,VIIRS,2023,2,8,7d,Kammarpally,Nizamabad,50
+18.69357,78.58166,2023-02-22,8:13,N,VIIRS,2023,2,8,24h,Kammarpally,Nizamabad,50
+18.69357,78.58166,2023-02-22,8:13,N,VIIRS,2023,2,8,48h,Kammarpally,Nizamabad,50
+18.69357,78.58166,2023-02-22,8:13,N,VIIRS,2023,2,8,7d,Kammarpally,Nizamabad,50
 18.69359,78.78095,2023-02-15,20:23,1,VIIRS,2023,2,7,7d,Bheemaram,Jagtial,50
+18.69467,78.65743,2023-02-22,7:22,1,VIIRS,2023,2,8,24h,Kathlapur,Jagtial,50
+18.69467,78.65743,2023-02-22,7:22,1,VIIRS,2023,2,8,48h,Kathlapur,Jagtial,50
+18.69467,78.65743,2023-02-22,7:22,1,VIIRS,2023,2,8,7d,Kathlapur,Jagtial,50
 18.69473,78.50263,2023-02-19,19:59,N,VIIRS,2023,2,7,7d,Bheemgal,Nizamabad,50
+18.69584,78.58058,2023-02-22,8:13,N,VIIRS,2023,2,8,24h,Kammarpally,Nizamabad,50
+18.69584,78.58058,2023-02-22,8:13,N,VIIRS,2023,2,8,48h,Kammarpally,Nizamabad,50
+18.69584,78.58058,2023-02-22,8:13,N,VIIRS,2023,2,8,7d,Kammarpally,Nizamabad,50
 18.69607,78.01743,2023-02-17,7:13,1,VIIRS,2023,2,7,7d,Yedapally,Nizamabad,50
 18.69681,78.21015,2023-02-18,8:34,1,VIIRS,2023,2,7,7d,Makloor,Nizamabad,50
 18.69753,78.58015,2023-02-21,8:32,N,VIIRS,2023,2,8,24h,Kammarpally,Nizamabad,50
@@ -2865,6 +3540,9 @@ latitude,longitude,acq_date,acq_time,satellite,instrument,year,month,week,durati
 18.70235,79.23674,2023-02-21,7:39,1,VIIRS,2023,2,8,48h,Dharmaram,Peddapalli,50
 18.70235,79.23674,2023-02-21,7:39,1,VIIRS,2023,2,8,7d,Dharmaram,Peddapalli,50
 18.70289,78.76954,2023-02-16,20:04,1,VIIRS,2023,2,7,7d,Bheemaram,Jagtial,50
+18.70329,78.82584,2023-02-22,20:44,N,VIIRS,2023,2,8,24h,Bheemaram,Jagtial,50
+18.70329,78.82584,2023-02-22,20:44,N,VIIRS,2023,2,8,48h,Bheemaram,Jagtial,50
+18.70329,78.82584,2023-02-22,20:44,N,VIIRS,2023,2,8,7d,Bheemaram,Jagtial,50
 18.70858,78.58934,2023-02-17,20:38,N,VIIRS,2023,2,7,7d,Kammarpally,Nizamabad,50
 18.71104,78.21414,2023-02-19,8:17,1,VIIRS,2023,2,7,7d,Makloor,Nizamabad,50
 18.71143,79.1376,2023-02-15,20:23,1,VIIRS,2023,2,7,7d,Dharmaram,Peddapalli,50
@@ -2878,6 +3556,9 @@ latitude,longitude,acq_date,acq_time,satellite,instrument,year,month,week,durati
 18.72022,79.53466,2023-02-21,20:10,1,VIIRS,2023,2,8,24h,Ramagiri,Peddapalli,50
 18.72022,79.53466,2023-02-21,20:10,1,VIIRS,2023,2,8,48h,Ramagiri,Peddapalli,50
 18.72022,79.53466,2023-02-21,20:10,1,VIIRS,2023,2,8,7d,Ramagiri,Peddapalli,50
+18.72028,79.53364,2023-02-22,20:44,N,VIIRS,2023,2,8,24h,Ramagiri,Peddapalli,50
+18.72028,79.53364,2023-02-22,20:44,N,VIIRS,2023,2,8,48h,Ramagiri,Peddapalli,50
+18.72028,79.53364,2023-02-22,20:44,N,VIIRS,2023,2,8,7d,Ramagiri,Peddapalli,50
 18.72036,79.5356,2023-02-21,21:01,N,VIIRS,2023,2,8,24h,Ramagiri,Peddapalli,50
 18.72036,79.5356,2023-02-21,21:01,N,VIIRS,2023,2,8,48h,Ramagiri,Peddapalli,50
 18.72036,79.5356,2023-02-21,21:01,N,VIIRS,2023,2,8,7d,Ramagiri,Peddapalli,50
@@ -2899,12 +3580,21 @@ latitude,longitude,acq_date,acq_time,satellite,instrument,year,month,week,durati
 18.72248,79.53711,2023-02-17,20:38,N,VIIRS,2023,2,7,7d,Ramagiri,Peddapalli,50
 18.72275,79.53702,2023-02-18,19:25,1,VIIRS,2023,2,7,7d,Ramagiri,Peddapalli,50
 18.72332,79.53606,2023-02-16,20:55,N,VIIRS,2023,2,7,7d,Ramagiri,Peddapalli,50
+18.72337,79.53851,2023-02-22,19:53,1,VIIRS,2023,2,8,24h,Ramagiri,Peddapalli,50
+18.72337,79.53851,2023-02-22,19:53,1,VIIRS,2023,2,8,48h,Ramagiri,Peddapalli,50
+18.72337,79.53851,2023-02-22,19:53,1,VIIRS,2023,2,8,7d,Ramagiri,Peddapalli,50
 18.72345,79.53525,2023-02-16,20:04,1,VIIRS,2023,2,7,7d,Ramagiri,Peddapalli,50
 18.72364,79.53524,2023-02-21,20:10,1,VIIRS,2023,2,8,24h,Ramagiri,Peddapalli,50
 18.72364,79.53524,2023-02-21,20:10,1,VIIRS,2023,2,8,48h,Ramagiri,Peddapalli,50
 18.72364,79.53524,2023-02-21,20:10,1,VIIRS,2023,2,8,7d,Ramagiri,Peddapalli,50
+18.72393,79.5338,2023-02-22,19:53,1,VIIRS,2023,2,8,24h,Ramagiri,Peddapalli,50
+18.72393,79.5338,2023-02-22,19:53,1,VIIRS,2023,2,8,48h,Ramagiri,Peddapalli,50
+18.72393,79.5338,2023-02-22,19:53,1,VIIRS,2023,2,8,7d,Ramagiri,Peddapalli,50
 18.72396,78.3008,2023-02-20,8:49,N,VIIRS,2023,2,8,48h,Jakranpally,Nizamabad,50
 18.72396,78.3008,2023-02-20,8:49,N,VIIRS,2023,2,8,7d,Jakranpally,Nizamabad,50
+18.72441,79.53444,2023-02-22,20:44,N,VIIRS,2023,2,8,24h,Ramagiri,Peddapalli,50
+18.72441,79.53444,2023-02-22,20:44,N,VIIRS,2023,2,8,48h,Ramagiri,Peddapalli,50
+18.72441,79.53444,2023-02-22,20:44,N,VIIRS,2023,2,8,7d,Ramagiri,Peddapalli,50
 18.72507,79.5352,2023-02-18,20:18,N,VIIRS,2023,2,7,7d,Ramagiri,Peddapalli,50
 18.72545,79.53506,2023-02-15,20:23,1,VIIRS,2023,2,7,7d,Ramagiri,Peddapalli,50
 18.72571,79.53561,2023-02-20,19:40,N,VIIRS,2023,2,8,48h,Ramagiri,Peddapalli,50
@@ -2919,7 +3609,13 @@ latitude,longitude,acq_date,acq_time,satellite,instrument,year,month,week,durati
 18.73041,79.14777,2023-02-19,19:59,N,VIIRS,2023,2,7,7d,Endapalli,Jagtial,50
 18.7309,79.1439,2023-02-19,19:59,N,VIIRS,2023,2,7,7d,Endapalli,Jagtial,50
 18.73186,79.13014,2023-02-17,19:46,1,VIIRS,2023,2,7,7d,Pegadapalli,Jagtial,50
+18.7323,78.58577,2023-02-22,19:53,1,VIIRS,2023,2,8,24h,Metpalli,Jagtial,50
+18.7323,78.58577,2023-02-22,19:53,1,VIIRS,2023,2,8,48h,Metpalli,Jagtial,50
+18.7323,78.58577,2023-02-22,19:53,1,VIIRS,2023,2,8,7d,Metpalli,Jagtial,50
 18.73331,79.14428,2023-02-19,20:48,1,VIIRS,2023,2,7,7d,Endapalli,Jagtial,50
+18.73333,78.58316,2023-02-22,20:44,N,VIIRS,2023,2,8,24h,Metpalli,Jagtial,50
+18.73333,78.58316,2023-02-22,20:44,N,VIIRS,2023,2,8,48h,Metpalli,Jagtial,50
+18.73333,78.58316,2023-02-22,20:44,N,VIIRS,2023,2,8,7d,Metpalli,Jagtial,50
 18.73396,79.5322,2023-02-15,19:34,N,VIIRS,2023,2,7,7d,Ramagiri,Peddapalli,50
 18.73448,79.53297,2023-02-21,20:10,1,VIIRS,2023,2,8,24h,Ramagiri,Peddapalli,50
 18.73448,79.53297,2023-02-21,20:10,1,VIIRS,2023,2,8,48h,Ramagiri,Peddapalli,50
@@ -2949,17 +3645,29 @@ latitude,longitude,acq_date,acq_time,satellite,instrument,year,month,week,durati
 18.73697,79.53241,2023-02-19,20:48,1,VIIRS,2023,2,7,7d,Ramagundam,Peddapalli,50
 18.73724,79.53303,2023-02-20,19:40,N,VIIRS,2023,2,8,48h,Ramagundam,Peddapalli,50
 18.73724,79.53303,2023-02-20,19:40,N,VIIRS,2023,2,8,7d,Ramagundam,Peddapalli,50
+18.73734,79.53331,2023-02-22,8:13,N,VIIRS,2023,2,8,24h,Ramagundam,Peddapalli,50
+18.73734,79.53331,2023-02-22,8:13,N,VIIRS,2023,2,8,48h,Ramagundam,Peddapalli,50
+18.73734,79.53331,2023-02-22,8:13,N,VIIRS,2023,2,8,7d,Ramagundam,Peddapalli,50
 18.73738,78.84834,2023-02-20,7:58,1,VIIRS,2023,2,8,48h,Mallial,Jagtial,50
 18.73738,78.84834,2023-02-20,7:58,1,VIIRS,2023,2,8,7d,Mallial,Jagtial,50
 18.73745,79.53289,2023-02-17,19:46,1,VIIRS,2023,2,7,7d,Ramagundam,Peddapalli,50
 18.73751,79.53149,2023-02-20,7:58,1,VIIRS,2023,2,8,48h,Ramagundam,Peddapalli,50
 18.73751,79.53149,2023-02-20,7:58,1,VIIRS,2023,2,8,7d,Ramagundam,Peddapalli,50
+18.73753,79.53313,2023-02-22,20:44,N,VIIRS,2023,2,8,24h,Ramagundam,Peddapalli,50
+18.73753,79.53313,2023-02-22,20:44,N,VIIRS,2023,2,8,48h,Ramagundam,Peddapalli,50
+18.73753,79.53313,2023-02-22,20:44,N,VIIRS,2023,2,8,7d,Ramagundam,Peddapalli,50
 18.73763,79.52921,2023-02-20,19:40,N,VIIRS,2023,2,8,48h,Ramagundam,Peddapalli,50
 18.73763,79.52921,2023-02-20,19:40,N,VIIRS,2023,2,8,7d,Ramagundam,Peddapalli,50
 18.73786,79.52895,2023-02-19,20:48,1,VIIRS,2023,2,7,7d,Ramagundam,Peddapalli,50
 18.73791,79.53351,2023-02-21,20:10,1,VIIRS,2023,2,8,24h,Ramagundam,Peddapalli,50
 18.73791,79.53351,2023-02-21,20:10,1,VIIRS,2023,2,8,48h,Ramagundam,Peddapalli,50
 18.73791,79.53351,2023-02-21,20:10,1,VIIRS,2023,2,8,7d,Ramagundam,Peddapalli,50
+18.73792,79.53094,2023-02-22,19:53,1,VIIRS,2023,2,8,24h,Ramagundam,Peddapalli,50
+18.73792,79.53094,2023-02-22,19:53,1,VIIRS,2023,2,8,48h,Ramagundam,Peddapalli,50
+18.73792,79.53094,2023-02-22,19:53,1,VIIRS,2023,2,8,7d,Ramagundam,Peddapalli,50
+18.73827,79.52918,2023-02-22,20:44,N,VIIRS,2023,2,8,24h,Ramagundam,Peddapalli,50
+18.73827,79.52918,2023-02-22,20:44,N,VIIRS,2023,2,8,48h,Ramagundam,Peddapalli,50
+18.73827,79.52918,2023-02-22,20:44,N,VIIRS,2023,2,8,7d,Ramagundam,Peddapalli,50
 18.73847,79.5292,2023-02-15,21:14,N,VIIRS,2023,2,7,7d,Ramagundam,Peddapalli,50
 18.73848,79.52959,2023-02-21,20:10,1,VIIRS,2023,2,8,24h,Ramagundam,Peddapalli,50
 18.73848,79.52959,2023-02-21,20:10,1,VIIRS,2023,2,8,48h,Ramagundam,Peddapalli,50
@@ -3027,6 +3735,12 @@ latitude,longitude,acq_date,acq_time,satellite,instrument,year,month,week,durati
 18.74879,79.12498,2023-02-21,20:10,1,VIIRS,2023,2,8,24h,Gollapalli,Jagtial,50
 18.74879,79.12498,2023-02-21,20:10,1,VIIRS,2023,2,8,48h,Gollapalli,Jagtial,50
 18.74879,79.12498,2023-02-21,20:10,1,VIIRS,2023,2,8,7d,Gollapalli,Jagtial,50
+18.74929,78.56034,2023-02-22,8:13,N,VIIRS,2023,2,8,24h,Metpalli,Jagtial,50
+18.74929,78.56034,2023-02-22,8:13,N,VIIRS,2023,2,8,48h,Metpalli,Jagtial,50
+18.74929,78.56034,2023-02-22,8:13,N,VIIRS,2023,2,8,7d,Metpalli,Jagtial,50
+18.74954,79.29003,2023-02-22,20:44,N,VIIRS,2023,2,8,24h,Endapalli,Jagtial,50
+18.74954,79.29003,2023-02-22,20:44,N,VIIRS,2023,2,8,48h,Endapalli,Jagtial,50
+18.74954,79.29003,2023-02-22,20:44,N,VIIRS,2023,2,8,7d,Endapalli,Jagtial,50
 18.75,78.96533,2023-02-16,20:04,1,VIIRS,2023,2,7,7d,Gollapalli,Jagtial,50
 18.7505,79.29942,2023-02-21,8:32,N,VIIRS,2023,2,8,24h,Palakurthy,Peddapalli,50
 18.7505,79.29942,2023-02-21,8:32,N,VIIRS,2023,2,8,48h,Palakurthy,Peddapalli,50
@@ -3048,9 +3762,15 @@ latitude,longitude,acq_date,acq_time,satellite,instrument,year,month,week,durati
 18.75231,79.12526,2023-02-21,20:10,1,VIIRS,2023,2,8,48h,Gollapalli,Jagtial,50
 18.75231,79.12526,2023-02-21,20:10,1,VIIRS,2023,2,8,7d,Gollapalli,Jagtial,50
 18.75235,78.96257,2023-02-16,8:26,N,VIIRS,2023,2,7,7d,Gollapalli,Jagtial,50
+18.7527,79.29095,2023-02-22,19:53,1,VIIRS,2023,2,8,24h,Endapalli,Jagtial,50
+18.7527,79.29095,2023-02-22,19:53,1,VIIRS,2023,2,8,48h,Endapalli,Jagtial,50
+18.7527,79.29095,2023-02-22,19:53,1,VIIRS,2023,2,8,7d,Endapalli,Jagtial,50
 18.75288,78.95165,2023-02-16,16:52,T,MODIS,2023,2,7,7d,Jagityal_Rural,Jagtial,77
 18.75291,78.94881,2023-02-16,20:04,1,VIIRS,2023,2,7,7d,Jagityal_Rural,Jagtial,50
 18.75298,78.94919,2023-02-16,20:55,N,VIIRS,2023,2,7,7d,Jagityal_Rural,Jagtial,50
+18.75356,79.29108,2023-02-22,20:44,N,VIIRS,2023,2,8,24h,Endapalli,Jagtial,50
+18.75356,79.29108,2023-02-22,20:44,N,VIIRS,2023,2,8,48h,Endapalli,Jagtial,50
+18.75356,79.29108,2023-02-22,20:44,N,VIIRS,2023,2,8,7d,Endapalli,Jagtial,50
 18.75374,79.30112,2023-02-21,20:10,1,VIIRS,2023,2,8,24h,Palakurthy,Peddapalli,50
 18.75374,79.30112,2023-02-21,20:10,1,VIIRS,2023,2,8,48h,Palakurthy,Peddapalli,50
 18.75374,79.30112,2023-02-21,20:10,1,VIIRS,2023,2,8,7d,Palakurthy,Peddapalli,50
@@ -3109,6 +3829,12 @@ latitude,longitude,acq_date,acq_time,satellite,instrument,year,month,week,durati
 18.89404,79.01688,2023-02-15,20:23,1,VIIRS,2023,2,7,7d,Buggaram,Jagtial,50
 18.89928,78.92195,2023-02-18,20:18,N,VIIRS,2023,2,7,7d,Sarangapur,Jagtial,50
 18.90026,78.89436,2023-02-19,8:17,1,VIIRS,2023,2,7,7d,Raikal,Jagtial,50
+18.90495,78.99831,2023-02-22,8:13,N,VIIRS,2023,2,8,24h,Jagityal_Rural,Jagtial,50
+18.90495,78.99831,2023-02-22,8:13,N,VIIRS,2023,2,8,48h,Jagityal_Rural,Jagtial,50
+18.90495,78.99831,2023-02-22,8:13,N,VIIRS,2023,2,8,7d,Jagityal_Rural,Jagtial,50
+18.90655,78.98965,2023-02-22,20:44,N,VIIRS,2023,2,8,24h,Jagityal_Rural,Jagtial,50
+18.90655,78.98965,2023-02-22,20:44,N,VIIRS,2023,2,8,48h,Jagityal_Rural,Jagtial,50
+18.90655,78.98965,2023-02-22,20:44,N,VIIRS,2023,2,8,7d,Jagityal_Rural,Jagtial,50
 18.91115,78.94469,2023-02-17,5:01,T,MODIS,2023,2,7,7d,Sarangapur,Jagtial,53
 18.9127,79.41812,2023-02-15,7:52,1,VIIRS,2023,2,7,7d,Mandamarri,Mancherial,50
 18.91327,79.42177,2023-02-15,7:52,1,VIIRS,2023,2,7,7d,Mandamarri,Mancherial,50
@@ -3155,17 +3881,29 @@ latitude,longitude,acq_date,acq_time,satellite,instrument,year,month,week,durati
 18.96113,79.42077,2023-02-17,20:38,N,VIIRS,2023,2,7,7d,Mandamarri,Mancherial,50
 18.96147,78.75243,2023-02-17,8:05,N,VIIRS,2023,2,7,7d,Mallapur,Jagtial,100
 18.96291,78.75525,2023-02-17,7:13,1,VIIRS,2023,2,7,7d,Mallapur,Jagtial,50
+18.96902,79.41345,2023-02-22,20:44,N,VIIRS,2023,2,8,24h,Hajipur,Mancherial,50
+18.96902,79.41345,2023-02-22,20:44,N,VIIRS,2023,2,8,48h,Hajipur,Mancherial,50
+18.96902,79.41345,2023-02-22,20:44,N,VIIRS,2023,2,8,7d,Hajipur,Mancherial,50
 18.97033,78.72746,2023-02-16,7:35,1,VIIRS,2023,2,7,7d,Mallapur,Jagtial,50
 18.97161,79.5018,2023-02-16,8:13,A,MODIS,2023,2,7,7d,Mandamarri,Mancherial,57
+18.97238,79.41814,2023-02-22,20:44,N,VIIRS,2023,2,8,24h,Mandamarri,Mancherial,50
+18.97238,79.41814,2023-02-22,20:44,N,VIIRS,2023,2,8,48h,Mandamarri,Mancherial,50
+18.97238,79.41814,2023-02-22,20:44,N,VIIRS,2023,2,8,7d,Mandamarri,Mancherial,50
 18.9728,79.38597,2023-02-16,8:13,A,MODIS,2023,2,7,7d,Hajipur,Mancherial,58
 18.97331,79.38951,2023-02-16,8:26,N,VIIRS,2023,2,7,7d,Hajipur,Mancherial,50
 18.97391,78.72692,2023-02-16,8:26,N,VIIRS,2023,2,7,7d,Mallapur,Jagtial,50
 18.97736,78.95641,2023-02-18,8:34,1,VIIRS,2023,2,7,7d,Sarangapur,Jagtial,50
 18.97761,79.40781,2023-02-18,7:48,N,VIIRS,2023,2,7,7d,Mandamarri,Mancherial,50
+18.97767,79.37549,2023-02-22,8:13,N,VIIRS,2023,2,8,24h,Hajipur,Mancherial,50
+18.97767,79.37549,2023-02-22,8:13,N,VIIRS,2023,2,8,48h,Hajipur,Mancherial,50
+18.97767,79.37549,2023-02-22,8:13,N,VIIRS,2023,2,8,7d,Hajipur,Mancherial,50
 18.97802,78.95543,2023-02-18,8:34,1,VIIRS,2023,2,7,7d,Sarangapur,Jagtial,50
 18.97995,79.39953,2023-02-20,20:27,1,VIIRS,2023,2,8,48h,Hajipur,Mancherial,50
 18.97995,79.39953,2023-02-20,20:27,1,VIIRS,2023,2,8,7d,Hajipur,Mancherial,50
 18.98063,77.99132,2023-02-16,7:35,1,VIIRS,2023,2,7,7d,Mudhole,Nirmal,50
+18.98141,79.37487,2023-02-22,8:13,N,VIIRS,2023,2,8,24h,Hajipur,Mancherial,50
+18.98141,79.37487,2023-02-22,8:13,N,VIIRS,2023,2,8,48h,Hajipur,Mancherial,50
+18.98141,79.37487,2023-02-22,8:13,N,VIIRS,2023,2,8,7d,Hajipur,Mancherial,50
 18.9815,77.9959,2023-02-16,7:35,1,VIIRS,2023,2,7,7d,Mudhole,Nirmal,50
 18.98199,79.39938,2023-02-19,19:59,N,VIIRS,2023,2,7,7d,Hajipur,Mancherial,50
 18.98337,79.40321,2023-02-19,8:17,1,VIIRS,2023,2,7,7d,Mandamarri,Mancherial,50
@@ -3198,6 +3936,9 @@ latitude,longitude,acq_date,acq_time,satellite,instrument,year,month,week,durati
 18.99898,79.36554,2023-02-21,8:32,N,VIIRS,2023,2,8,48h,Hajipur,Mancherial,50
 18.99898,79.36554,2023-02-21,8:32,N,VIIRS,2023,2,8,7d,Hajipur,Mancherial,50
 18.9998,79.31666,2023-02-16,20:04,1,VIIRS,2023,2,7,7d,Hajipur,Mancherial,50
+19.00015,79.40073,2023-02-22,8:13,N,VIIRS,2023,2,8,24h,Kasipet,Mancherial,50
+19.00015,79.40073,2023-02-22,8:13,N,VIIRS,2023,2,8,48h,Kasipet,Mancherial,50
+19.00015,79.40073,2023-02-22,8:13,N,VIIRS,2023,2,8,7d,Kasipet,Mancherial,50
 19.00129,79.3232,2023-02-15,7:03,N,VIIRS,2023,2,7,7d,Hajipur,Mancherial,50
 19.00529,79.31877,2023-02-16,7:35,1,VIIRS,2023,2,7,7d,Hajipur,Mancherial,50
 19.00678,79.31544,2023-02-16,8:26,N,VIIRS,2023,2,7,7d,Hajipur,Mancherial,50
@@ -3256,6 +3997,15 @@ latitude,longitude,acq_date,acq_time,satellite,instrument,year,month,week,durati
 19.02878,77.85242,2023-02-21,7:39,1,VIIRS,2023,2,8,24h,Tanoor,Nirmal,50
 19.02878,77.85242,2023-02-21,7:39,1,VIIRS,2023,2,8,48h,Tanoor,Nirmal,50
 19.02878,77.85242,2023-02-21,7:39,1,VIIRS,2023,2,8,7d,Tanoor,Nirmal,50
+19.0305,79.26952,2023-02-22,7:22,1,VIIRS,2023,2,8,24h,Kasipet,Mancherial,50
+19.0305,79.26952,2023-02-22,7:22,1,VIIRS,2023,2,8,48h,Kasipet,Mancherial,50
+19.0305,79.26952,2023-02-22,7:22,1,VIIRS,2023,2,8,7d,Kasipet,Mancherial,50
+19.03111,79.27244,2023-02-22,7:22,1,VIIRS,2023,2,8,24h,Kasipet,Mancherial,50
+19.03111,79.27244,2023-02-22,7:22,1,VIIRS,2023,2,8,48h,Kasipet,Mancherial,50
+19.03111,79.27244,2023-02-22,7:22,1,VIIRS,2023,2,8,7d,Kasipet,Mancherial,50
+19.03142,79.27385,2023-02-22,7:22,1,VIIRS,2023,2,8,24h,Kasipet,Mancherial,100
+19.03142,79.27385,2023-02-22,7:22,1,VIIRS,2023,2,8,48h,Kasipet,Mancherial,100
+19.03142,79.27385,2023-02-22,7:22,1,VIIRS,2023,2,8,7d,Kasipet,Mancherial,100
 19.03157,79.2705,2023-02-21,20:10,1,VIIRS,2023,2,8,24h,Kasipet,Mancherial,50
 19.03157,79.2705,2023-02-21,20:10,1,VIIRS,2023,2,8,48h,Kasipet,Mancherial,50
 19.03157,79.2705,2023-02-21,20:10,1,VIIRS,2023,2,8,7d,Kasipet,Mancherial,50
@@ -3284,6 +4034,15 @@ latitude,longitude,acq_date,acq_time,satellite,instrument,year,month,week,durati
 19.09998,79.40795,2023-02-15,20:23,1,VIIRS,2023,2,7,7d,Kasipet,Mancherial,50
 19.10392,78.17665,2023-02-16,20:55,N,VIIRS,2023,2,7,7d,Narsapur_G,Nirmal,50
 19.10682,78.17803,2023-02-16,20:04,1,VIIRS,2023,2,7,7d,Narsapur_G,Nirmal,50
+19.10802,78.56045,2023-02-22,20:44,N,VIIRS,2023,2,8,24h,Mamda,Nirmal,50
+19.10802,78.56045,2023-02-22,20:44,N,VIIRS,2023,2,8,48h,Mamda,Nirmal,50
+19.10802,78.56045,2023-02-22,20:44,N,VIIRS,2023,2,8,7d,Mamda,Nirmal,50
+19.10913,78.56139,2023-02-22,19:53,1,VIIRS,2023,2,8,24h,Mamda,Nirmal,50
+19.10913,78.56139,2023-02-22,19:53,1,VIIRS,2023,2,8,48h,Mamda,Nirmal,50
+19.10913,78.56139,2023-02-22,19:53,1,VIIRS,2023,2,8,7d,Mamda,Nirmal,50
+19.10954,78.55959,2023-02-22,19:53,1,VIIRS,2023,2,8,24h,Mamda,Nirmal,50
+19.10954,78.55959,2023-02-22,19:53,1,VIIRS,2023,2,8,48h,Mamda,Nirmal,50
+19.10954,78.55959,2023-02-22,19:53,1,VIIRS,2023,2,8,7d,Mamda,Nirmal,50
 19.11112,78.47923,2023-02-21,7:39,1,VIIRS,2023,2,8,24h,Mamda,Nirmal,50
 19.11112,78.47923,2023-02-21,7:39,1,VIIRS,2023,2,8,48h,Mamda,Nirmal,50
 19.11112,78.47923,2023-02-21,7:39,1,VIIRS,2023,2,8,7d,Mamda,Nirmal,50
@@ -3324,6 +4083,12 @@ latitude,longitude,acq_date,acq_time,satellite,instrument,year,month,week,durati
 19.16842,79.21439,2023-02-15,8:43,N,VIIRS,2023,2,7,7d,Tiryani,Kumurambheem Asifabad,50
 19.16993,79.21537,2023-02-15,7:52,1,VIIRS,2023,2,7,7d,Tiryani,Kumurambheem Asifabad,50
 19.17311,79.21116,2023-02-15,8:43,N,VIIRS,2023,2,7,7d,Tiryani,Kumurambheem Asifabad,50
+19.17385,79.2333,2023-02-22,7:22,1,VIIRS,2023,2,8,24h,Tiryani,Kumurambheem Asifabad,50
+19.17385,79.2333,2023-02-22,7:22,1,VIIRS,2023,2,8,48h,Tiryani,Kumurambheem Asifabad,50
+19.17385,79.2333,2023-02-22,7:22,1,VIIRS,2023,2,8,7d,Tiryani,Kumurambheem Asifabad,50
+19.18125,79.47938,2023-02-22,7:22,1,VIIRS,2023,2,8,24h,Tandur,Mancherial,50
+19.18125,79.47938,2023-02-22,7:22,1,VIIRS,2023,2,8,48h,Tandur,Mancherial,50
+19.18125,79.47938,2023-02-22,7:22,1,VIIRS,2023,2,8,7d,Tandur,Mancherial,50
 19.18383,78.54206,2023-02-20,7:58,1,VIIRS,2023,2,8,48h,Pembi,Nirmal,50
 19.18383,78.54206,2023-02-20,7:58,1,VIIRS,2023,2,8,7d,Pembi,Nirmal,50
 19.18696,79.5956,2023-02-17,5:01,T,MODIS,2023,2,7,7d,Bheemini,Mancherial,73
@@ -3333,6 +4098,9 @@ latitude,longitude,acq_date,acq_time,satellite,instrument,year,month,week,durati
 19.19912,78.74364,2023-02-16,8:13,A,MODIS,2023,2,7,7d,Kaddampeddur,Nirmal,64
 19.19925,78.76765,2023-02-15,20:23,1,VIIRS,2023,2,7,7d,Kaddampeddur,Nirmal,50
 19.19934,78.58404,2023-02-19,7:30,N,VIIRS,2023,2,7,7d,Khanapur,Nirmal,50
+19.19981,78.95789,2023-02-22,20:44,N,VIIRS,2023,2,8,24h,Jannaram,Mancherial,50
+19.19981,78.95789,2023-02-22,20:44,N,VIIRS,2023,2,8,48h,Jannaram,Mancherial,50
+19.19981,78.95789,2023-02-22,20:44,N,VIIRS,2023,2,8,7d,Jannaram,Mancherial,50
 19.20005,78.76064,2023-02-15,7:52,1,VIIRS,2023,2,7,7d,Kaddampeddur,Nirmal,50
 19.2009,78.77348,2023-02-16,20:04,1,VIIRS,2023,2,7,7d,Kaddampeddur,Nirmal,50
 19.20136,78.60019,2023-02-17,8:05,N,VIIRS,2023,2,7,7d,Pembi,Nirmal,50
@@ -3370,6 +4138,9 @@ latitude,longitude,acq_date,acq_time,satellite,instrument,year,month,week,durati
 19.20942,78.59954,2023-02-16,20:55,N,VIIRS,2023,2,7,7d,Pembi,Nirmal,50
 19.20946,78.78066,2023-02-17,8:05,N,VIIRS,2023,2,7,7d,Kaddampeddur,Nirmal,50
 19.20967,78.61633,2023-02-18,20:18,N,VIIRS,2023,2,7,7d,Pembi,Nirmal,50
+19.20983,79.0926,2023-02-22,8:13,N,VIIRS,2023,2,8,24h,Tiryani,Kumurambheem Asifabad,50
+19.20983,79.0926,2023-02-22,8:13,N,VIIRS,2023,2,8,48h,Tiryani,Kumurambheem Asifabad,50
+19.20983,79.0926,2023-02-22,8:13,N,VIIRS,2023,2,8,7d,Tiryani,Kumurambheem Asifabad,50
 19.21012,78.58567,2023-02-16,20:04,1,VIIRS,2023,2,7,7d,Pembi,Nirmal,50
 19.2107,78.55338,2023-02-17,20:38,N,VIIRS,2023,2,7,7d,Pembi,Nirmal,50
 19.21085,78.54332,2023-02-16,20:55,N,VIIRS,2023,2,7,7d,Pembi,Nirmal,50
@@ -3386,6 +4157,9 @@ latitude,longitude,acq_date,acq_time,satellite,instrument,year,month,week,durati
 19.21338,79.08096,2023-02-18,8:34,1,VIIRS,2023,2,7,7d,Lingapur,Kumurambheem Asifabad,50
 19.21362,78.6131,2023-02-18,20:18,N,VIIRS,2023,2,7,7d,Pembi,Nirmal,50
 19.2137,78.76832,2023-02-16,7:35,1,VIIRS,2023,2,7,7d,Kaddampeddur,Nirmal,50
+19.21409,78.51272,2023-02-22,8:13,N,VIIRS,2023,2,8,24h,Pembi,Nirmal,50
+19.21409,78.51272,2023-02-22,8:13,N,VIIRS,2023,2,8,48h,Pembi,Nirmal,50
+19.21409,78.51272,2023-02-22,8:13,N,VIIRS,2023,2,8,7d,Pembi,Nirmal,50
 19.21443,78.77297,2023-02-16,8:26,N,VIIRS,2023,2,7,7d,Kaddampeddur,Nirmal,50
 19.21515,79.07949,2023-02-18,7:48,N,VIIRS,2023,2,7,7d,Lingapur,Kumurambheem Asifabad,50
 19.21544,78.77091,2023-02-16,8:26,N,VIIRS,2023,2,7,7d,Kaddampeddur,Nirmal,50
@@ -3430,6 +4204,9 @@ latitude,longitude,acq_date,acq_time,satellite,instrument,year,month,week,durati
 19.24108,78.93687,2023-02-19,19:59,N,VIIRS,2023,2,7,7d,Kaddampeddur,Nirmal,50
 19.24147,78.56364,2023-02-17,7:13,1,VIIRS,2023,2,7,7d,Pembi,Nirmal,50
 19.24161,78.9327,2023-02-19,19:59,N,VIIRS,2023,2,7,7d,Kaddampeddur,Nirmal,50
+19.24173,78.90721,2023-02-22,8:13,N,VIIRS,2023,2,8,24h,Kaddampeddur,Nirmal,50
+19.24173,78.90721,2023-02-22,8:13,N,VIIRS,2023,2,8,48h,Kaddampeddur,Nirmal,50
+19.24173,78.90721,2023-02-22,8:13,N,VIIRS,2023,2,8,7d,Kaddampeddur,Nirmal,50
 19.24225,78.90919,2023-02-21,20:10,1,VIIRS,2023,2,8,24h,Kaddampeddur,Nirmal,50
 19.24225,78.90919,2023-02-21,20:10,1,VIIRS,2023,2,8,48h,Kaddampeddur,Nirmal,50
 19.24225,78.90919,2023-02-21,20:10,1,VIIRS,2023,2,8,7d,Kaddampeddur,Nirmal,50
@@ -3496,6 +4273,9 @@ latitude,longitude,acq_date,acq_time,satellite,instrument,year,month,week,durati
 19.2584,78.62802,2023-02-21,8:32,N,VIIRS,2023,2,8,24h,Pembi,Nirmal,50
 19.2584,78.62802,2023-02-21,8:32,N,VIIRS,2023,2,8,48h,Pembi,Nirmal,50
 19.2584,78.62802,2023-02-21,8:32,N,VIIRS,2023,2,8,7d,Pembi,Nirmal,50
+19.25881,78.8951,2023-02-22,8:13,N,VIIRS,2023,2,8,24h,Kaddampeddur,Nirmal,50
+19.25881,78.8951,2023-02-22,8:13,N,VIIRS,2023,2,8,48h,Kaddampeddur,Nirmal,50
+19.25881,78.8951,2023-02-22,8:13,N,VIIRS,2023,2,8,7d,Kaddampeddur,Nirmal,50
 19.25903,78.63378,2023-02-21,8:32,N,VIIRS,2023,2,8,24h,Pembi,Nirmal,50
 19.25903,78.63378,2023-02-21,8:32,N,VIIRS,2023,2,8,48h,Pembi,Nirmal,50
 19.25903,78.63378,2023-02-21,8:32,N,VIIRS,2023,2,8,7d,Pembi,Nirmal,50
@@ -3526,11 +4306,20 @@ latitude,longitude,acq_date,acq_time,satellite,instrument,year,month,week,durati
 19.26846,78.49551,2023-02-17,7:13,1,VIIRS,2023,2,7,7d,Neradigonda,Adilabad,50
 19.26942,78.49886,2023-02-17,19:44,1,VIIRS,2023,2,7,7d,Neradigonda,Adilabad,50
 19.26954,78.49529,2023-02-17,8:05,N,VIIRS,2023,2,7,7d,Neradigonda,Adilabad,50
+19.26954,78.83943,2023-02-22,8:13,N,VIIRS,2023,2,8,24h,Utnur,Adilabad,50
+19.26954,78.83943,2023-02-22,8:13,N,VIIRS,2023,2,8,48h,Utnur,Adilabad,50
+19.26954,78.83943,2023-02-22,8:13,N,VIIRS,2023,2,8,7d,Utnur,Adilabad,50
 19.26961,79.72944,2023-02-21,8:32,N,VIIRS,2023,2,8,24h,Dahegaon,Kumurambheem Asifabad,50
 19.26961,79.72944,2023-02-21,8:32,N,VIIRS,2023,2,8,48h,Dahegaon,Kumurambheem Asifabad,50
 19.26961,79.72944,2023-02-21,8:32,N,VIIRS,2023,2,8,7d,Dahegaon,Kumurambheem Asifabad,50
 19.26999,78.49564,2023-02-17,8:05,N,VIIRS,2023,2,7,7d,Neradigonda,Adilabad,50
 19.2701,78.49912,2023-02-17,8:05,N,VIIRS,2023,2,7,7d,Neradigonda,Adilabad,50
+19.2703,78.89148,2023-02-22,19:53,1,VIIRS,2023,2,8,24h,Kaddampeddur,Nirmal,50
+19.2703,78.89148,2023-02-22,19:53,1,VIIRS,2023,2,8,48h,Kaddampeddur,Nirmal,50
+19.2703,78.89148,2023-02-22,19:53,1,VIIRS,2023,2,8,7d,Kaddampeddur,Nirmal,50
+19.27037,78.89759,2023-02-22,8:13,N,VIIRS,2023,2,8,24h,Kaddampeddur,Nirmal,50
+19.27037,78.89759,2023-02-22,8:13,N,VIIRS,2023,2,8,48h,Kaddampeddur,Nirmal,50
+19.27037,78.89759,2023-02-22,8:13,N,VIIRS,2023,2,8,7d,Kaddampeddur,Nirmal,50
 19.27054,78.49947,2023-02-17,8:05,N,VIIRS,2023,2,7,7d,Neradigonda,Adilabad,50
 19.27312,78.59715,2023-02-19,20:48,1,VIIRS,2023,2,7,7d,Pembi,Nirmal,50
 19.27338,78.49513,2023-02-17,8:05,N,VIIRS,2023,2,7,7d,Neradigonda,Adilabad,50
@@ -3543,6 +4332,9 @@ latitude,longitude,acq_date,acq_time,satellite,instrument,year,month,week,durati
 19.27621,79.16076,2023-02-21,8:32,N,VIIRS,2023,2,8,48h,Tiryani,Kumurambheem Asifabad,50
 19.27621,79.16076,2023-02-21,8:32,N,VIIRS,2023,2,8,7d,Tiryani,Kumurambheem Asifabad,50
 19.2765,78.75539,2023-02-18,20:18,N,VIIRS,2023,2,7,7d,Kaddampeddur,Nirmal,50
+19.27682,79.12806,2023-02-22,7:22,1,VIIRS,2023,2,8,24h,Tiryani,Kumurambheem Asifabad,50
+19.27682,79.12806,2023-02-22,7:22,1,VIIRS,2023,2,8,48h,Tiryani,Kumurambheem Asifabad,50
+19.27682,79.12806,2023-02-22,7:22,1,VIIRS,2023,2,8,7d,Tiryani,Kumurambheem Asifabad,50
 19.27773,78.61253,2023-02-19,19:59,N,VIIRS,2023,2,7,7d,Pembi,Nirmal,50
 19.27843,78.6113,2023-02-19,19:59,N,VIIRS,2023,2,7,7d,Pembi,Nirmal,50
 19.27856,79.15999,2023-02-21,8:28,A,MODIS,2023,2,8,24h,Tiryani,Kumurambheem Asifabad,74
@@ -3601,8 +4393,26 @@ latitude,longitude,acq_date,acq_time,satellite,instrument,year,month,week,durati
 19.2991,78.77583,2023-02-21,7:39,1,VIIRS,2023,2,8,24h,Utnur,Adilabad,50
 19.2991,78.77583,2023-02-21,7:39,1,VIIRS,2023,2,8,48h,Utnur,Adilabad,50
 19.2991,78.77583,2023-02-21,7:39,1,VIIRS,2023,2,8,7d,Utnur,Adilabad,50
+19.30195,78.49364,2023-02-22,20:44,N,VIIRS,2023,2,8,24h,Ichoda,Adilabad,50
+19.30195,78.49364,2023-02-22,20:44,N,VIIRS,2023,2,8,48h,Ichoda,Adilabad,50
+19.30195,78.49364,2023-02-22,20:44,N,VIIRS,2023,2,8,7d,Ichoda,Adilabad,50
 19.30265,78.77116,2023-02-17,20:38,N,VIIRS,2023,2,7,7d,Utnur,Adilabad,50
+19.30477,78.49232,2023-02-22,20:44,N,VIIRS,2023,2,8,24h,Ichoda,Adilabad,50
+19.30477,78.49232,2023-02-22,20:44,N,VIIRS,2023,2,8,48h,Ichoda,Adilabad,50
+19.30477,78.49232,2023-02-22,20:44,N,VIIRS,2023,2,8,7d,Ichoda,Adilabad,50
+19.30536,78.68891,2023-02-22,8:13,N,VIIRS,2023,2,8,24h,Pembi,Nirmal,50
+19.30536,78.68891,2023-02-22,8:13,N,VIIRS,2023,2,8,48h,Pembi,Nirmal,50
+19.30536,78.68891,2023-02-22,8:13,N,VIIRS,2023,2,8,7d,Pembi,Nirmal,50
+19.30579,78.49445,2023-02-22,20:44,N,VIIRS,2023,2,8,24h,Ichoda,Adilabad,50
+19.30579,78.49445,2023-02-22,20:44,N,VIIRS,2023,2,8,48h,Ichoda,Adilabad,50
+19.30579,78.49445,2023-02-22,20:44,N,VIIRS,2023,2,8,7d,Ichoda,Adilabad,50
+19.3067,78.49245,2023-02-22,19:53,1,VIIRS,2023,2,8,24h,Ichoda,Adilabad,50
+19.3067,78.49245,2023-02-22,19:53,1,VIIRS,2023,2,8,48h,Ichoda,Adilabad,50
+19.3067,78.49245,2023-02-22,19:53,1,VIIRS,2023,2,8,7d,Ichoda,Adilabad,50
 19.30701,79.04217,2023-02-18,20:18,N,VIIRS,2023,2,7,7d,Lingapur,Kumurambheem Asifabad,50
+19.30861,78.49312,2023-02-22,20:44,N,VIIRS,2023,2,8,24h,Ichoda,Adilabad,50
+19.30861,78.49312,2023-02-22,20:44,N,VIIRS,2023,2,8,48h,Ichoda,Adilabad,50
+19.30861,78.49312,2023-02-22,20:44,N,VIIRS,2023,2,8,7d,Ichoda,Adilabad,50
 19.30919,78.77347,2023-02-17,8:05,N,VIIRS,2023,2,7,7d,Utnur,Adilabad,50
 19.30936,78.76665,2023-02-17,19:44,1,VIIRS,2023,2,7,7d,Utnur,Adilabad,50
 19.30958,78.73832,2023-02-21,20:10,1,VIIRS,2023,2,8,24h,Utnur,Adilabad,50
@@ -3689,6 +4499,9 @@ latitude,longitude,acq_date,acq_time,satellite,instrument,year,month,week,durati
 19.3445,78.71753,2023-02-20,7:09,N,VIIRS,2023,2,8,48h,Utnur,Adilabad,50
 19.3445,78.71753,2023-02-20,7:09,N,VIIRS,2023,2,8,7d,Utnur,Adilabad,50
 19.34458,78.61564,2023-02-16,20:55,N,VIIRS,2023,2,7,7d,Sirikonda,Adilabad,50
+19.34467,78.59705,2023-02-22,8:13,N,VIIRS,2023,2,8,24h,Sirikonda,Adilabad,50
+19.34467,78.59705,2023-02-22,8:13,N,VIIRS,2023,2,8,48h,Sirikonda,Adilabad,50
+19.34467,78.59705,2023-02-22,8:13,N,VIIRS,2023,2,8,7d,Sirikonda,Adilabad,50
 19.34475,78.61452,2023-02-16,20:55,N,VIIRS,2023,2,7,7d,Sirikonda,Adilabad,50
 19.34551,78.71469,2023-02-20,7:58,1,VIIRS,2023,2,8,48h,Utnur,Adilabad,50
 19.34551,78.71469,2023-02-20,7:58,1,VIIRS,2023,2,8,7d,Utnur,Adilabad,50
@@ -3701,16 +4514,31 @@ latitude,longitude,acq_date,acq_time,satellite,instrument,year,month,week,durati
 19.34802,78.72334,2023-02-20,20:27,1,VIIRS,2023,2,8,48h,Utnur,Adilabad,50
 19.34802,78.72334,2023-02-20,20:27,1,VIIRS,2023,2,8,7d,Utnur,Adilabad,50
 19.3484,78.59821,2023-02-16,20:04,1,VIIRS,2023,2,7,7d,Sirikonda,Adilabad,50
+19.34876,78.65134,2023-02-22,20:44,N,VIIRS,2023,2,8,24h,Sirikonda,Adilabad,50
+19.34876,78.65134,2023-02-22,20:44,N,VIIRS,2023,2,8,48h,Sirikonda,Adilabad,50
+19.34876,78.65134,2023-02-22,20:44,N,VIIRS,2023,2,8,7d,Sirikonda,Adilabad,50
 19.34895,78.72497,2023-02-21,7:39,1,VIIRS,2023,2,8,24h,Utnur,Adilabad,50
 19.34895,78.72497,2023-02-21,7:39,1,VIIRS,2023,2,8,48h,Utnur,Adilabad,50
 19.34895,78.72497,2023-02-21,7:39,1,VIIRS,2023,2,8,7d,Utnur,Adilabad,50
 19.35006,78.71809,2023-02-21,8:32,N,VIIRS,2023,2,8,24h,Utnur,Adilabad,50
 19.35006,78.71809,2023-02-21,8:32,N,VIIRS,2023,2,8,48h,Utnur,Adilabad,50
 19.35006,78.71809,2023-02-21,8:32,N,VIIRS,2023,2,8,7d,Utnur,Adilabad,50
+19.35065,78.64104,2023-02-22,20:44,N,VIIRS,2023,2,8,24h,Sirikonda,Adilabad,50
+19.35065,78.64104,2023-02-22,20:44,N,VIIRS,2023,2,8,48h,Sirikonda,Adilabad,50
+19.35065,78.64104,2023-02-22,20:44,N,VIIRS,2023,2,8,7d,Sirikonda,Adilabad,50
 19.35097,79.01334,2023-02-21,8:32,N,VIIRS,2023,2,8,24h,Sirpur_U,Kumurambheem Asifabad,50
 19.35097,79.01334,2023-02-21,8:32,N,VIIRS,2023,2,8,48h,Sirpur_U,Kumurambheem Asifabad,50
 19.35097,79.01334,2023-02-21,8:32,N,VIIRS,2023,2,8,7d,Sirpur_U,Kumurambheem Asifabad,50
+19.35176,78.65166,2023-02-22,19:53,1,VIIRS,2023,2,8,24h,Sirikonda,Adilabad,50
+19.35176,78.65166,2023-02-22,19:53,1,VIIRS,2023,2,8,48h,Sirikonda,Adilabad,50
+19.35176,78.65166,2023-02-22,19:53,1,VIIRS,2023,2,8,7d,Sirikonda,Adilabad,50
 19.35284,78.63452,2023-02-15,20:23,1,VIIRS,2023,2,7,7d,Sirikonda,Adilabad,50
+19.35299,78.64067,2023-02-22,19:53,1,VIIRS,2023,2,8,24h,Sirikonda,Adilabad,50
+19.35299,78.64067,2023-02-22,19:53,1,VIIRS,2023,2,8,48h,Sirikonda,Adilabad,50
+19.35299,78.64067,2023-02-22,19:53,1,VIIRS,2023,2,8,7d,Sirikonda,Adilabad,50
+19.35452,78.64183,2023-02-22,20:44,N,VIIRS,2023,2,8,24h,Sirikonda,Adilabad,50
+19.35452,78.64183,2023-02-22,20:44,N,VIIRS,2023,2,8,48h,Sirikonda,Adilabad,50
+19.35452,78.64183,2023-02-22,20:44,N,VIIRS,2023,2,8,7d,Sirikonda,Adilabad,50
 19.35496,78.71746,2023-02-21,8:32,N,VIIRS,2023,2,8,24h,Utnur,Adilabad,50
 19.35496,78.71746,2023-02-21,8:32,N,VIIRS,2023,2,8,48h,Utnur,Adilabad,50
 19.35496,78.71746,2023-02-21,8:32,N,VIIRS,2023,2,8,7d,Utnur,Adilabad,50
@@ -3743,47 +4571,101 @@ latitude,longitude,acq_date,acq_time,satellite,instrument,year,month,week,durati
 19.36078,78.68103,2023-02-16,20:55,N,VIIRS,2023,2,7,7d,Sirikonda,Adilabad,50
 19.3618,78.67973,2023-02-16,20:04,1,VIIRS,2023,2,7,7d,Sirikonda,Adilabad,50
 19.36689,78.67421,2023-02-15,20:23,1,VIIRS,2023,2,7,7d,Sirikonda,Adilabad,50
+19.36909,78.64997,2023-02-22,20:44,N,VIIRS,2023,2,8,24h,Sirikonda,Adilabad,50
+19.36909,78.64997,2023-02-22,20:44,N,VIIRS,2023,2,8,48h,Sirikonda,Adilabad,50
+19.36909,78.64997,2023-02-22,20:44,N,VIIRS,2023,2,8,7d,Sirikonda,Adilabad,50
+19.37149,78.64904,2023-02-22,19:53,1,VIIRS,2023,2,8,24h,Sirikonda,Adilabad,50
+19.37149,78.64904,2023-02-22,19:53,1,VIIRS,2023,2,8,48h,Sirikonda,Adilabad,50
+19.37149,78.64904,2023-02-22,19:53,1,VIIRS,2023,2,8,7d,Sirikonda,Adilabad,50
 19.37214,78.69184,2023-02-16,20:04,1,VIIRS,2023,2,7,7d,Utnur,Adilabad,50
 19.37748,78.6703,2023-02-21,20:10,1,VIIRS,2023,2,8,24h,Sirikonda,Adilabad,50
 19.37748,78.6703,2023-02-21,20:10,1,VIIRS,2023,2,8,48h,Sirikonda,Adilabad,50
 19.37748,78.6703,2023-02-21,20:10,1,VIIRS,2023,2,8,7d,Sirikonda,Adilabad,50
+19.37825,78.21008,2023-02-22,20:44,N,VIIRS,2023,2,8,24h,Boath,Adilabad,50
+19.37825,78.21008,2023-02-22,20:44,N,VIIRS,2023,2,8,48h,Boath,Adilabad,50
+19.37825,78.21008,2023-02-22,20:44,N,VIIRS,2023,2,8,7d,Boath,Adilabad,50
 19.37969,79.18755,2023-02-16,7:35,1,VIIRS,2023,2,7,7d,Kerameri,Kumurambheem Asifabad,100
 19.37986,79.08608,2023-02-15,20:23,1,VIIRS,2023,2,7,7d,Kerameri,Kumurambheem Asifabad,50
 19.38011,78.66929,2023-02-21,20:10,1,VIIRS,2023,2,8,24h,Sirikonda,Adilabad,50
 19.38011,78.66929,2023-02-21,20:10,1,VIIRS,2023,2,8,48h,Sirikonda,Adilabad,50
 19.38011,78.66929,2023-02-21,20:10,1,VIIRS,2023,2,8,7d,Sirikonda,Adilabad,50
+19.38058,78.20932,2023-02-22,19:53,1,VIIRS,2023,2,8,24h,Boath,Adilabad,50
+19.38058,78.20932,2023-02-22,19:53,1,VIIRS,2023,2,8,48h,Boath,Adilabad,50
+19.38058,78.20932,2023-02-22,19:53,1,VIIRS,2023,2,8,7d,Boath,Adilabad,50
 19.38074,78.18288,2023-02-17,20:38,N,VIIRS,2023,2,7,7d,Boath,Adilabad,50
 19.38082,78.18213,2023-02-17,20:38,N,VIIRS,2023,2,7,7d,Boath,Adilabad,50
 19.38105,79.17394,2023-02-15,7:52,1,VIIRS,2023,2,7,7d,Kerameri,Kumurambheem Asifabad,50
+19.38114,78.21565,2023-02-22,20:44,N,VIIRS,2023,2,8,24h,Boath,Adilabad,50
+19.38114,78.21565,2023-02-22,20:44,N,VIIRS,2023,2,8,48h,Boath,Adilabad,50
+19.38114,78.21565,2023-02-22,20:44,N,VIIRS,2023,2,8,7d,Boath,Adilabad,50
 19.38118,79.18364,2023-02-15,20:23,1,VIIRS,2023,2,7,7d,Kerameri,Kumurambheem Asifabad,50
 19.3824,79.1839,2023-02-15,19:34,N,VIIRS,2023,2,7,7d,Kerameri,Kumurambheem Asifabad,50
+19.38322,78.21421,2023-02-22,19:53,1,VIIRS,2023,2,8,24h,Boath,Adilabad,50
+19.38322,78.21421,2023-02-22,19:53,1,VIIRS,2023,2,8,48h,Boath,Adilabad,50
+19.38322,78.21421,2023-02-22,19:53,1,VIIRS,2023,2,8,7d,Boath,Adilabad,50
+19.38322,79.11073,2023-02-22,19:53,1,VIIRS,2023,2,8,24h,Kerameri,Kumurambheem Asifabad,50
+19.38322,79.11073,2023-02-22,19:53,1,VIIRS,2023,2,8,48h,Kerameri,Kumurambheem Asifabad,50
+19.38322,79.11073,2023-02-22,19:53,1,VIIRS,2023,2,8,7d,Kerameri,Kumurambheem Asifabad,50
 19.38353,79.16901,2023-02-15,20:23,1,VIIRS,2023,2,7,7d,Kerameri,Kumurambheem Asifabad,50
 19.38389,79.18786,2023-02-15,20:23,1,VIIRS,2023,2,7,7d,Asifabad,Kumurambheem Asifabad,50
+19.38406,78.20909,2023-02-22,8:13,N,VIIRS,2023,2,8,24h,Boath,Adilabad,50
+19.38406,78.20909,2023-02-22,8:13,N,VIIRS,2023,2,8,48h,Boath,Adilabad,50
+19.38406,78.20909,2023-02-22,8:13,N,VIIRS,2023,2,8,7d,Boath,Adilabad,50
 19.38448,79.17125,2023-02-16,8:26,N,VIIRS,2023,2,7,7d,Kerameri,Kumurambheem Asifabad,50
 19.38469,79.2114,2023-02-21,7:39,1,VIIRS,2023,2,8,24h,Asifabad,Kumurambheem Asifabad,50
 19.38469,79.2114,2023-02-21,7:39,1,VIIRS,2023,2,8,48h,Asifabad,Kumurambheem Asifabad,50
 19.38469,79.2114,2023-02-21,7:39,1,VIIRS,2023,2,8,7d,Asifabad,Kumurambheem Asifabad,50
+19.3876,78.20177,2023-02-22,20:44,N,VIIRS,2023,2,8,24h,Boath,Adilabad,50
+19.3876,78.20177,2023-02-22,20:44,N,VIIRS,2023,2,8,48h,Boath,Adilabad,50
+19.3876,78.20177,2023-02-22,20:44,N,VIIRS,2023,2,8,7d,Boath,Adilabad,50
 19.38777,79.18478,2023-02-15,20:23,1,VIIRS,2023,2,7,7d,Asifabad,Kumurambheem Asifabad,50
 19.39102,78.72437,2023-02-21,7:39,1,VIIRS,2023,2,8,24h,Utnur,Adilabad,50
 19.39102,78.72437,2023-02-21,7:39,1,VIIRS,2023,2,8,48h,Utnur,Adilabad,50
 19.39102,78.72437,2023-02-21,7:39,1,VIIRS,2023,2,8,7d,Utnur,Adilabad,50
 19.39689,79.15051,2023-02-17,20:38,N,VIIRS,2023,2,7,7d,Kerameri,Kumurambheem Asifabad,50
 19.39771,79.14586,2023-02-17,20:38,N,VIIRS,2023,2,7,7d,Kerameri,Kumurambheem Asifabad,50
+19.39877,78.19033,2023-02-22,8:13,N,VIIRS,2023,2,8,24h,Boath,Adilabad,50
+19.39877,78.19033,2023-02-22,8:13,N,VIIRS,2023,2,8,48h,Boath,Adilabad,50
+19.39877,78.19033,2023-02-22,8:13,N,VIIRS,2023,2,8,7d,Boath,Adilabad,50
+19.39948,78.18954,2023-02-22,8:13,N,VIIRS,2023,2,8,24h,Boath,Adilabad,100
+19.39948,78.18954,2023-02-22,8:13,N,VIIRS,2023,2,8,48h,Boath,Adilabad,100
+19.39948,78.18954,2023-02-22,8:13,N,VIIRS,2023,2,8,7d,Boath,Adilabad,100
 19.40776,79.54087,2023-02-15,7:52,1,VIIRS,2023,2,7,7d,Kagaznagar,Kumurambheem Asifabad,50
+19.42848,78.95757,2023-02-22,7:22,1,VIIRS,2023,2,8,24h,Jainoor,Kumurambheem Asifabad,50
+19.42848,78.95757,2023-02-22,7:22,1,VIIRS,2023,2,8,48h,Jainoor,Kumurambheem Asifabad,50
+19.42848,78.95757,2023-02-22,7:22,1,VIIRS,2023,2,8,7d,Jainoor,Kumurambheem Asifabad,50
 19.446,79.20657,2023-02-20,7:58,1,VIIRS,2023,2,8,48h,Kerameri,Kumurambheem Asifabad,50
 19.446,79.20657,2023-02-20,7:58,1,VIIRS,2023,2,8,7d,Kerameri,Kumurambheem Asifabad,50
 19.44654,79.21021,2023-02-20,7:58,1,VIIRS,2023,2,8,48h,Asifabad,Kumurambheem Asifabad,50
 19.44654,79.21021,2023-02-20,7:58,1,VIIRS,2023,2,8,7d,Asifabad,Kumurambheem Asifabad,50
+19.49398,79.14822,2023-02-22,7:22,1,VIIRS,2023,2,8,24h,Kerameri,Kumurambheem Asifabad,50
+19.49398,79.14822,2023-02-22,7:22,1,VIIRS,2023,2,8,48h,Kerameri,Kumurambheem Asifabad,50
+19.49398,79.14822,2023-02-22,7:22,1,VIIRS,2023,2,8,7d,Kerameri,Kumurambheem Asifabad,50
 19.49686,79.24809,2023-02-21,20:10,1,VIIRS,2023,2,8,24h,Wankidi,Kumurambheem Asifabad,50
 19.49686,79.24809,2023-02-21,20:10,1,VIIRS,2023,2,8,48h,Wankidi,Kumurambheem Asifabad,50
 19.49686,79.24809,2023-02-21,20:10,1,VIIRS,2023,2,8,7d,Wankidi,Kumurambheem Asifabad,50
+19.49986,79.14417,2023-02-22,20:44,N,VIIRS,2023,2,8,24h,Kerameri,Kumurambheem Asifabad,50
+19.49986,79.14417,2023-02-22,20:44,N,VIIRS,2023,2,8,48h,Kerameri,Kumurambheem Asifabad,50
+19.49986,79.14417,2023-02-22,20:44,N,VIIRS,2023,2,8,7d,Kerameri,Kumurambheem Asifabad,50
 19.50466,79.24167,2023-02-16,8:13,A,MODIS,2023,2,7,7d,Wankidi,Kumurambheem Asifabad,65
 19.51099,79.24416,2023-02-15,20:23,1,VIIRS,2023,2,7,7d,Wankidi,Kumurambheem Asifabad,50
 19.51157,79.24053,2023-02-15,20:23,1,VIIRS,2023,2,7,7d,Wankidi,Kumurambheem Asifabad,50
 19.51299,79.37973,2023-02-15,20:23,1,VIIRS,2023,2,7,7d,Wankidi,Kumurambheem Asifabad,50
 19.5147,79.23843,2023-02-16,20:55,N,VIIRS,2023,2,7,7d,Wankidi,Kumurambheem Asifabad,50
+19.51665,79.25888,2023-02-22,7:22,1,VIIRS,2023,2,8,24h,Wankidi,Kumurambheem Asifabad,50
+19.51665,79.25888,2023-02-22,7:22,1,VIIRS,2023,2,8,48h,Wankidi,Kumurambheem Asifabad,50
+19.51665,79.25888,2023-02-22,7:22,1,VIIRS,2023,2,8,7d,Wankidi,Kumurambheem Asifabad,50
+19.51837,79.10115,2023-02-22,8:13,N,VIIRS,2023,2,8,24h,Kerameri,Kumurambheem Asifabad,50
+19.51837,79.10115,2023-02-22,8:13,N,VIIRS,2023,2,8,48h,Kerameri,Kumurambheem Asifabad,50
+19.51837,79.10115,2023-02-22,8:13,N,VIIRS,2023,2,8,7d,Kerameri,Kumurambheem Asifabad,50
 19.5406,79.25317,2023-02-17,8:07,N,VIIRS,2023,2,7,7d,Wankidi,Kumurambheem Asifabad,50
 19.54946,78.75695,2023-02-19,8:17,1,VIIRS,2023,2,7,7d,Inderavelly,Adilabad,50
+19.56346,79.24429,2023-02-22,19:53,1,VIIRS,2023,2,8,24h,Wankidi,Kumurambheem Asifabad,50
+19.56346,79.24429,2023-02-22,19:53,1,VIIRS,2023,2,8,48h,Wankidi,Kumurambheem Asifabad,50
+19.56346,79.24429,2023-02-22,19:53,1,VIIRS,2023,2,8,7d,Wankidi,Kumurambheem Asifabad,50
+19.5638,78.65324,2023-02-22,8:13,N,VIIRS,2023,2,8,24h,Adilabad Rural,Adilabad,50
+19.5638,78.65324,2023-02-22,8:13,N,VIIRS,2023,2,8,48h,Adilabad Rural,Adilabad,50
+19.5638,78.65324,2023-02-22,8:13,N,VIIRS,2023,2,8,7d,Adilabad Rural,Adilabad,50
 19.57394,79.32249,2023-02-16,20:04,1,VIIRS,2023,2,7,7d,Wankidi,Kumurambheem Asifabad,50
 19.57476,79.31978,2023-02-16,20:04,1,VIIRS,2023,2,7,7d,Wankidi,Kumurambheem Asifabad,50
 19.5789,78.58927,2023-02-21,21:01,N,VIIRS,2023,2,8,24h,Adilabad Rural,Adilabad,50
@@ -3802,5 +4684,8 @@ latitude,longitude,acq_date,acq_time,satellite,instrument,year,month,week,durati
 19.64426,78.3782,2023-02-16,8:26,N,VIIRS,2023,2,7,7d,Talamadugu,Adilabad,50
 19.64494,78.82535,2023-02-20,8:49,N,VIIRS,2023,2,8,48h,Gadiguda,Adilabad,50
 19.64494,78.82535,2023-02-20,8:49,N,VIIRS,2023,2,8,7d,Gadiguda,Adilabad,50
+19.65349,78.30093,2023-02-22,20:44,N,VIIRS,2023,2,8,24h,Talamadugu,Adilabad,50
+19.65349,78.30093,2023-02-22,20:44,N,VIIRS,2023,2,8,48h,Talamadugu,Adilabad,50
+19.65349,78.30093,2023-02-22,20:44,N,VIIRS,2023,2,8,7d,Talamadugu,Adilabad,50
 19.70467,78.47414,2023-02-19,7:30,N,VIIRS,2023,2,7,7d,Tamsi,Adilabad,50
 19.74575,78.52003,2023-02-16,8:26,N,VIIRS,2023,2,7,7d,Jainad,Adilabad,50
